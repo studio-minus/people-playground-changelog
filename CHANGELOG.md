@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.1.0] - July 20 2019
+## [1.1.0] - July 19 2019
 ### Added
 - Added buoyancy physics
 - Added a water map
