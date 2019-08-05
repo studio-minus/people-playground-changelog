@@ -1,5 +1,41 @@
 # Changelog
 
+## [1.2.0] - August 5 2019
+
+### Added
+ - Added Steam Workshop support
+ - Added the ability to delete contraptions
+ - Added the Beam Rifle
+ - Added a giant hovering fan
+ - Added mini thruster
+ - Added hammer
+ - Syringes now also shatter when near an explosion
+ - The ability for ragdolls to hold weapons and such:
+    - Activate the lower arm of a ragdoll to make it pick up the nearest holdable object
+    - Some objects have multiple points to grip
+### Changed
+- Increased drowning time to 120 seconds
+- Increased base strength of the electromagnet
+- Increased minigun recoil
+- Improved look of sentry turret laser
+- Made ragdoll arms a little weaker
+- Improved save thumbnail rendering
+### Fixed
+ - Fixed thruster sound bug
+ - Fixed water splash hitbox on *Sea*
+ - Revolvers no longer eject shells
+ - Fixed not being able to move using keys in paused mode
+ - Fixed the revolver ignoring water drag
+ - Fixed *no collision* not properly keeping its state after serialisation
+ - Fixed joints not keeping their distance occasionally after loading / pasting 
+ - Fixed issues with control rebinding in the pause menu
+ - Fixed bug to do with water splashes and firearms
+### Removed
+ - Ragdolls no longer ignite when activated
+ - Removed shockwave warping
+ - Removed random factor in propagation wire delay
+ - Removed ambient sounds
+
 ## [1.1.3] - July 27 2019
 
 ### Added
