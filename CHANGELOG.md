@@ -1,5 +1,39 @@
 # Changelog
 
+## [1.2.1] - August 14 2019
+
+### Added
+ - Added a series of detectors to allow for autonomous contraptions
+ - Added device that transforms an electrical signal into an activation trigger
+ - Added a floodlight
+ - Added a wheel
+ - Added a basic spike
+ - Added a fire extinguisher
+ - Maps with ceilings now have large floodlights
+ - Added object-specific options to the context menu
+    - Reverse any vehicle
+    - Repair or break any vehicle
+    - Toggle parking brakes on vehicles
+    - Break or mend bones
+    - Change the texture of randomly-textured objects
+### Changed
+ - Increased size of thumbnails to 512x512
+ - Improved look of laser pointer beams
+ - Clamped strength of fan blades
+ - Improved rendering performance
+ - Improved physics performance
+ - Improved fire propagation performance
+ - Barrels now render burnmarks
+### Fixed
+ - Contraptions with a full stop in their name couldn't be uploaded to the workshop 
+ - Fixed incorrect human description
+ - Fixed tank shell saving bug
+ - Fixed a problem with human legs being too weak
+### Removed
+ - Grenade is no longer armed when spawned
+ - Barrels no longer deform
+ - Removed arrow on motorised wheel since every wheel is now reversable
+
 ## [1.2.0] - August 5 2019
 
 ### Added
