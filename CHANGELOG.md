@@ -10,6 +10,7 @@
  - Added a basic spike
  - Added a fire extinguisher
  - Maps with ceilings now have large floodlights
+ - Human skeletons now light up when electrified
  - Added object-specific options to the context menu
     - Reverse any vehicle
     - Repair or break any vehicle
