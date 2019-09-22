@@ -1,5 +1,49 @@
 # Changelog
 
+## [1.2.2] - September ?? 2019
+
+### Added
+ - Added tips when you open a map
+ - Added a message for users who are experiencing low fps that encourages them to switch to discrete mode
+ - Added map wide reverb, this makes guns sound much cooler
+ - Added a piston item
+ - Added a tonne weight
+ - Added the Worm Staff
+ - Added a television
+ - Added a slow motion speed slider in the settings
+ - Added little indicator in the _zoom scroll wheel sensitivity_ setting so you can see what you've actually set it to
+ - Added the ability to reverse the polarity of the electromagnet
+ - Added Lightning tool
+    - Hold and swipe across the screen to indicate direction and fire a lightning bolt
+### Changed
+ - Redid blood decal sprites
+ - Redid blood particles
+ - Made menu a little clearer
+ - The first shot of an automatic weapon is now a little louder
+ - Nerfed androids
+ - Androids now bleed oil
+ - Ultra strength syringe now slightly charges the body
+ - Rewrote ragdoll behaviour 
+ **THIS BREAKS ALL HUMANS/ANDROIDS IN ANY CONTRAPTION SAVED IN OLDER VERSIONS**
+    - Improved performance
+    - Improved stability
+    - Better active ragdoll posing / animation system
+    - Rewrote circulatory system
+        - Humans now have a finite amount of blood, any bleeding wound can be lethal
+        - Blood pressure is based on how much blood is left in the system and if the heart is functional. Low blood pressure causes a person to become weak and eventually die
+    - Fixed many bugs associated with human behaviour
+    - Force poses
+ - Improved _discrete_ mode
+    - Be sure to change your game to _discrete_ for greater performance, especially when you enjoy having way too many objects on screen
+ - Updated to Unity 2019
+### Fixed
+ - Spike not being detected by metal detector
+ - Many bugs relevant to humans and androids
+ - Fixed exit wound location bug
+### Removed
+ - Removed short tutorials
+ - Tesla coil no longer breaks
+
 ## [1.2.1] - August 14 2019
 
 ### Added
