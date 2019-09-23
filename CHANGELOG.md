@@ -1,6 +1,32 @@
 # Changelog
 
-## [1.2.2] - September ?? 2019
+## [1.2.2.2] - September 23 2019
+
+### Patch notes
+Last update had a few issues following the rewrite, this is a quick patch.
+
+ - Humans are now more sensitive to impact damage
+ - Limbs now no longer function when their skin is damaged enough
+ - Androids don't drown anymore
+ - Severe head wounds are no longer survivable
+ - Humans have their randomised sizes back
+ - Humans once again panic when drowning
+ - Arms are no longer super strong so you can move them manually again
+ - Fixed sharp items phasing through the universe
+    - If you still encounter this bug, please report it to me.
+ - Fixed bug where joint limits would be always enabled when flipped
+ - Humanoids no longer have a 0.1% chance of fainting when bleeding
+ - Humanoids now take twice as long to bleed out
+ - Humans slowly drop to the floor in case of intense blood loss instead of just dying abruptly
+ - Acid hurts again
+ - Fixed bug where humanoids would stumble backward indefinitely
+ - Fixed bone breaking sound being repeated a little too often
+ - Lowered cooldown time for the lightning tool from 500ms to 100ms
+    - Changed the cooldown time to be independent of slow motion
+ - Fixed humanoids hovering after pasting/loading them in
+ - Fixed other minor bugs
+
+## [1.2.2] - September 22 2019
 
 ### Added
  - Added tips when you open a map
