@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.2.3] - ?? 2019
+## [1.2.3] - September 29 2019
 
 ### Added
 - AK-47
