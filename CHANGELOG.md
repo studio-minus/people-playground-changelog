@@ -1,5 +1,55 @@
 # Changelog
 
+## [1.2.3] - ?? 2019
+
+### Added
+- AK-47
+- Bus
+- Bus chair
+- Laser pointer
+- Knockout syringe
+- Metronome
+   - This item is basically a clock. It sends an activation signal every second (unless modified)
+- An industrial size piston
+- The lightning tool will now charge anything even when no lightning bolt is fired
+- Sit pose
+### Changed
+- The truck's container is now fully transparent
+- Simplified animation names
+- Worm Staff worms are a little more floppy
+- Piston heads are no longer conductive
+- Television is heavier
+- Thinner fixed cables
+- The android no longer appears before the human in the menu
+- Increased clarity of tool tooltips
+- Text renders a little better now
+- Lowered water flaying intensity
+- Humans are a little more durable, but they are also more susceptible to falling unconscious
+- Androids are no longer as weak
+- Androids spark underwater
+- Androids no longer make organic noises when their bones break or when their limbs detach
+- The lightning tool should be easier to use
+- Changed television noise to an actual test card
+- Increased drown death time from 2m to 4m
+- Drastically improved performance of wires and cables
+- Certain context menu options are now hidden unless useful
+- Darkened toybox panel
+### Fixed
+- Frozen ragdolls will no longer attempt to stay upright
+- Wrenches will now repair androids more effectively
+- Sometimes, humans would be considered alive even when they are obviously not
+   - Alive status is now based on the condition of the _Head_ limb.
+- Limbs will now lose blood when the skin is burnt off
+- Androids are no longer immune to blood decals
+- Clamped muscle strength
+- Fixed human head texture having a thin white line appearing sometimes
+- A lightning bolt will no longer remain on screen after switching between tools during use
+- _Rebind keys_ button is a bit larger and darker to make it stand out
+### Removed
+- Sentry Turret no longer emits electricity upon targeting
+- Deafening audio volumes
+   - There is a setting to turn it back on if you enjoyed it as much as I did
+
 ## [1.2.2.2] - September 23 2019
 
 ### Patch notes
@@ -12,7 +62,7 @@ Last update had a few issues following the rewrite, this is a quick patch.
  - Humans have their randomised sizes back
  - Humans once again panic when drowning
  - Arms are no longer super strong so you can move them manually again
- - Fixed sharp items phasing through the universe
+ - Fixed sharp items phasing through the universe after stabbing humans
     - If you still encounter this bug, please report it to me.
  - Fixed bug where joint limits would be always enabled when flipped
  - Humanoids no longer have a 0.1% chance of fainting when bleeding
