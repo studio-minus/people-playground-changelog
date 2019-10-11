@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.2.4] - October 11 2019
+### Added
+   - Pumpkin
+   - Scherbewerfer
+   - Mirror
+### Changed
+- Freezing outlines now disappear after a second
+- Crossbow finally has knockback
+- Bleeding wounds now heal automatically
+   - This also means the lethality of wounds is now based on how deep it is. Syringe wounds heal quicky, while a spear through the stomach won't heal at all.
+- Sharp objects can now penetrate multiple objects 
+   - **This breaks any lodged objects in saves from older versions**
+ - Improved performance of particles
+ - Held objects are now nearly weightless
+ - Updated to Unity 2019.2.8f1
+### Fixed
+ - Fixed cables should be more stable now
+ - Floodlight-light appearing incorrectly underwater
+ - Fixed a bug where sharp objects would get stuck in other objects
+ - Truck thumbnail
+ - A few items refused to interact with water (thank you, hugopolis)
+ - Non-existent objects can no longer be undone after clearing the room
+ - You can no longer get semi-stuck in the wall when moving the camera using the keyboard
+ - Set contraption name character limit to 64
+ - Sharp object phasing through universe
+   - Hard to reproduce, I think it's fixed now (again)
+ - Minor bugfixes
+
 ## [1.2.3] - September 29 2019
 
 ### Added
