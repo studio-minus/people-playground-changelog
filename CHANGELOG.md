@@ -3,8 +3,10 @@
 ## [1.2.4] - October 11 2019
 ### Added
    - Pumpkin
-   - Scherbewerfer
+   - Scherbenwerfer
+   - Electricity Transformer
    - Mirror
+   - The ability to toggle weightlessness on objects
 ### Changed
 - Freezing outlines now disappear after a second
 - Crossbow finally has knockback
@@ -13,9 +15,13 @@
 - Sharp objects can now penetrate multiple objects 
    - **This breaks any lodged objects in saves from older versions**
  - Improved performance of particles
- - Held objects are now nearly weightless
  - Updated to Unity 2019.2.8f1
+ - Made androids a bit less powerful (their strength was ungodly)
+ - Syringes are now grippable
 ### Fixed
+ - Fixed upper arms locking after life syringe
+ - Fixed human heads being ever so slightly offset
+ - Fixed decals occasionally rendering on top when they shouldn't
  - Fixed cables should be more stable now
  - Floodlight-light appearing incorrectly underwater
  - Fixed a bug where sharp objects would get stuck in other objects
