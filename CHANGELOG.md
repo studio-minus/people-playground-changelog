@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.2.5] - October ?? 2019
+### Added
+   - Glock 17
+   - Desert Eagle
+   - PPSH
+   - M1 Garand
+   - Vector
+   - Stielhandgranate
+   - Disassembler gun
+   - Decimator
+   - Total limb crushing (toggleable in settings)
+   - Physics iterations slider in the settings menu. Higher values for a more accurate simulation. Lower values for a better framerate.
+   - Adrenaline
+      - Humans will get a slight increase in strength and consciousness in response to intense pain
+### Changed
+   - Smoothed out the slanted map
+   - Crystal sprite
+   - Scherbenwerfer sprite
+   - Humans bleed out 1.5x as fast
+   - Humans and androids can now hold objects with both hands
+   - Objects held by humans and androids will now drop on death (of the arm)
+### Fixed
+   - Fixed the slanted map devouring sharp objects
+   - Animation override is now correctly preserved
+   - Minor ragdoll problems
+
 ## [1.2.4] - October 11 2019
 ### Added
    - Pumpkin
