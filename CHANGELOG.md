@@ -18,12 +18,17 @@
    - Smoothed out the slanted map
    - Crystal sprite
    - Scherbenwerfer sprite
+   - You can now hold wrenches
    - Humans bleed out 1.5x as fast
    - Humans and androids can now hold objects with both hands
    - Objects held by humans and androids will now drop on death (of the arm)
+      - This also means objects will immediately be dropped when you attempt to pick something up with an incapable arm
+   - Firearm performance improvements
+   - Increased head joint strength
 ### Fixed
    - Fixed the slanted map devouring sharp objects
-   - Animation override is now correctly preserved
+   - Animation override is now correctly preserved when saving/loading
+   - Zombies will no longer remain cowered forever
    - Minor ragdoll problems
 
 ## [1.2.4] - October 11 2019
