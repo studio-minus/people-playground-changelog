@@ -14,7 +14,12 @@
    - Physics iterations slider in the settings menu. Higher values for a more accurate simulation. Lower values for a better framerate.
    - Adrenaline
       - Humans will get a slight increase in strength and consciousness in response to intense pain
+   - Changed default jukebox texture
+   - Added a new texture to the jukebox
+   - Added jukebox context menu options
 ### Changed
+   - Updated sniper rifle sound
+   - Improved bruise look
    - Smoothed out the slanted map
    - Crystal sprite
    - Scherbenwerfer sprite
@@ -25,11 +30,13 @@
       - This also means objects will immediately be dropped when you attempt to pick something up with an incapable arm
    - Firearm performance improvements
    - Increased head joint strength
+   - A little extra logging info
 ### Fixed
    - Fixed the slanted map devouring sharp objects
    - Animation override is now correctly preserved when saving/loading
    - Zombies will no longer remain cowered forever
-   - Minor ragdoll problems
+   - Fixed minor ragdoll problems
+   - Fixed incorrect jukebox thumbnail
 
 ## [1.2.4] - October 11 2019
 ### Added
