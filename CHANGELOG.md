@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.2.5] - October ?? 2019
+## [1.2.5] - October 27 2019
 ### Added
    - Glock 17
    - Desert Eagle
