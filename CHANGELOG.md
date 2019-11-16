@@ -1,5 +1,36 @@
 # Changelog
 
+## [1.2.6] - November ?? 2019
+### Added
+   - Lagbox
+   - Cathode light
+   - Laser sentry turret
+   - Limb status view
+   - Limb crush sensitivity setting
+   - F1 opens control screen
+   - Limb status (toggle with _S_ by default)
+   - Detailed inspection of limbs (right click a limb, select _Inspect_)
+      - Attempts to combine all information of selected limbs (from different people as well) and display useful information regarding all of them.
+### Changed
+   - Humans don't paint the floor with blood when they're drained
+   - Firearm damage is now affected by distance
+   - Firearms are more powerful at point blank range
+   - Increased global bullet speed
+   - Halved firearm impact force
+   - Decreased bullet speed and damage of the M1
+   - Clamped impact particle sizes
+   - Slight blue tint
+### Fixed
+   - Major firearm ballistics model bugs (especially exit wounds registration)
+   - Minor crushed limb bugs
+   - Dismembered limbs reacting to fire
+   - Damaged androids not sparking anymore after 1.2.2
+   - A few spelling errors
+   - Scherbenwerfer launching point
+   - Zombie issues
+### Removed
+   - UI scale setting (it now resets to 100%)
+
 ## [1.2.5] - October 27 2019
 ### Added
    - Glock 17
