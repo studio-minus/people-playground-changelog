@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.2.6] - November ?? 2019
+## [1.2.6] - November 17 2019
 ### Added
    - Lagbox
    - Cathode light
@@ -11,7 +11,9 @@
    - Limb status (toggle with _S_ by default)
    - Detailed inspection of limbs (right click a limb, select _Inspect_)
       - Attempts to combine all information of selected limbs (from different people as well) and display useful information regarding all of them.
+   - Some more ambience
 ### Changed
+   - Tank fire sound
    - Humans don't paint the floor with blood when they're drained
    - Firearm damage is now affected by distance
    - Firearms are more powerful at point blank range
@@ -20,6 +22,7 @@
    - Decreased bullet speed and damage of the M1
    - Clamped impact particle sizes
    - Slight blue tint
+   - Increased health of certain limbs
 ### Fixed
    - Major firearm ballistics model bugs (especially exit wounds registration)
    - Minor crushed limb bugs
@@ -28,6 +31,8 @@
    - A few spelling errors
    - Scherbenwerfer launching point
    - Zombie issues
+   - Fixed a bug to do with deleting an object while having the context menu open
+   - Fixed an activation propagation problem
 ### Removed
    - UI scale setting (it now resets to 100%)
 
