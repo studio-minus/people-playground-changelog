@@ -3,11 +3,12 @@
 ## [1.2.6] - November 17 2019
 ### Added
    - Lagbox
-   - Cathode light
+   - Cathode lights
    - Laser sentry turret
    - Limb status view
    - Limb crush sensitivity setting
    - F1 opens control screen
+   - Added an option for detectors to only trigger on detection, instead of triggering on undetection as well
    - Limb status (toggle with _S_ by default)
    - Detailed inspection of limbs (right click a limb, select _Inspect_)
       - Attempts to combine all information of selected limbs (from different people as well) and display useful information regarding all of them.
