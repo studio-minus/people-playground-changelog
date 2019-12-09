@@ -1,5 +1,42 @@
 # Changelog
 
+## [1.2.7] - ??
+### Added
+   - Laser receiver
+   - Silver atom bomb texture alternative
+   - Text display item
+   - General purpose bomb
+   - Added plates
+   - Added a table
+   - And a chair too
+   - Stun weapon
+   - Void map
+   - Blaster bolts now push reflective objects away too
+### Changed
+   - Replaced "pain" meter with an oxygen meter in the inspector
+   - Halved drown time (from 4 to 2 minutes)
+   - Decreased chance of losing consciousness on impact
+   - Halved water impact damage
+   - Abyss thumbnail
+   - Normal handgrenades are now less powerful
+   - Blaster impact
+   - Tank texture
+   - Wooden pole texture
+   - Button texture
+   - Made context menu a little bit smaller
+   - Certain UI colours
+   - Muzzle flash
+   - Generators make less noise
+### Fixed
+   - Drowning
+   - Bugs to do with crushing & decimation
+   - Elimination of tribulation animation synchronisation
+   - Rendering optimisation
+   - General optimisation
+   - Buttons are no longer made of plastic
+   - Laser turret serialisation
+### Removed
+
 ## [1.2.6] - November 17 2019
 ### Added
    - Lagbox
