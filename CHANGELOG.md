@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.2.7] - ??
+## [1.2.7] - December 26 2019
 ### Added
    - Laser receiver
    - Silver atom bomb texture alternative
@@ -10,7 +10,13 @@
    - Added a table
    - And a chair too
    - Stun weapon
+   - Fireworks
+   - Bowling pin
+   - Bowling ball
    - Void map
+   - Snowy map
+   - Flat bit at the top of Slanted
+   - You can double click map thumbnails to load them
    - Blaster bolts now push reflective objects away too
 ### Changed
    - Replaced "pain" meter with an oxygen meter in the inspector
@@ -27,6 +33,7 @@
    - Certain UI colours
    - Muzzle flash
    - Generators make less noise
+   - Humanoids are now always of equal weight, no matter their height
 ### Fixed
    - Drowning
    - Bugs to do with crushing & decimation
@@ -35,7 +42,6 @@
    - General optimisation
    - Buttons are no longer made of plastic
    - Laser turret serialisation
-### Removed
 
 ## [1.2.6] - November 17 2019
 ### Added
