@@ -1,5 +1,46 @@
 # Changelog
 
+## [1.3] - January 30 2020
+### Added
+   - A single extra firework variant
+   - A set of bells ranging from C4 to C5
+   - Structural metal pole thing
+   - Siren
+   - Propagation wire glows when an activation travels through it
+   - Resizing
+      - Right click an object, select resize. Two handles will appear, one for each axis.
+      - Hold shift (or what you have assigned to "rotate faster") to resize in both axes simultaneously.
+### Changed
+   - The majority of all machinery is now destructable and will generally cease all function when destroyed
+   - Behaviour of aerodynamic objects
+   - General Purpose Bomb is now aerodynamic
+   - Atom Bomb is now aerodynamic
+   - Intensity of plate debris rotational force
+   - Cathode lights will now shatter when hit with the Beam Rifle and explosions
+   - Piston textures
+   - Cathode light texture
+   - Car textures
+   - Barrel texture
+   - Lagbox is now gray to indicate its actually made of metal
+   - Desaturated blood
+   - Context menu has a scrollbar
+   - Propagation wire is thinner and looks different
+   - Metronomes no longer burn when energy flows through
+   - Increased maximum double click time for map thumbnails
+   - Versioning will from now on go 1.3 -> 1.4 -> 1.5 and so on
+### Fixed
+   - Infinite fireworks activation
+   - Incorrect cathode light weightlessness effect position 
+   - Incorrect broken plate highlight
+   - Incorrect broken plate spawn position
+   - Giant wooden bowl not looking burnt after being burnt
+   - Weightless gyroscope stabiliser no longer goes haywire
+   - Disassembler muzzle flash is no longer gigantic when weightless
+   - Canceling saving a contraption is no longer broken
+   - You can once again pan while hovering over the toybox panel 
+### Removed
+   - Firearms no longer create a pulse explosion at their muzzle when fired
+
 ## [1.2.7] - December 26 2019
 ### Added
    - Laser receiver
