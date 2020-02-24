@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.3] - Febuary 23 2020
+## [1.3] - Febuary 24 2020
 ### Added
    - A single extra firework variant
    - A set of bells ranging from C4 to C5
