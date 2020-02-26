@@ -1,6 +1,18 @@
 # Changelog
 
-## [1.3] - Febuary 24 2020
+## [1.4] - Febuary 26 2020
+A small update adding a few new items and fixing a number of bugs following 1.3
+### Added
+   - Timed gate
+   - Glass pane
+### Changed
+   - Lagbox texture
+### Fixed
+   - Sentry Turret debris gun is once again functional
+   - Stabbing entry vector miscalculation
+   - Minor firearm bug
+
+## [1.3] - February 24 2020
 ### Added
    - A single extra firework variant
    - A set of bells ranging from C4 to C5
