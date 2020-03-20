@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.5] - March ? 2020
+
+### Added
+   - Immobility Field
+   - Reconstructor
+   - Rigidifier
+   - Wing
+   - Propeller
+   - Balloon
+   - Key Trigger
+   - Blood decals are now created behind exit wounds
+### Changed
+   - Human flesh texture
+   - Gut texture
+   - Minor changes to the fan texture
+   - Changes to explosion effect
+   - Increased sensitivity of motion sensor
+   - Minor tracer colour change
+   - Syringe injections no longer cause wounds
+   - Blood particles and other bloody things
+   - Sentry turret now aims to heaviest limb in view
+   - Revolver (and future weapons with a 38 Special cartridge) is now a little more powerful
+   - Acid spreads slower
+   - Zombies are a little more... stable
+   - Ultra strength syringe no longer generates electricity
+   - Increased bleeding particle rate
+   - Increased bleeding particle normal offset
+   - Syringes now propagate through connected limbs, and their effects linger even when the syringe is removed
+### Fixed
+   - Sharp entry bug
+   - Android no longer has invisible guts
+   - Minor (de)serialisation bugs to do with the expanded gore stuff
+   - Toybox order chaos no longer occurs when Steam isn't running
+   - Lasers and detector beams will now functionally pass through glass
+
 ## [1.4] - Febuary 26 2020
 A small update adding a few new items and fixing a number of bugs following 1.3
 ### Added
