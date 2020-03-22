@@ -10,6 +10,7 @@
    - Propeller
    - Balloon
    - Key Trigger
+   - Industrial Generator (dangerous as hell, I'm not sure if this should actually be in the game)
    - Blood decals are now created behind exit wounds
 ### Changed
    - Human flesh texture
@@ -24,16 +25,22 @@
    - Revolver (and future weapons with a 38 Special cartridge) is now a little more powerful
    - Acid spreads slower
    - Zombies are a little more... stable
-   - Ultra strength syringe no longer generates electricity
    - Increased bleeding particle rate
    - Increased bleeding particle normal offset
-   - Syringes now propagate through connected limbs, and their effects linger even when the syringe is removed
+   - Slight tweaks to aerodynamic calculations
+   - Syringes now propagate through connected limbs, and their effects linger even when the syringe is removed (this changes all syringe behaviour)
+   - Life syringes last for a shorter time 
+   - Ultra strength syringe no longer generates electricity
+   - Ultra strength syringe effect stacks
 ### Fixed
+   - Crystals are no longer attracted to magnets
    - Sharp entry bug
    - Android no longer has invisible guts
+   - Mass is yet again serialised
    - Minor (de)serialisation bugs to do with the expanded gore stuff
    - Toybox order chaos no longer occurs when Steam isn't running
    - Lasers and detector beams will now functionally pass through glass
+   - Bullets will go through syringes
 
 ## [1.4] - Febuary 26 2020
 A small update adding a few new items and fixing a number of bugs following 1.3
