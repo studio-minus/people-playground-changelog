@@ -11,6 +11,8 @@
    - Balloon
    - Key Trigger
    - Industrial Generator (dangerous as hell, I'm not sure if this should actually be in the game)
+   - Red barrels
+   - An unreasonably large map
    - Blood decals are now created behind exit wounds
 ### Changed
    - Human flesh texture
@@ -32,6 +34,9 @@
    - Life syringes last for a shorter time 
    - Ultra strength syringe no longer generates electricity
    - Ultra strength syringe effect stacks
+   - Explosives might set off nearby explosives
+   - Some explosives will now go off when on fire
+   - Limb status view is replaced by "Detail view", which will show more than just limb health
 ### Fixed
    - Crystals are no longer attracted to magnets
    - Sharp entry bug
@@ -41,6 +46,7 @@
    - Toybox order chaos no longer occurs when Steam isn't running
    - Lasers and detector beams will now functionally pass through glass
    - Bullets will go through syringes
+   - Explosives can no longer go off multiple times
 
 ## [1.4] - Febuary 26 2020
 A small update adding a few new items and fixing a number of bugs following 1.3
