@@ -13,6 +13,7 @@
    - Industrial Generator (dangerous as hell, I'm not sure if this should actually be in the game)
    - Red barrels
    - An unreasonably large map
+   - _Detail view_: shows blast radii, limb healh,
    - Blood decals are now created behind exit wounds
 ### Changed
    - Human flesh texture
@@ -36,7 +37,7 @@
    - Ultra strength syringe effect stacks
    - Explosives might set off nearby explosives
    - Some explosives will now go off when on fire
-   - Limb status view is replaced by "Detail view", which will show more than just limb health
+   - Limb status view is replaced by the _Detail view_
 ### Fixed
    - Crystals are no longer attracted to magnets
    - Sharp entry bug
