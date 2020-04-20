@@ -1,6 +1,60 @@
 # Changelog
 
-## [1.5] - March ? 2020
+## [1.6] - April ?? 2020
+
+### Added
+   - ~~Gorse~~ _NOT YET_
+   - Metal wheel
+   - Brick wall
+   - Lightbulb (texture concept design by sv1t)
+   - Activation gate
+   - Activation fuse
+   - Machine blaster
+   - Silver texture for the I-Beam
+   - Steel binding, a destructible metal fixed cable
+   - Toybox filter (search bar)
+   - Blast marks
+   - Information on main menu shows a little more information
+   - The jukebox supports the power of the Industrial Generator
+   - Better rocket launcher effects
+   - Blasters glow
+   - Blasters have recoil
+   - Bullets can now ricochet
+   - Detail view now shows the size of the selection box
+   - ~~Texturepack support~~ _NOT YET, may even be delayed further to ensure stability_
+### Changed
+   - Wooden struts look more like planks now
+   - Limbs can only be crushed by guns when Limb Crushing is enabled
+   - Machine gun texture
+   - Sentry turret now fires a 5.56 round at a lower firerate, instead of a 9mm at a high fire rate
+   - Beam Rifle texture
+   - Blast Radius texture
+   - Humans are a little less soft
+   - Changes to how penetrability is calculated
+   - Android oil is now black
+   - Humans are a little more difficult to dismember
+   - Log files are now created in the menu as well
+   - Improved rendering performance of the immobility forcefield
+   - Redid all default jukebox music
+   - Camera shake behaves more consistent
+   - Explosion sound effects
+   - Wood sound effects
+   - Blaster is more accurate
+   - Machine gun sound
+   - Humans are now more realistically sized
+   - Lord Talon demanded the fire extinguisher be moved into the "Firearms" category
+### Fixed
+   - Pistons will extend properly when resized
+   - Charged particles will correctly appear after deserialisation
+   - Resize handles will now properly encapsulate the selected objects
+   - Bones will break properly when forcefully put in an unnatural position again. For some reason this bug went unnoticed for months.
+   - Battery powered lasers will no longer vaporise bodyparts
+   - Fire extinguisher and other particles will no longer appear under just decals
+   - Resizing weight bug
+   - Line rendering bug that was causing performance problems when using very old contraptions
+### Removed
+
+## [1.5] - March 25 2020
 
 ### Added
    - Immobility Field
@@ -13,7 +67,7 @@
    - Industrial Generator (dangerous as hell, I'm not sure if this should actually be in the game)
    - Red barrels
    - An unreasonably large map
-   - _Detail view_: shows blast radii, limb healh,
+   - _Detail view_: shows blast radii, limb healh, center of mass, and visual center
    - Blood decals are now created behind exit wounds
 ### Changed
    - Human flesh texture
