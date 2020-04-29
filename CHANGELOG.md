@@ -3,7 +3,8 @@
 ## [1.6] - April ?? 2020
 
 ### Added
-   - ~~Gorse~~ _NOT YET_
+   - Added workshop tag support
+   - Gorse
    - Metal wheel
    - Brick wall
    - Lightbulb (texture concept design by sv1t)
@@ -14,14 +15,15 @@
    - Steel binding, a destructible metal fixed cable
    - Toybox filter (search bar)
    - Blast marks
-   - Information on main menu shows a little more information
+   - Information page on main menu shows a little more information
    - The jukebox supports the power of the Industrial Generator
    - Better rocket launcher effects
    - Blasters glow
    - Blasters have recoil
-   - Bullets can now ricochet
+   - Bullets can now ricochet (chance of this happening is based on material hardness and impact angle)
+   - You can now toggle decal rendering (disabling will increase performance especially on lower end systems)
    - Detail view now shows the size of the selection box
-   - ~~Texturepack support~~ _NOT YET, may even be delayed further to ensure stability_
+   - Added a sprite to launched rocket launcher rounds
 ### Changed
    - Wooden struts look more like planks now
    - Limbs can only be crushed by guns when Limb Crushing is enabled
@@ -30,7 +32,7 @@
    - Beam Rifle texture
    - Blast Radius texture
    - Humans are a little less soft
-   - Changes to how penetrability is calculated
+   - Major changes to how bullet penetrability is calculated
    - Android oil is now black
    - Humans are a little more difficult to dismember
    - Log files are now created in the menu as well
@@ -41,6 +43,8 @@
    - Wood sound effects
    - Blaster is more accurate
    - Machine gun sound
+   - Nuclear bomb shockwaves now destroy destroyable objects
+   - Resolution list is now a grid
    - Humans are now more realistically sized
    - Lord Talon demanded the fire extinguisher be moved into the "Firearms" category
 ### Fixed
@@ -51,8 +55,8 @@
    - Battery powered lasers will no longer vaporise bodyparts
    - Fire extinguisher and other particles will no longer appear under just decals
    - Resizing weight bug
+   - Key triggers won't activate when the UI is blocked anymore
    - Line rendering bug that was causing performance problems when using very old contraptions
-### Removed
 
 ## [1.5] - March 25 2020
 
