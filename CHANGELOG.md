@@ -7,6 +7,7 @@
    - Gorse
    - Metal wheel
    - Brick wall
+   - Concrete wall
    - Lightbulb (texture concept design by sv1t)
    - Activation gate
    - Activation fuse
