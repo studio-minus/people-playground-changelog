@@ -12,6 +12,7 @@
    - Activation gate
    - Activation fuse
    - Machine blaster
+   - Missile launcher
    - Silver texture for the I-Beam
    - Steel binding, a destructible metal fixed cable
    - Toybox filter (search bar)
@@ -27,6 +28,7 @@
    - Added a sprite to launched rocket launcher rounds
 ### Changed
    - Wooden struts look more like planks now
+   - Joint stress sounds play less frequently
    - Limbs can only be crushed by guns when Limb Crushing is enabled
    - Machine gun texture
    - Sentry turret now fires a 5.56 round at a lower firerate, instead of a 9mm at a high fire rate
@@ -48,6 +50,7 @@
    - Resolution list is now a grid
    - Humans are now more realistically sized
    - Lord Talon demanded the fire extinguisher be moved into the "Firearms" category
+   - Updated Unity version
 ### Fixed
    - Pistons will extend properly when resized
    - Charged particles will correctly appear after deserialisation
