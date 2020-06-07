@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.7] - Jume 7 2020
+## [1.7] - June ?? 2020
 
 ### Added
    - Attraction god power
