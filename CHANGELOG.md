@@ -1,6 +1,43 @@
 # Changelog
 
-## [1.6] - April ?? 2020
+## [1.7] - Jume 7 2020
+
+### Added
+   - Attraction god power
+   - Repulsion god power
+   - Lift god power
+   - Pyrokinesis god power
+   - Copy/paste shortcuts
+   - Pink explosive
+   - Pink syringe
+   - Spring wire
+   - Expanded decals option
+### Changed
+   - Separated tools and god powers
+   - Minor changes to black hole
+   - General Purpose Bomb is now impact-sensitive
+   - Missiles are a little more powerful
+   - The missile will now compensate a moving target's velocity for more accurate seeking
+   - Changes to how bullet speed falloff is calculated
+   - Increased bleeding particle intensity
+   - Improved how the decal system works internally
+   - Wire rendering optimisation
+### Fixed
+   - Firearms are no longer inaccurately inaccurate
+   - Lightning power no longer makes noise when over UI
+   - Humans and (especially) androids are a little stronger. This should fix their weird behaviour when it comes to walking that as caused by increasing their weight.
+   - Increased increased performance of decal rendering
+   - Increased performance of other sprite rendering
+   - Missile Launcher range extended
+   - Launched missile going through objects in discrete mode
+   - Gorses are a little better at aiming
+   - Fixed unnecessary CPU usage on idle objects
+   - Fixed audio issues introduced in 1.6
+   - Clearing everything actually clears everything now
+### Removed
+   - Toolbar toggle shortcut is now merged with the toybox toggle shortcut (tab by default)
+
+## [1.6] - May 1 2020
 
 ### Added
    - Added workshop tag support
