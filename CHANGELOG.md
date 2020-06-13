@@ -10,8 +10,15 @@
    - Copy/paste shortcuts
    - Pink explosive
    - Pink syringe
+   - Adrenaline syringe
+   - Light machine gun
+   - Shock detector
    - Spring wire
+   - Bandage wire (stops bleeding)
    - Expanded decals option
+   - Specific round casing textures
+   - Experimenal mod support
+      https://www.studiominus.nl/people-playground-modding
 ### Changed
    - Separated tools and god powers
    - Minor changes to black hole
@@ -22,7 +29,14 @@
    - Increased bleeding particle intensity
    - Improved how the decal system works internally
    - Wire rendering optimisation
+   - Fire extinguisher now updates visual state of burning object immediately
+   - "Flamethrower" now updates visual state of burning object immediately
+   - Decreased Deagle knockback
+   - Minor changes to machine gun and tank sfx/vfx
+   - Logs have their own folder now
 ### Fixed
+   - Incompatible contraptions will no longer destroy the entire toybox
+   - Game shows info popups instead of letting the toybox crash when deleting a corrupt contraption
    - Firearms are no longer inaccurately inaccurate
    - Lightning power no longer makes noise when over UI
    - Humans and (especially) androids are a little stronger. This should fix their weird behaviour when it comes to walking that as caused by increasing their weight.
@@ -34,7 +48,9 @@
    - Fixed unnecessary CPU usage on idle objects
    - Fixed audio issues introduced in 1.6
    - Clearing everything actually clears everything now
+   - Fixed spinny projectile problem
 ### Removed
+   - Sprite deformation (◞ ‸ ◟)
    - Toolbar toggle shortcut is now merged with the toybox toggle shortcut (tab by default)
 
 ## [1.6] - May 1 2020
