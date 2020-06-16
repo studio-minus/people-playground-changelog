@@ -1,6 +1,39 @@
 # Changelog
 
-## [1.7] - June ?? 2020
+## [1.7.1] - June 16 2020
+Small mod API patch
+
+### Added
+   - ModAPI:
+      - Resource caching
+      - FindCartridge
+      - LoadSound
+      - Notify
+      - OnWireCreated
+      - OnItemSpawned
+      - OnItemRemoved
+      - OnItemSelected
+      - OnItemDeselected
+      - OnItemActivated
+      - GameObject.FixColliders()
+   
+   - Added some friendly functions that are best showcased on the code snippet page
+   
+   Visit the documentation for more information
+
+   https://www.studiominus.nl/people-playground-modding
+
+   New useful code snippet page
+
+   https://github.com/mestiez/ppg-snippets
+### Changed
+   - Default mod texture
+### Fixed
+   - Improved how mods are loaded and how they are given an error state
+   - Inactive mod chaos
+   - Multiple bugs in the mod loader
+
+## [1.7] - June 14 2020
 
 ### Added
    - Attraction god power
@@ -17,7 +50,7 @@
    - Bandage wire (stops bleeding)
    - Expanded decals option
    - Specific round casing textures
-   - Experimenal mod support
+   - Experimental mod support
       https://www.studiominus.nl/people-playground-modding
 ### Changed
    - Separated tools and god powers
@@ -34,13 +67,14 @@
    - Decreased Deagle knockback
    - Minor changes to machine gun and tank sfx/vfx
    - Logs have their own folder now
+   - Incrased firearm range
 ### Fixed
    - Incompatible contraptions will no longer destroy the entire toybox
    - Game shows info popups instead of letting the toybox crash when deleting a corrupt contraption
    - Firearms are no longer inaccurately inaccurate
    - Lightning power no longer makes noise when over UI
    - Humans and (especially) androids are a little stronger. This should fix their weird behaviour when it comes to walking that as caused by increasing their weight.
-   - Increased increased performance of decal rendering
+   - Increased performance of decal rendering
    - Increased performance of other sprite rendering
    - Missile Launcher range extended
    - Launched missile going through objects in discrete mode
