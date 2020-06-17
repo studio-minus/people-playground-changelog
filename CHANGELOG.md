@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.7.2] - June 17 2020
+
+### Added
+   - "No mods found" message
+
+   - ModAPI.OnGunShot event
+   - ModAPI.OnDeath event
+   - ModAPI.OnDeath event
+   - ModAPI.FindPhysicalProperties function
+   - ModAPI.FindMaterial function
+   - ModAPI.CreateParticleEffect function
+
+   Visit the documentation for more information
+
+   https://www.studiominus.nl/people-playground-modding
+### Fixed
+   - ModAPI.FindCartridge bug that nobody would've noticed
+   - ModAPI.LoadSound now allows both stereo and mono audio
+   - WireBehaviour.SetColor now sets the persistent colour as well
+   - Setting the sprite of a burnable object via mods is now reliable
+
 ## [1.7.1] - June 16 2020
 Small mod API patch
 
