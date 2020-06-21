@@ -9,6 +9,7 @@
    - URLs opened in-game now open in the Steam overlay when possible
    - Made bullet water impact a little less dramatic
    - Rewrote bullet "physics" calculation
+   - Jukebox glows brighter the more energy it has
 ## Fixed
    - Wood struts no longer look weird
    - Many problems to do with bullet physics are gone
