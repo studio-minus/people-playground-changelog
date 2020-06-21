@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.8] - June 21 2020
+
+## Added
+   - Mod workshop support
+   - Mod tag support
+## Changed
+   - URLs opened in-game now open in the Steam overlay when possible
+   - Made bullet water impact a little less dramatic
+   - Rewrote bullet "physics" calculation
+## Fixed
+   - Wood struts no longer look weird
+   - Many problems to do with bullet physics are gone
+
+## [1.7.3] - June 18 2020
+
+## Added
+   - Overcharged jukeboxes now destroy heads
+   - ModAPI.CreatePhysicalObject
+   - Rotted humans are more stiff now, just like in the pre 1.2.2 days.
+   - The Jukebox now supports MP3 files
+   - ^ also goes for ModAPI.LoadSound
+
+## Changed
+   - Bones are less easily broken
+   - Living beings are just a little more durable overall
+   - Gyro stabilisers now scale their strength with their size
+   - Added back in the beta sounds for the LMG
+   - ModAPI.Notify now accepts any object and prints it as a string
+   - Adrenaline syringe lasts 20 times as long
+
+### Fixed
+   - Fixed some business regarding Steam and launching the game from the .exe directly
+   - Legacy wires are no longer super dark blue
+   - Adding a PhysicalBehaviour manually no longer causes many ObjectReferenceExceptions because there is no inspector to initalise the empty fields.
+
 ## [1.7.2] - June 17 2020
 
 ### Added
@@ -20,6 +55,7 @@
    - ModAPI.LoadSound now allows both stereo and mono audio
    - WireBehaviour.SetColor now sets the persistent colour as well
    - Setting the sprite of a burnable object via mods is now reliable
+   - Bandages now render on the correct layer
 
 ## [1.7.1] - June 16 2020
 Small mod API patch
