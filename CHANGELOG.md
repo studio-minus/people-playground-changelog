@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.8.1] - June 30 2020
+
+## Added
+   - Mod list now automatically updates itself when during runtime. You do not need to restart the game.
+   - In case Steam sends the message too soon (before download), there is a "Force reload" button.
+## Changed
+   - Springs no longer reset their length when moved in paused mode.
+## Fixed
+   - Dumb problem in RandomSpriteBehaviour (my most sincere apologies to riceworld)
+   - Fixed Gate not sending initial activation signal occasionally
+   - Wire length miscalculation
+
 ## [1.8] - June 21 2020
 
 ## Added
