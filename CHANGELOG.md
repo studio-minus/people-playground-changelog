@@ -5,6 +5,10 @@
 ## Added
    - Plank
    - Winch machine
+      - Power it to make it move
+      - Activate to toggle direction
+      - Change limits in context menu
+      - See limits visualised in Detail view
    - Radio activation signals
    - Soap
    - Slider
@@ -23,6 +27,7 @@
    - Gyrostabiliser is a little more powerful by default
 ## Fixed
    - Malformed mods should no longer prevent other mods from working
+   - Drag force is now proportional to object mass to prevent unnatural physics events
 
 ## [1.8.1] - June 30 2020
 
