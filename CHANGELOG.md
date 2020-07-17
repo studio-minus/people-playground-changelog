@@ -1,6 +1,15 @@
 # Changelog
 
-## [1.9] - July ?? 2020
+## [1.9.1] - July 17 2020
+
+## Changed
+   - Angular and translational snapping is now world-based
+   - Androids have tougher armour
+   - Sliders now have a 0-100 limit
+## Fixed
+   - Chain explosives no longer cause immense lag because of the un-fixed bug
+
+## [1.9] - July 17 2020
 
 ## Added
    - Plank
