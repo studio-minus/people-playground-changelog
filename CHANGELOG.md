@@ -14,6 +14,7 @@
    - Slider
    - Industrial Gyrostabiliser
    - Angle snapping (hold LAlt while rotating in paused mode)
+   - Translation snapping (same goes for unpaused)
    - "Set angle" context menu option
    - Legacy tonemapping setting
    - Nearly useless short loading screen
@@ -28,6 +29,8 @@
 ## Fixed
    - Malformed mods should no longer prevent other mods from working
    - Drag force is now proportional to object mass to prevent unnatural physics events
+## Unfixed
+   - Due to popular demand, explosives can now be detonated multiple times
 
 ## [1.8.1] - June 30 2020
 
