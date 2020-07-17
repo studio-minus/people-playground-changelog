@@ -22,6 +22,7 @@
    - Added "pixelated" parameter to ModAPI.LoadSprite
    - Added ModAPI.LoadTexture to load textures without a sprite attached
    - Added a friendly helper function to make changing human/android/gorse texture swapping easier. See the snippet page for more information. https://github.com/mestiez/ppg-snippets
+   - Also made it easier to change procedural damage colours such as bruises.
 ## Changed
    - Humans bleed out faster
    - Updated Steamworks․NET and the Post Processing Stack
