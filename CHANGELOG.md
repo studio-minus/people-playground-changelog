@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.9.2] - July 21 2020
+
+## Added
+   - Bullet tracer option
+   - Minor addition to firearm sounds
+## Changed
+   - Machine gun now fires ballistic rounds with tracers
+## Fixed
+   - Hidden achievement is now achievable for older players
+   - Mod loading problems for some
+   - Minor performance issues
+## Removed
+   - That loading screen only caused problems apparently so that's gone forever
+
 ## [1.9.1] - July 17 2020
 
 ## Changed
