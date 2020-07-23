@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.9.3] - July 23 2020
+
+## Added
+   - Slight bullet drop
+   - Tracer speed based on actual round speed
+   - ModAPI.Register&#x3C;T&#x3E;
+      - This function accepts a generic type parameter that derives from MonoBehaviour. These components will be created in and will exist from map load to map unload. You can use these to run scripts in the background.
+   - PhysicalProperties.LodgeStrengthMultiplier
+      - This field determines how difficult it is to pull the object out if it has been lodged into something. It is set to 1 by default.
+## Changed
+   - Slipperly soap
+   - Androids are now 
+   - 120mm cartridge is now 30mm
+## Fixed
+   - Timed Gate bug
+   - Tracer resize bug
+   - Tracer water bug
+   - Mod active status change when mod updates
+   - Bullets hitting their origin weapon
+   - Minor performance improvements
+
 ## [1.9.2] - July 21 2020
 
 ## Added
