@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.9.4] - August 2 2020
+
+## Added
+   - OnLoad method for mods. This is a static method that will be invoked after all mods are loaded. This is unlike the Main method which is invoked when the catalog is populated.
+   - ModAPI debug drawing feature
+   - ModAPI.PixelSize constant
+## Changed
+   - Updated to Unity 2020.1.0f1
+   - Fire looks better when moving fast
+   - Beam Rifle texture
+   - Beam Rifle recoil increase
+   - Decreased bullet drop
+   - Decreased bullet impact sound volume
+## Fixed
+   - Minor bug fixes
+
 ## [1.9.3] - July 23 2020
 
 ## Added
