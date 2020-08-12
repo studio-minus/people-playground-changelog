@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.9.5] - August 12 2020
+
+## Added
+   - Confirmation dialog when attempting to overwrite a local contraption
+   - Stormbaan lightning gun
+   - (Modding) PhysicalBehaviour.RefreshOutline method that will reset the outline object to the current sprite. This method is also automatically called when the user changes the sprite of an object that uses RandomSpriteBehaviour
+## Changed
+   - Contraption save screen is now a dialog box
+   - Slider has less resistance
+   - Destructible cable now has a variable force threshold based on the mass of the attached objects
+   - Settings menu is now separated by category
+## Fixed
+   - Busses are more stable. This will break some older contraptions with busses in them.
+   - Debris created by destroyable objects will now properly be removed when undoing their creation
+   - Motorised wheel collider is more accurate now
+   - Motorised wheel no longer causes inaccurately serialised wires
+   - Fixed the godforsaken car texture
+   - Steel binding not being broken by lasers and Beam rifle beams
+
 ## [1.9.4] - August 2 2020
 
 ## Added
