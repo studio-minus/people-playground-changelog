@@ -1,5 +1,42 @@
 # Changelog
 
+## [1.10] - September ?? 2020
+
+## Added
+   - Sticky grenade
+   - Brick cube
+   - Small button
+   - Dampening box
+   - Conveyor belt
+   - Clamp
+   - Settings button
+   - Environment options panel (most beta thing about this beta)
+   - Clear debris button
+   - Fragmentation explosives can more easily dismember limbs
+   - Screenshake intensity slider
+   - Joint stress indication in Detail view
+   - Buttons to enable/disable all mods
+   - Indicator whether or not Steam has been properly initialised
+   - Electronics tag (does not work on the Workshop yet, wait for full release)
+## Changed
+   - Rewrote nuclear explosion behaviour and redid particle effects
+   - Thruster particle effects
+   - Thruster textures
+   - Shortened thrusterbed warmup
+   - Decreased range and shockwave intensity of grenades
+## Fixed
+   - Minor optimisations 
+   - Impact force calculations
+   - Limb crush calculation
+   - Thruster burn area calculation when resized
+   - Auto exposure is no longer tied to the time scale
+   - Generator particles now scale properly
+   - Some audio priority issues
+
+## Removed
+   - Generator electricity sound
+   - Buttons no longer emit electricity
+
 ## [1.9.5] - August 12 2020
 
 ## Added
