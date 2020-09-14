@@ -5,9 +5,12 @@
 ## Added
    - Sticky grenade
    - Brick cube
+   - Metal cube
+   - Metal pyramid
    - Small button
    - Dampening box
    - Conveyor belt
+   - Ion Cannon
    - Clamp
    - Settings button
    - Environment options panel (most beta thing about this beta)
@@ -23,6 +26,7 @@
    - Thruster particle effects
    - Thruster textures
    - Shortened thrusterbed warmup
+   - Shrunk COM gizmo
    - Decreased range and shockwave intensity of grenades
 ## Fixed
    - Minor optimisations 
