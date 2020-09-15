@@ -20,7 +20,8 @@
    - Joint stress indication in Detail view
    - Buttons to enable/disable all mods
    - Indicator whether or not Steam has been properly initialised
-   - Electronics tag (does not work on the Workshop yet, wait for full release)
+   - Electronics tag
+   - `IonExplosion` and `Vapor` particle effects have been exposed
 ## Changed
    - Rewrote nuclear explosion behaviour and redid particle effects
    - Thruster particle effects
