@@ -1,6 +1,13 @@
 # Changelog
 
-## [1.10] - September ?? 2020
+## [1.10.1] - September 17 2020
+
+## Fixed
+- Ion bolts not being cleared
+- Wire (and more) serialisation issues
+- Metal detector inconsistencies
+
+## [1.10] - September 15 2020
 
 ## Added
    - Sticky grenade
