@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.10.2] - September 17 2020
+
+## Fixed
+- Enormous serialisation bug
+
 ## [1.10.1] - September 17 2020
 
 ## Fixed
