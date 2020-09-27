@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.11] - ?? 2020
+## Added
+ - Properly calculated lighting
+ - Torch
+
+## Changed
+ - Floodlight sound
+ - Steel binding is a bit less fragile
+ - Stunner effect
+ - Workshop contraptions are only loaded once on startup now
+
+## Fixed
+ - UI navigation interference
+ - Minor bugs
+
+## Removed
+ - Valley
+ - Flat
+
 ## [1.10.2] - September 17 2020
 
 ## Fixed
