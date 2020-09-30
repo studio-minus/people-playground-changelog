@@ -2,20 +2,29 @@
 
 ## [1.11] - ?? 2020
 ## Added
- - Properly calculated lighting
+ - Lighting
  - Torch
+ - EMP generator
+ - CreateLight function in ModAPI
 
 ## Changed
  - Floodlight sound
  - Steel binding is a bit less fragile
  - Stunner effect
+ - Anchor texture
  - Workshop contraptions are only loaded once on startup now
+ - The Jukebox can now be destroyed
+ - Steel Binding gets weaker the more burnt attached objects are
 
 ## Fixed
  - UI navigation interference
+ - Some selection outline issues
  - Minor bugs
+ - Unnecessary memory usage
+ - Wire deletion UI is now drawn over everything else
 
 ## Removed
+ - Thruster slow startup
  - Valley
  - Flat
 
