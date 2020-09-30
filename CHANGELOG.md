@@ -4,6 +4,7 @@
 ## Added
  - Lighting
  - Torch
+ - Flashlight
  - EMP generator
  - CreateLight function in ModAPI
 
