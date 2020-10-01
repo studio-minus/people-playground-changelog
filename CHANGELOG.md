@@ -1,12 +1,16 @@
 # Changelog
 
-## [1.11] - ?? 2020
+## [1.11] - October 1 2020
 ## Added
  - Lighting
  - Torch
  - Flashlight
  - EMP generator
+ - Metal pole
+ - Wooden pillar
+ - Pulse Drum gun
  - CreateLight function in ModAPI
+ - Invalid contraption name notification
 
 ## Changed
  - Floodlight sound
@@ -15,13 +19,17 @@
  - Anchor texture
  - Workshop contraptions are only loaded once on startup now
  - The Jukebox can now be destroyed
+ - Decreased human g-force damage
  - Steel Binding gets weaker the more burnt attached objects are
+ - Blood particles are no longer drawn on top of the bounds
 
 ## Fixed
  - UI navigation interference
  - Some selection outline issues
  - Minor bugs
+ - Performance improvements
  - Unnecessary memory usage
+ - Invisible pause menu bug 
  - Wire deletion UI is now drawn over everything else
 
 ## Removed
