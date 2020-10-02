@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.11] - October 1 2020
+## [1.11] - October 2 2020
 ## Added
  - Lighting
  - Torch
