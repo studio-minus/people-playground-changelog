@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.11.1] - October 2 2020
+Lots of ones this time.
+
+## Fixed
+ - Contraption thumbnails no longer contain overly bright lights
+ - Debris no longer fall through the world
+ - Gorse projectiles work again
+
 ## [1.11] - October 2 2020
 ## Added
  - Lighting
