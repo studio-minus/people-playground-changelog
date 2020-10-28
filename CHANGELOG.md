@@ -1,5 +1,60 @@
 # Changelog
 
+## [1.12] - ?? 2020
+
+## NOT YET IMPLEMENTED & KNOWN ISSUES
+ - Incorrect vessel colours
+ - Incorrect tank drain particle colour & behaviour
+ - Tank is indestructible
+ - Incorrect gentle drag tool force limit & drag speed
+ - Zombie muscles stay somewhat active when (truly) dead
+
+ - Syringe-liquid system interaction
+ - Liquid system SFX
+ - Easy ModAPI liquid registry 
+ - More statistics for the stats screen
+ - Push/pull/lift particle effects
+
+## Added
+ - Servo
+ - Blood tank
+   - Can store any liquid but, for now at least, will only store blood
+ - Gentle drag tool
+ - Blood vessel syringe
+   - Tranfers blood vessel contents from limb to limb
+ - Two extra channels for activation signals
+   - The new channels will be able to allow machines to perform different actions
+ - The Winch machine will now toggle an internal battery when activated with a red signal
+ - Vehicles reverse their gear when activated with a red signal
+ - Electromagnets will reverse polarity when activated with a red signal
+ - Option to disable selection outlines
+ - Statistics screen
+ - ModAPI.RegisterTool<T> function. This allows modders to create custom tools.
+ - ModAPI.RegisterPower<T> function. This allows modders to create custom powers.
+   - You can inherit AOEPowerTool to easily create AOE powers
+
+## Changed
+ - Decreased human drown time to 90 seconds (used to be 120 seconds)
+ - Icons
+ - Humans receive less shock when shot
+ - Zombies are no longer immortal and can be killed when severely damaged
+   - Extremely damaged dead bodies are unable to be zombified because they wouldn't survive even as a zombie
+ - Humans have a small chance to survive severe damage to the head
+ - Crossbow texture
+ - "Expanded decals" is now "Fancy effects" and will toggle several other effects too
+ - The Gorse is now immune to acid
+
+## Fixed
+ - Context menu activation not being a direct activation signal
+ - Some EMP related problems
+ - Some rendering performance problems
+ - Airfoil outline rendering
+ - Drag tool inconsistencies
+ - Arm flailing when shot in upper chest
+
+## Removed
+ - Android bleeding
+
 ## [1.11.1] - October 2 2020
 Lots of ones this time.
 
