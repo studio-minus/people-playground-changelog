@@ -9,6 +9,8 @@
  - Incorrect gentle drag tool force limit & drag speed
  - Zombie muscles stay somewhat active when (truly) dead
  - Stat deserialisation & Steam conflicting
+ - Outline option is in all setting categories
+ - Exceptions thrown when pasting blood containers (limbs, blood tanks, even androids)
 
  - Syringe-liquid system interaction
  - Liquid system SFX
@@ -25,6 +27,7 @@
    - Tranfers blood vessel contents from limb to limb
  - Two extra channels for activation signals
    - The new channels will be able to allow machines to perform different actions
+ - Signal channel converters
  - The Winch machine will now toggle an internal battery when activated with a red signal
  - Vehicles reverse their gear when activated with a red signal
  - Electromagnets will reverse polarity when activated with a red signal
