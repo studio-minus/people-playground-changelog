@@ -8,6 +8,7 @@
  - Tank is indestructible
  - Incorrect gentle drag tool force limit & drag speed
  - Zombie muscles stay somewhat active when (truly) dead
+ - Stat deserialisation & Steam conflicting
 
  - Syringe-liquid system interaction
  - Liquid system SFX
