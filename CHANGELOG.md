@@ -2,37 +2,24 @@
 
 ## [1.12] - ?? 2020
 
-## NOT YET IMPLEMENTED & KNOWN ISSUES
- - Incorrect vessel colours
- - Incorrect tank drain particle colour & behaviour
- - Tank is indestructible
- - Incorrect gentle drag tool force limit & drag speed
- - Zombie muscles stay somewhat active when (truly) dead
- - Stat deserialisation & Steam conflicting
- - Outline option is in all setting categories
- - Exceptions thrown when pasting blood containers (limbs, blood tanks, even androids)
-
- - Syringe-liquid system interaction
- - Liquid system SFX
- - Easy ModAPI liquid registry 
- - More statistics for the stats screen
- - Push/pull/lift particle effects
-
 ## Added
  - Servo
  - Blood tank
-   - Can store any liquid but, for now at least, will only store blood
+ - Heart monitor
  - Gentle drag tool
- - Blood vessel syringe
-   - Tranfers blood vessel contents from limb to limb
+ - Blood vessel wire
+   - Transfers blood vessel contents from limb to limb
+ - Coagulation Syringe
  - Two extra channels for activation signals
    - The new channels will be able to allow machines to perform different actions
  - Signal channel converters
+ - All powers now have effects
  - The Winch machine will now toggle an internal battery when activated with a red signal
  - Vehicles reverse their gear when activated with a red signal
  - Electromagnets will reverse polarity when activated with a red signal
  - Option to disable selection outlines
  - Statistics screen
+    - Some statistics are stored by Steam. Others will only start counting from this update onwards.
  - ModAPI.RegisterTool<T> function. This allows modders to create custom tools.
  - ModAPI.RegisterPower<T> function. This allows modders to create custom powers.
    - You can inherit AOEPowerTool to easily create AOE powers
@@ -45,8 +32,9 @@
    - Extremely damaged dead bodies are unable to be zombified because they wouldn't survive even as a zombie
  - Humans have a small chance to survive severe damage to the head
  - Crossbow texture
- - "Expanded decals" is now "Fancy effects" and will toggle several other effects too
+ - "Expanded decals" is now "Fancy effects" and will toggle several other effects too (mainly water splash particles)
  - The Gorse is now immune to acid
+ - Blood circulation calculations
 
 ## Fixed
  - Context menu activation not being a direct activation signal
@@ -55,6 +43,7 @@
  - Airfoil outline rendering
  - Drag tool inconsistencies
  - Arm flailing when shot in upper chest
+ - Local contraption paths. This should make many corrupt contraptions readable again
 
 ## Removed
  - Android bleeding
