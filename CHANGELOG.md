@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.12] - ?? 2020
+## [1.12] - October 31 2020
 
 ## Added
  - Servo
