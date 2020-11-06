@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.12.1] - November 6 2020
+
+## Changed
+ - Oil can be extracted from androids
+
+## Fixed
+ - Fluid dynamics inconsistencies
+ - Heart monitor BPM calculations
+ - Strange double paste issue
+ - Minor optimisations
+
 ## [1.12] - October 31 2020
 
 ## Added
@@ -20,8 +31,8 @@
  - Option to disable selection outlines
  - Statistics screen
     - Some statistics are stored by Steam. Others will only start counting from this update onwards.
- - ModAPI.RegisterTool<T> function. This allows modders to create custom tools.
- - ModAPI.RegisterPower<T> function. This allows modders to create custom powers.
+ - ModAPI.RegisterTool&#x3C;T&#x3E; function. This allows modders to create custom tools.
+ - ModAPI.RegisterPower&#x3C;T&#x3E; function. This allows modders to create custom powers.
    - You can inherit AOEPowerTool to easily create AOE powers
 
 ## Changed
