@@ -15,7 +15,7 @@
 ## Fixed
  - Gentle drag tool dampening
  - Major mod loader issues
- - Infinite propagation signal limit. This will break contraptions that rely on more than 1024 simultaneous signals. Do not that creating an infinte signal loop *will still slow your game down*, it just won't freeze anymore. It actually might still freeze on slower computers but the point is that infinite loops no longer cause memory leaks.
+ - Infinite propagation signal limit. This will break contraptions that rely on more than 1024 simultaneous signals. Do note that creating an infinte signal loop *will still slow your game down*, it just won't freeze anymore. It actually might still freeze on slower computers but the point is that infinite loops no longer cause memory leaks.
 
 ## [1.12.1] - November 6 2020
 
