@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.12.2] - ?? 2020
+
+## Added
+ - Holographic text display
+
+## Changed
+ - Changes to heart rate calculations again
+ - New player preferences system. A few settings may have reset to their default value.
+ - Removed display resolution options. Just resize the window. Fullscreen mode will default to the native display resolution.
+ - Controls tab in the settings menu now shows the key rebind page instead. The scroll sensitivity has been moved to the General tab.
+ - Minor changes to particle effects
+
+## Fixed
+ - Gentle drag tool dampening
+ - Major mod loader issues
+ - Infinite propagation signal limit. This will break contraptions that rely on more than 1024 simultaneous signals. Do not that creating an infinte signal loop *will still slow your game down*, it just won't freeze anymore. It actually might still freeze on slower computers but the point is that infinite loops no longer cause memory leaks.
+
 ## [1.12.1] - November 6 2020
 
 ## Changed
