@@ -1,6 +1,34 @@
 # Changelog
 
-## [1.12.2] - ?? 2020
+## [1.13] - December 5 2020
+
+## Added
+ - Landmine
+ - Signal flare
+ - Defibrillator
+ - Chainsaw
+ - De staf van Sinterklaas
+ - You can now right click a wire and delete it. Deleting wires was already possible but it was incredibly unintuitive.
+ - Basic controls are shown on spawned displays when a map is first ever loaded
+ - Render scale settings
+
+## Changed
+ - General purpose bomb is now much more powerful
+ - A torch sets things on fire when touched
+ - A completely different mod compiler. This one is self contained so whatever nightmare state your .NET framework is in, this should work.
+ - Anti-aliasing settings
+ - Windowed mode resolution is remembered
+
+## Fixed
+ - Weightlessness not affecting certain child objects
+ - Lots of minor bugfixes
+ - Epic watersplash performance bug
+ - ModAPI.PixelSize is correct now
+ - Immobility field irregularities
+
+## Removed
+
+## [1.12.2] - November 26 2020
 
 ## Added
  - Holographic text display
