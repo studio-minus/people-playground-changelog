@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.13] - December 5 2020
+## [1.13] - December 6 2020
 
 ## Added
  - Landmine
@@ -13,9 +13,11 @@
  - Render scale settings
 
 ## Changed
+ - A completely different mod compiler
+ - Incremental mod loading
+ - Unchanged mods won't recompile on startup
  - General purpose bomb is now much more powerful
  - A torch sets things on fire when touched
- - A completely different mod compiler. This one is self contained so whatever nightmare state your .NET framework is in, this should work.
  - Anti-aliasing settings
  - Windowed mode resolution is remembered
 
@@ -27,6 +29,7 @@
  - Immobility field irregularities
 
 ## Removed
+ - The "Force refresh mod list" button is now gone. The safest way to refresh the mod list is to restart the game
 
 ## [1.12.2] - November 26 2020
 
