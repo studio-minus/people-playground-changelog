@@ -1,14 +1,16 @@
 # Changelog
 
-## [1.13] - December 6 2020
+## [1.13] - December 7 2020
 
 ## Added
  - Landmine
+ - Chainsaw
+ - Detached laser cannon
+ - Detached 120mm cannon
  - Signal flare
  - Defibrillator
- - Chainsaw
  - De staf van Sinterklaas
- - You can now right click a wire and delete it. Deleting wires was already possible but it was incredibly unintuitive.
+ - You can now right click a wire and delete it. Deleting wires was already possible but it was incredibly unintuitive. This is toggleable.
  - Basic controls are shown on spawned displays when a map is first ever loaded
  - Render scale settings
 
@@ -18,8 +20,10 @@
  - Unchanged mods won't recompile on startup
  - General purpose bomb is now much more powerful
  - A torch sets things on fire when touched
+ - Bandages slowly heal the limb
  - Anti-aliasing settings
  - Windowed mode resolution is remembered
+ - Aerial Faith Plate retexture
 
 ## Fixed
  - Weightlessness not affecting certain child objects
