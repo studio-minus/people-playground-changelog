@@ -1,5 +1,44 @@
 # Changelog
 
+## [1.14] - January ?? 2021
+
+## Added
+   - Rotor
+   - Power Gauge
+   - Toggleable Mirror
+   - Bulletproof Sheet
+   - Humongous now has a lightsource
+   - Pin tool
+   - Handgrenade now actually shows a pin flying off
+   - A little more information in the compiling box
+   - Bandages will slowly look soaked in blood
+   - Underwater explosion effects
+   - Something
+## Changed
+   - Panels
+   - Some particle effects
+   - Energy Vessel texture
+   - Handgrenade texture
+   - Handgrenade dismembering chance
+   - Reorganised tool bar
+   - Made electricity particles less intense
+   - Made chainsaw less likely to sever limbs
+   - Jukebox is heavier
+   - General purpose bomb is a little more powerful
+## Fixed
+   - Some Steam related bugs
+   - Fixed a somewhat major dragging bug (this may cause issues with existing contraptions)
+   - Many minor bug fixes
+   - Notifications no longer block interaction
+
+## [1.13.1] - December 9 2020
+
+## Added
+ - Detached Beam Cannon
+## Fixed
+ - Detached Laser Cannon muzzle flash problem
+ - Radio channel sound bug
+
 ## [1.13] - December 7 2020
 
 ## Added
