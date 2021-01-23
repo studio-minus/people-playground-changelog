@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.14] - January ?? 2021
+## [1.14] - January 23 2021
 
 ## Added
    - Rotor
@@ -18,6 +18,7 @@
    - Panels
    - Some particle effects
    - Energy Vessel texture
+   - Fireworks power is scaled with the object scale
    - Handgrenade texture
    - Handgrenade dismembering chance
    - Reorganised tool bar
@@ -29,6 +30,7 @@
    - Some Steam related bugs
    - Fixed a somewhat major dragging bug (this may cause issues with existing contraptions)
    - Many minor bug fixes
+   - Performance improvements
    - Notifications no longer block interaction
 
 ## [1.13.1] - December 9 2020
