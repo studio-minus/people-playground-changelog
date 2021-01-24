@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.14] - January 23 2021
+## [1.14] - January 24 2021
 
 ## Added
    - Rotor
@@ -13,7 +13,6 @@
    - A little more information in the compiling box
    - Bandages will slowly look soaked in blood
    - Underwater explosion effects
-   - Something
 ## Changed
    - Panels
    - Some particle effects
@@ -22,14 +21,15 @@
    - Handgrenade texture
    - Handgrenade dismembering chance
    - Reorganised tool bar
+   - Fancy effects option also toggles many other effects
    - Made electricity particles less intense
    - Made chainsaw less likely to sever limbs
    - Jukebox is heavier
    - General purpose bomb is a little more powerful
 ## Fixed
    - Some Steam related bugs
-   - Fixed a somewhat major dragging bug (this may cause issues with existing contraptions)
    - Many minor bug fixes
+   - Weird menu scrolls-to-bottom-on-page-selection bug
    - Performance improvements
    - Notifications no longer block interaction
 
