@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.15] - February ?? 2021
+
+## Added
+   - Empty flask
+   - Oil flask
+   - Nitroglycerine flask
+   - Blood flask
+   - Gorse blood flask
+   - Physics gun (has gun in the name but it's actually in Machinery)
+   - Grenade launcher
+   - New map
+   - Bleeding-under-water effects
+   - Fog environment option
+   - Simplified background rendering option
+   - Pressing a tool key again will cycle through the child tools
+## Changed
+   - Map thumbnails
+   - Capped bullet impact force
+   - Bubble effect is toned down
+   - Sword texture
+   - Stick texture
+   - Bat texture
+   - Increased maximum rotor speed to 8000
+## Fixed
+   - Human insane flipping-when-head-touches-ground bug
+   - Pin visual location bug
+   - Blood tank rendering bug 
+   - Minor bugs
+
 ## [1.14] - January 24 2021
 
 ## Added
