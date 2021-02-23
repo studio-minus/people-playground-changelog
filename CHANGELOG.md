@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.15] - February ?? 2021
+## [1.15] - February 24 2021
 
 ## Added
    - Empty flask
@@ -8,6 +8,7 @@
    - Nitroglycerine flask
    - Blood flask
    - Gorse blood flask
+   - Blaster rifle
    - Physics gun (has gun in the name but it's actually in Machinery)
    - Grenade launcher
    - New map
@@ -15,6 +16,7 @@
    - Fog environment option
    - Simplified background rendering option
    - Pressing a tool key again will cycle through the child tools
+   - A space above the "quit" button in the pause menu
 ## Changed
    - Map thumbnails
    - Capped bullet impact force
@@ -23,6 +25,9 @@
    - Stick texture
    - Bat texture
    - Increased maximum rotor speed to 8000
+   - Human heights are more varied
+   - Made sniper rifle more accurate
+   - Rewrote laser projectile behaviour
 ## Fixed
    - Human insane flipping-when-head-touches-ground bug
    - Pin visual location bug
