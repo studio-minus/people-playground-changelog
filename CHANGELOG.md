@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.16] - ?? 2021
+
+## Added
+ - Energy Sword
+ - Bicycle or something
+ - Ramp
+ - Mods in the mod list now show the errors in their description
+ - UI sound when changing tools using keyboard shortcut
+ - Beta disclaimer text
+
+## Changed
+ - Major texture overhaul
+ - Major car overhaul (This will likely break all mods that use them as a base)
+ - Things are less likely to set each other on fire
+ - Slight post processing change
+ - Increased machine blaster firing rate
+ - Vehicle impact sounds
+ - Lasers pass through flasks
+ - People can now hold broken glass
+ - Impact sounds are more consistent
+ - Fire is a little less bright and faster
+ - Bleedout from dismemberment is slower, but there is more visible amount of blood
+ - Updated to Unity 2020.3.1f1 LTS
+ - Fire particles can't be too big :D
+
+## Fixed
+ - Strange shadow on Sea
+ - Explosion bug in a specific location on Hybrid
+ - World-UI lighting bug
+ - Detail mode staying on when certain Workshop contraptions are spawned in
+
+## Removed
+ - Hand tool
+ - Mod access to Resources. You ruined it for everyone, boys.
+
 ## [1.15] - February 24 2021
 
 ## Added
