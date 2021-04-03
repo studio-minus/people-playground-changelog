@@ -5,6 +5,7 @@
 ## Added
  - Energy Sword
  - Bicycle or something
+ - Spike grenade
  - Ramp
  - Mods in the mod list now show the errors in their description
  - UI sound when changing tools using keyboard shortcut
@@ -13,6 +14,7 @@
 ## Changed
  - Major texture overhaul
  - Major car overhaul (This will likely break all mods that use them as a base)
+ - Bus chairs in busses are less likely to snap off
  - Things are less likely to set each other on fire
  - Slight post processing change
  - Increased machine blaster firing rate
@@ -24,16 +26,26 @@
  - Bleedout from dismemberment is slower, but there is more visible amount of blood
  - Updated to Unity 2020.3.1f1 LTS
  - Fire particles can't be too big :D
-
+ - Hammer is wood
+ - Several significant optimisations, especially for inactive objects 
+ - Android damage is more apparent
+ - Improved help text
+ - Changed Gorse damage colours
+ 
 ## Fixed
  - Strange shadow on Sea
  - Explosion bug in a specific location on Hybrid
  - World-UI lighting bug
+ - Jittering bus chairs
  - Detail mode staying on when certain Workshop contraptions are spawned in
+ - Pin tool location bug when pinning humans
+ - The camera no longer reacts to input if the mouse is not over the window.
+ - The camera no longer stops following a target when the window is out of focus
+ - The camera will no longer lose sight of a target it's following
+ - Flesh wound damage bugs
 
 ## Removed
  - Hand tool
- - Mod access to Resources. You ruined it for everyone, boys.
 
 ## [1.15] - February 24 2021
 
