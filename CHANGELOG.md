@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.16] - ?? 2021
+## [1.16] - April 6 2021
 
 ## Added
  - Energy Sword
@@ -39,10 +39,11 @@
  - Jittering bus chairs
  - Detail mode staying on when certain Workshop contraptions are spawned in
  - Pin tool location bug when pinning humans
- - The camera no longer reacts to input if the mouse is not over the window.
+ - The camera no longer reacts to input if the mouse is not over the window
  - The camera no longer stops following a target when the window is out of focus
  - The camera will no longer lose sight of a target it's following
  - Flesh wound damage bugs
+ - Immobility field selective layer bugs
 
 ## Removed
  - Hand tool
