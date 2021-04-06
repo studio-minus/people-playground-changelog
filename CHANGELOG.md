@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.16.2] - April 6 2021
+
+## Added
+ - ModAPI.RegisterInput. Check the wiki for more information: https://www.studiominus.nl/ppg-modding/api/modApi/methods/registerInput.html
+ 
 ## [1.16.1] - April 6 2021
 
 ## Changed
