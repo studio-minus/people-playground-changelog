@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.16.1] - April 6 2021
+
+## Changed
+ - Bleeding particle count increased
+
+## Fixed
+ - Ramp charring
+ - Energy Sword recoil being too high
+
+
 ## [1.16] - April 6 2021
 
 ## Added
