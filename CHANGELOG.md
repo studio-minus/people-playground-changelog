@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.16.5] - April 11 2021
+
+## Added
+ - Copper wire (destructible conductive wire)
+## Fixed
+ - The car engine no longer sticks out the car 
+ - "OnLoad" will now be called when the mod is activated for the first time. This fixes a few issues.
+
+## [1.16.4] - April 11 2021
+
+## Added
+ - Mods that incorrectly call path-dependent functions will now throw exceptions
+
+## Fixed
+ - Energy sword save/load issues
+ - Energy sword motion blur being invisible at low framerates
+ 
+## [1.16.3] - April 7 2021
+
+## Fixed
+ - Screen shake was gone?? It's back now
+ 
 ## [1.16.2] - April 6 2021
 
 ## Added
