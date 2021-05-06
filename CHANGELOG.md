@@ -1,9 +1,41 @@
 # Changelog
 
-## [1.16.5] - April 11 2021
+## [1.17] - ??
+
+## Added
+ - Basic temperature simulation 
+ - Most hot metals glow
+ - Heat pipe
+ - Thermometer
+ - Insulator
+ - Hovercar
+ - Heating element
+ - No collision link (Phase link)
+ - Framerate limit setting (will only take effect if Vsync is disabled)
+ - Bullets slow down and diverge under water
+ - Rocket launcher rockets slow down under water
+ - Forced resting pose
+
+## Changed
+ - Decreased copper wire strength
+ - Notifications appear instantly instead of sliding in a little too late
+ - Decreased base screen shake intensity
+ - Plates are a little less fragile
+ - Things burn slower
+ - Minor performance improvements
+
+## Fixed
+ - Axe serialisation bug (this may break axes in existing contraptions)
+ - Potential temporary freezing when you have a lot of undownloaded workshop mods
+ - Mods being able to break the mod list
+ - A bug to do with sleeping rigidbodies
+ - Limb-to-limb energy transfer problems
+
+## [1.16.5] - April 12 2021
 
 ## Added
  - Copper wire (destructible conductive wire)
+
 ## Fixed
  - The car engine no longer sticks out the car 
  - "OnLoad" will now be called when the mod is activated for the first time. This fixes a few issues.
