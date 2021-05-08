@@ -9,7 +9,10 @@
  - Thermometer
  - Insulator
  - Hovercar
+ - Freezeray
+ - Heatray
  - Heating element
+ - Cooling element
  - No collision link (Phase link)
  - Framerate limit setting (will only take effect if Vsync is disabled)
  - Bullets slow down and diverge under water
