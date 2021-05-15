@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.17.2] - May 16 2021
+## [1.17.3] - May 16 2021
 
 ## Removed
  - OKAY I REMOVED THE BUG REPORT FORM. Jesus Christ. What is wrong with all of you. Within the first hour of releasing the update, I had to IP ban an embarrassing amount of people. As a sidenote, please uninstall Sanguinem Triae because about 50% of all the reports I received were caused by it. No offense to its creator, but this is a disaster.
