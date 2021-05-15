@@ -1,6 +1,40 @@
 # Changelog
 
-## [1.17] - ??
+## [1.17.2] - May 15 2021
+
+## Added
+ - Temperature unit setting
+ - Frozen limbs turn blueish
+ - In-game bug report form
+
+## Changed
+ - Minor performance improvements
+ - Nuclear explosions no longer set everything on fire (necessarily)
+ - Nuclear explosions now only burn things in its line of sight
+ - Darkened the pause menu
+ - Power gauge is less susceptible to heat damage
+ - Igniting things via the context menu is more clearly effective
+
+## Fixed
+ - Burning-related bugs
+ - Strange wire colour bugs
+ - Magic purple glow? Probably fixed?? Inform me please
+ - Wires on piston head (and other objects) acting weird
+
+## Removed
+ - Ignition sound
+
+## [1.17.1] - May 9 2021
+
+## Fixed
+ - Weird water bugs
+ - Humans not burning for some reason
+ - Bleeding not fully stopping when temperature is under 0
+ - Insulators no longer catch fire
+ - Collision exit bug
+
+
+## [1.17] - May 9 2021
 
 ## Added
  - Basic temperature simulation 
