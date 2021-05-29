@@ -1,5 +1,43 @@
 # Changelog
 
+## [1.18] - ?? 2021
+
+## Added
+ - Ion thruster
+ - Lance
+ - Most explosives heat up affected objects
+ - Utility workshop tag
+ - An alert that tells you which mods are significantly affecting load times
+ - Small button to export game debug info
+## Changed
+ - Rewrote most Steam integration, mod loading, and contraption loading to be done in the background. This should fix the phenomenal startup times if you have hundreds of mods. Do note, however, that I can't control what modders make their mods do upon loading. Some mods may still freeze the game and there's nothing I can do to prevent that.
+ - This update will forcibly recompile all your installed mods. If you have lots of them, this will take a while. This will only happen once, though.
+ - Also switched to Facepunch's C# implementation of Steamworks which you won't really notice.
+ - Minor changes to some particle effects
+ - Completely changed the settings menu. It is no longer a weird game of tetris
+ - Disallowed mods to use shady code
+ - Tank shells are explosive
+ - Made humans less resilient to extreme ambient temperatures
+ - Lightbulbs are less hot
+ - Slight texture changes
+ - Energy swords deflect blaster bolts and other energy projectiles
+ - Energy swords collide with other energy swords
+ - You can now stop resizing without having to right click the object specifically
+ - "Double delay" and "Half delay" type buttons are replaced with a simple number input dialog box.
+ - Fire spread radius decreased
+ - Replaced firworks SFX
+ - Minor changes to firework particles
+ - Fireworks fuse length is now slightly randomised
+ - Minor performance improvements
+## Fixed
+ - Useless text in mod error description 
+ - Red barrels being unreasonably hard to set off
+ - Minor bugs
+ - Strange Tesla coil business
+ - Phenomenal startup times if you have hundreds of Workshop subscriptions
+ - Infinite android "blood" amount 
+## Removed
+
 ## [1.17.3] - May 16 2021
 
 ## Removed
