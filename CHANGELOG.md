@@ -1,21 +1,38 @@
 # Changelog
 
-## [1.18] - ?? 2021
+## [1.18.1] - May 30 2021
+
+## Added
+ - Animations for most traditional firearms
+ - Living things now have an internal temperature
+ - Internal temperature is shown in the Inspector panel
+## Fixed
+ - Muzzleflashes not correctly scaling
+ - Environment tab not resizing with the containing panel
+ - Broken chair being way too rigid
+ - Table & chair being too resilient
+ - Weird text rendering artifacts (long overdue)
+ - Organisms not burning correctly
+
+## [1.18] - May 29 2021
 
 ## Added
  - Ion thruster
+ - Flintlock pistol
  - Lance
  - Most explosives heat up affected objects
  - Utility workshop tag
  - An alert that tells you which mods are significantly affecting load times
  - Small button to export game debug info
+ - The toybox panel is now resizable
+ - Wooden furniture is now destructible
 ## Changed
  - Rewrote most Steam integration, mod loading, and contraption loading to be done in the background. This should fix the phenomenal startup times if you have hundreds of mods. Do note, however, that I can't control what modders make their mods do upon loading. Some mods may still freeze the game and there's nothing I can do to prevent that.
  - This update will forcibly recompile all your installed mods. If you have lots of them, this will take a while. This will only happen once, though.
  - Also switched to Facepunch's C# implementation of Steamworks which you won't really notice.
  - Minor changes to some particle effects
  - Completely changed the settings menu. It is no longer a weird game of tetris
- - Disallowed mods to use shady code
+ - Disallowed mods to use shady code (toggleable in settings)
  - Tank shells are explosive
  - Made humans less resilient to extreme ambient temperatures
  - Lightbulbs are less hot
@@ -29,14 +46,21 @@
  - Minor changes to firework particles
  - Fireworks fuse length is now slightly randomised
  - Minor performance improvements
+ - Changed blaster impact remnant effect
+ - Machine blaster bolt is slightly less bright
+ - Made all guns (for humans) much lighter and decreased their recoil
+ - Made the submachine gun a little smaller
 ## Fixed
  - Useless text in mod error description 
  - Red barrels being unreasonably hard to set off
- - Minor bugs
+ - Bleeding particles appearing outside the bounding box of the limb
+ - Ambient temperature input permanently blocking user input
  - Strange Tesla coil business
+ - Tank barrel displacement issues
  - Phenomenal startup times if you have hundreds of Workshop subscriptions
  - Infinite android "blood" amount 
-## Removed
+ - A bug where you sometimes couldn't delete a contraption
+ - Other minor bugs that nobody hopefully noticed
 
 ## [1.17.3] - May 16 2021
 
