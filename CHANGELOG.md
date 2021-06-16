@@ -11,18 +11,18 @@
  - Hold the spawn key when spawning contraptions to see their silhouette before placing them down. **This only applies to all contraptions saved in or after this version.**
  - Syringes can now push, pull, or be idle. Just like the blood tank.
  - Limbs no longer have an upper bound on their liquid capacity.
- - Liquid identifing machine. It displays the make up of its contents.
+ - Liquid identifying machine. It displays the make up of its contents.
  - Blood tank context menu options for each mode
  - Gate "max power" property that you can set using the context menu.
  - Minor details to most maps
  - Brightness setting
 
 ## Changed
- - **The entire syringe system. This will destroy all syringe mods created before this version.** All syringe behaviour is now based on liquids. Syringes are liquid containers and every syringe effect is the result of foreign liquid entered the circulation.
+ - **The entire syringe system. This will destroy all syringe mods created before this version.** All syringe behaviour is now based on liquids. Syringes are liquid containers and every syringe effect is the result of foreign liquid entering the circulation.
  - Almost all spawnable item thumbnails
  - Map ambience is now stereo
  - Bandages will now prioritise connecting to the same object. This makes applying bandage a lot easier.
- - Beings react a little more intensily to being shot
+ - Beings react a little more intensely to being shot
  - Underground tunnel in Hybrid is better lit
  - Syringe appearance
  - Made rope catenaries more accurate
@@ -33,7 +33,7 @@
  - Audio sliders not updating the volume while sliding
  - Gate not having the correct threshold input dialog
  - Odd radio sound artifacts & other issues
- - Framerate dependendant splash effects
+ - Framerate dependent splash effects
  - Minor performance improvements
  - Major liquid system problems. This _may_ influence older saves with humans in them.
  - Major serialisation issues
@@ -41,6 +41,7 @@
  - The inspector window "blood amount" value no longer counts other liquid types
  - Shotgun collision boxes
  - Abyss uneven platform height
+ - Missing Physics Gun init sound
 
  ## Removed
   - Pink Syringe fog particles
