@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.19] - ?? 2021
+## [1.19] - June 19 2021
 
 ## Added
  - Rope
@@ -8,8 +8,8 @@
  - Empty syringe
  - Ceiling sentry turret
  - Mending syringe
- - Hold the spawn key when spawning contraptions to see their silhouette before placing them down. **This only applies to all contraptions saved in or after this version.**
- - Syringes can now push, pull, or be idle. Just like the blood tank.
+ - Hold the spawn key when spawning contraptions to see their silhouette before placing them down. **This only applies to all contraptions saved in or after this version.** This also applies to copying/pasting using the shortcuts.
+ - Empty syringes can push, pull, or be idle. Just like the blood tank.
  - Limbs no longer have an upper bound on their liquid capacity.
  - Liquid identifying machine. It displays the make up of its contents.
  - Blood tank context menu options for each mode
@@ -18,7 +18,8 @@
  - Brightness setting
 
 ## Changed
- - **The entire syringe system. This will destroy all syringe mods created before this version.** All syringe behaviour is now based on liquids. Syringes are liquid containers and every syringe effect is the result of foreign liquid entering the circulation.
+ - **The entire syringe system. This will destroy all syringe mods created before this version.** All syringe behaviour is now based on liquids. Syringes are liquid containers and every syringe effect is the result of foreign liquid entering the circulation. All syringes, except the empty syringe, are infinite.
+ **Attention to modders: you can derive from "OldSyringeBehaviour" instead of "SyringeBehaviour" if you want to keep using the old system.**
  - Almost all spawnable item thumbnails
  - Map ambience is now stereo
  - Bandages will now prioritise connecting to the same object. This makes applying bandage a lot easier.
@@ -26,15 +27,20 @@
  - Underground tunnel in Hybrid is better lit
  - Syringe appearance
  - Made rope catenaries more accurate
+ - Minor performance improvements
+ - Made context menu scrolling faster
+ - Balloons pop sooner
+ - Some electronics are shielded from heat damage on spawn
+ - Nitroglycerine is now harmful in large doses
 
 ## Fixed
  - Shock detector not sending out a signal to all channels
  - Some platform specific overrides
  - Audio sliders not updating the volume while sliding
  - Gate not having the correct threshold input dialog
- - Odd radio sound artifacts & other issues
+ - Odd transmitter sound artifacts & other issues
  - Framerate dependent splash effects
- - Minor performance improvements
+ - Potential audio clamping bug 
  - Major liquid system problems. This _may_ influence older saves with humans in them.
  - Major serialisation issues
  - Blood tank drain particles being the incorrect colour
@@ -42,8 +48,10 @@
  - Shotgun collision boxes
  - Abyss uneven platform height
  - Missing Physics Gun init sound
+ - Human reaction to disconnected limbs burning
+ - Minor bugs
 
- ## Removed
+## Removed
   - Pink Syringe fog particles
 
 ## [1.18.1] - May 30 2021
