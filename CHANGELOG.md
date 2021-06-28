@@ -1,5 +1,44 @@
 # Changelog
 
+## [1.19.2] - June 28 2021
+
+## Added
+ - Setting to disable liquid-overflow-limb-explosion
+
+## Changed
+ - Syringes won't push liquid into a limb if it already has some in it
+ 
+## Fixed
+ - Keeping syringes in a human for a prolonged amount of time will no longer destroy them
+ - Minor performance improvements & bug fixes
+
+## [1.19.1] - June 27 2021
+
+## Added
+ - Limbs explode if pumped too full of liquid
+ - Water breathing syringe
+ - Fusion bomb
+ - Mystery liquids
+ - Liquid valve
+ - Nuclear weapons may destroy electronics if in line of sight
+
+## Changed
+ - Made it easier to grab moving objects while following them
+ - Drastically decreased the capacity of the tank in a car
+ - Made humans a little stronger
+ - Atom bombs glow a bit
+ - Beings don't start panicking the moment they're under water
+ - Rewrote limb connectedness system. For mods, this means that `CirculationBehaviour.IsConnectedToMainBody` and `CirculationBehaviour.IsDisconnected` are obsolete (still available with behaviour unchanged). Use `Limb.NodeBehaviour.IsConnectedToRoot` instead.
+ 
+## Fixed
+ - Camera locking bug when following things
+ - Beings being able to live without blood
+ - Minor bugs
+ - Incorrect temporary body liquid behaviour
+ - Weird spawn silhouette delay bug
+
+## Removed
+
 ## [1.19] - June 19 2021
 
 ## Added
