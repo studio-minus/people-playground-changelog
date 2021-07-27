@@ -1,5 +1,39 @@
 # Changelog
 
+## [1.20] - July ?? 2021
+
+## Added
+ - Lava map
+ - Lava pool to Hybrid
+ - Buttons have a double trigger mode
+ - Underwater objects may transfer charge to other near underwater objects
+ - Tempered glass pane
+ - Liquid container pressure now travels through valves and such. This may introduce some unfamiliar, however correct, behaviour.
+
+## Changed
+ - Rewrote button behaviour
+ - Default value for "Liquid overflow limb exploding" setting is now "Disabled"
+ - Made the "Pacifist" achievement less strict.
+ - LMG belt is now lighter
+ - Minor texture changes
+ - Hybrid thumbnail change
+ - Extended environmental setting numerical limits. Gravity can now go from -200 to 200. Ambient temperature can now go from -100 to 9000 degrees C
+
+ - `ExplosionCreator.CreateExplosionWithWater` no longer asks for a water surface level
+ 
+## Fixed
+ - Human visual wound serialisation issues
+ - Acid inconsistencies
+ - Limb crushing inconsistencies
+ - Impact intensity inconsistencies
+ - Performance improvements
+ - Syringe and other stabby item problems to do with limb crushing and disintegration
+ - Pink enhancing serum can no longer weaken limbs
+ - Major water bugs (this changes the `WaterBehaviour` significantly and if your mod depends on this then it will break)
+
+ ## Removed
+ - That "Made it easier to grab moving objects while following them" thing because it actually made things less easy
+
 ## [1.19.2] - June 28 2021
 
 ## Added
