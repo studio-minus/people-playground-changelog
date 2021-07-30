@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.21] - July ?? 2021
+
+## Added
+ - More mystery liquids
+## Changed
+## Fixed
+ - A broken plate being heavier than a normal one
+## Removed
+
 ## [1.20] - July ?? 2021
 
 ## Added
