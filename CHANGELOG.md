@@ -4,9 +4,13 @@
 
 ## Added
  - More mystery liquids
+ - Lava pools now work nicely with ambient temperature
 ## Changed
+ - Simplified some objects
 ## Fixed
  - A broken plate being heavier than a normal one
+ - Stuff being rendered outside of map bounds
+ - Some items going haywire inside lava
 ## Removed
 
 ## [1.20] - July ?? 2021
