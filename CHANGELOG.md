@@ -5,15 +5,18 @@
 ## Added
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
+
 ## Changed
- - Simplified some objects
+ - Simplified some object colliders
+
 ## Fixed
  - A broken plate being heavier than a normal one
  - Stuff being rendered outside of map bounds
  - Some items going haywire inside lava
+
 ## Removed
 
-## [1.20] - July ?? 2021
+## [1.20] - July 28 2021
 
 ## Added
  - Lava map
@@ -21,7 +24,10 @@
  - Buttons have a double trigger mode
  - Underwater objects may transfer charge to other near underwater objects
  - Tempered glass pane
+ - You can hold M (can rebind) while using pins to snap to the center of mass of the undelying object. This is useful for things like putting pins in the exact center of wheels. It also magically allows you to put pins outside the object. This may be extended to other tools in the future, but it's just pins for now. It's pins.
  - Liquid container pressure now travels through valves and such. This may introduce some unfamiliar, however correct, behaviour.
+ - ModAPI.OnLinkCreated and ModAPI.OnPinCreated events. The modding wiki is being worked on intensely so these events may not be documented for a while. They are invoked when a link device is created (currently only the phase link) and when a pin is created, respectively.
+ - Partial proper documentation: https://www.studiominus.nl/ppg-modding/internalReference.html. It isn't completely done yet so there may be some issues. Not everything has an explanation yet but I have done the most important parts.
 
 ## Changed
  - Rewrote button behaviour
@@ -32,7 +38,7 @@
  - Hybrid thumbnail change
  - Extended environmental setting numerical limits. Gravity can now go from -200 to 200. Ambient temperature can now go from -100 to 9000 degrees C
 
- - `ExplosionCreator.CreateExplosionWithWater` no longer asks for a water surface level
+ - ExplosionCreator.CreateExplosionWithWater no longer asks for a water surface level
  
 ## Fixed
  - Human visual wound serialisation issues
@@ -40,9 +46,12 @@
  - Limb crushing inconsistencies
  - Impact intensity inconsistencies
  - Performance improvements
+ - Center of mass indicator bugs
+ - Resized wings violating the laws of physics
+ - Incorrect layering of worm staff worms
  - Syringe and other stabby item problems to do with limb crushing and disintegration
  - Pink enhancing serum can no longer weaken limbs
- - Major water bugs (this changes the `WaterBehaviour` significantly and if your mod depends on this then it will break)
+ - Major water bugs (this changes the WaterBehaviour significantly and if your mod depends on this then it will break)
 
  ## Removed
  - That "Made it easier to grab moving objects while following them" thing because it actually made things less easy
