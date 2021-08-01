@@ -3,18 +3,19 @@
 ## [1.21] - July ?? 2021
 
 ## Added
- - Liquid pump
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
 
 ## Changed
  - Simplified some object colliders
+ - Made the phase link smaller
 
 ## Fixed
  - A broken plate being heavier than a normal one
  - Stuff being rendered outside of map bounds
  - Some items going haywire inside lava
  - Valves still transferring pressure when closed
+ - Liquid bugs
 
 ## Removed
 
