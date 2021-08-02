@@ -16,6 +16,10 @@
  - Some items going haywire inside lava
  - Valves still transferring pressure when closed
  - Liquid bugs
+ - Detector performance improvements
+ - Detectors no longer detect themselves
+ - Laser performance improvements
+ - Lasers are more consistent and no longer block their own beam
 
 ## Removed
 
