@@ -5,21 +5,24 @@
 ## Added
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
+ - Scrollbar to the mod menu
 
 ## Changed
  - Simplified some object colliders
  - Made the phase link smaller
+ - Ceiling turret moves less smoothly and more robotically
+ - Laser performance improvements
+ - Detector performance improvements
 
 ## Fixed
  - A broken plate being heavier than a normal one
  - Stuff being rendered outside of map bounds
  - Some items going haywire inside lava
+ - Context menu closing when the scrollwheel is clicked
  - Valves still transferring pressure when closed
- - Liquid bugs
- - Detector performance improvements
- - Detectors no longer detect themselves
- - Laser performance improvements
- - Lasers are more consistent and no longer block their own beam
+ - Liquid related bugs
+ - Detectors detecting themselves when moving fast
+ - Lasers blocking their own beam
 
 ## Removed
 
