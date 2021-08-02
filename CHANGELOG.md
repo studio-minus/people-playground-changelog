@@ -5,6 +5,7 @@
 ## Added
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
+ - All contraptions saved from now on will include a list of required mods. When selecting a modded contraption, the game will display a list of required mods if you don't have them installed or enabled.
  - Scrollbar to the mod menu
 
 ## Changed
