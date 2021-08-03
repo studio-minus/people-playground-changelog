@@ -3,6 +3,7 @@
 ## [1.21] - July ?? 2021
 
 ## Added
+ - Liquid pressuriser
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
  - All contraptions saved from now on will include a list of required mods. When selecting a modded contraption, the game will display a list of required mods if you don't have them installed or enabled.
@@ -24,6 +25,7 @@
  - Liquid related bugs
  - Detectors detecting themselves when moving fast
  - Lasers blocking their own beam
+ - Minor disintegration & crushing bugs and also performance improvements
 
 ## Removed
 
