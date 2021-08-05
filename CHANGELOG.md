@@ -17,6 +17,7 @@
  - Ceiling turret moves less smoothly and more robotically
  - Laser performance improvements
  - Detector performance improvements
+ - Other major performance improvements
 
 ## Fixed
  - A broken plate being heavier than a normal one
