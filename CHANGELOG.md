@@ -29,6 +29,7 @@
  - Detectors detecting themselves when moving fast
  - Lasers blocking their own beam
  - Minor disintegration & crushing bugs and also performance improvements
+ - Item persistence bug
  - A memory leak
 
 ## Removed
