@@ -5,11 +5,12 @@
 ## Added
  - Liquid pressuriser
  - Liquid pressure valve
+ - Hover thruster
  - Red LED, Blue LED, Green LED, White LED
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
  - All contraptions saved from now on will include a list of required mods. When selecting a modded contraption, the game will display a list of required mods if you don't have them installed or enabled.
- - Scrollbar to the mod menu
+ - Scrollbar to the mod menu and toybox
 
 ## Changed
  - Simplified some object colliders
@@ -18,6 +19,8 @@
  - Laser performance improvements
  - Detector performance improvements
  - Other major performance improvements
+ - Hovercars now hover over water
+ - Increased mouse scrolling speed in menus
 
 ## Fixed
  - A broken plate being heavier than a normal one
@@ -31,6 +34,7 @@
  - Minor disintegration & crushing bugs and also performance improvements
  - Item persistence bug
  - A memory leak
+ - Debris not being scaled with the destroyed object correctly
 
 ## Removed
 
