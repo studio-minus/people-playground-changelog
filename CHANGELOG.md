@@ -14,6 +14,8 @@
 
 ## Changed
  - Simplified some object colliders
+ - Minor texture changes
+ - Missile launcher missile is now disarmed until its fins are deployed
  - Made the phase link smaller
  - Ceiling turret moves less smoothly and more robotically
  - Laser performance improvements
