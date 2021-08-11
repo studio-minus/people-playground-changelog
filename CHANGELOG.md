@@ -6,6 +6,7 @@
  - Liquid pressuriser
  - Liquid pressure valve
  - Hover thruster
+ - Automatic spike gun
  - Red LED, Blue LED, Green LED, White LED
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
