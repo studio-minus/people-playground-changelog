@@ -6,6 +6,7 @@
  - Liquid pressuriser
  - Liquid pressure valve
  - Hover thruster
+ - Accumulator battery
  - Automatic spike gun
  - Red LED, Blue LED, Green LED, White LED
  - More mystery liquids
