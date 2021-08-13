@@ -5,6 +5,7 @@
 ## Added
  - Liquid pressuriser
  - Liquid pressure valve
+ - Destructible activation propagation wires
  - Hover thruster
  - Automatic spike gun
  - Red LED, Blue LED, Green LED, White LED
