@@ -7,6 +7,7 @@
  - Liquid pressure valve
  - Destructible activation propagation wires
  - Hover thruster
+ - Accumulator battery
  - Automatic spike gun
  - Red LED, Blue LED, Green LED, White LED
  - More mystery liquids
