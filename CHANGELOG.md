@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.21] - July ?? 2021
+## [1.21] - August ?? 2021
 
 ## Added
  - Liquid pressuriser
@@ -18,6 +18,7 @@
 
 ## Changed
  - Simplified some object colliders
+ - Bone breaking sounds
  - Minor texture changes
  - Missile launcher missile is now disarmed until its fins are deployed
  - Made the phase link smaller
@@ -27,6 +28,8 @@
  - Other major performance improvements
  - Hovercars now hover over water
  - Increased mouse scrolling speed in menus
+ - Bone breaking poison is less instant
+ - Decreased the chance for damage to the upper body to do damage to the heart
 
 ## Fixed
  - A broken plate being heavier than a normal one
@@ -40,6 +43,7 @@
  - Minor disintegration & crushing bugs and also performance improvements
  - Item persistence bug
  - A memory leak
+ - Heartrate Monitor issues
  - Debris not being scaled with the destroyed object correctly
 
 ## Removed
