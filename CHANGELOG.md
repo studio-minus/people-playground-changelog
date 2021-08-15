@@ -15,6 +15,9 @@
  - All contraptions saved from now on will include a list of required mods. When selecting a modded contraption, the game will display a list of required mods if you don't have them installed or enabled.
  - Scrollbar to the mod menu and toybox
  - More ambient sounds
+ - Gate now has a double trigger mode
+ - Some UI sounds
+ - A clear "Steam uninitialised" warning dialog box
 
 ## Changed
  - Simplified some object colliders
@@ -25,11 +28,14 @@
  - Ceiling turret moves less smoothly and more robotically
  - Laser performance improvements
  - Detector performance improvements
+ - Dialog boxes are clearer now
  - Other major performance improvements
  - Hovercars now hover over water
  - Increased mouse scrolling speed in menus
+ - Some UI sounds
  - Bone breaking poison is less instant
  - Decreased the chance for damage to the upper body to do damage to the heart
+ - Changes to the internal map system. Note to custom map creators and users: your maps will inevitably break in the upcoming updates. They may work to an extent but you should consider them obsolete.
 
 ## Fixed
  - A broken plate being heavier than a normal one
@@ -37,16 +43,21 @@
  - Some items going haywire inside lava
  - Context menu closing when the scrollwheel is clicked
  - Valves still transferring pressure when closed
+ - Channel-related bug with the gate
  - Liquid related bugs
- - Detectors detecting themselves when moving fast
+ - Detectors, lasers, and the missile launcher detecting themselves when moving fast
  - Lasers blocking their own beam
  - Minor disintegration & crushing bugs and also performance improvements
  - Item persistence bug
  - A memory leak
  - Heartrate Monitor issues
+ - UI lock when attempting to publish a contraption to the Workshop before Steam is initialised
  - Debris not being scaled with the destroyed object correctly
+ - Camera trying to follow disintegrated/crushed objects
+ - Other minor bugs
 
 ## Removed
+ - The play button on the maps menu. Just double click the map icon.
 
 ## [1.20] - July 28 2021
 
