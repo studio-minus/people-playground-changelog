@@ -50,6 +50,7 @@
  - Minor disintegration & crushing bugs and also performance improvements
  - Item persistence bug
  - A memory leak
+ - Small buttons going haywire in water and lava
  - Heartrate Monitor issues
  - UI lock when attempting to publish a contraption to the Workshop before Steam is initialised
  - Debris not being scaled with the destroyed object correctly
