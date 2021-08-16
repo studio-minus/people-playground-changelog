@@ -7,8 +7,10 @@
  - Liquid pressure valve
  - Destructible activation propagation wires
  - Hover thruster
+ - Activation toggle
  - Accumulator battery
  - Automatic spike gun
+ - You can now change the range of a detector using the context menu
  - Red LED, Blue LED, Green LED, White LED
  - More mystery liquids
  - Lava pools now work nicely with ambient temperature
@@ -28,6 +30,7 @@
  - Ceiling turret moves less smoothly and more robotically
  - Laser performance improvements
  - Detector performance improvements
+ - Detector rays are a little brighter
  - Dialog boxes are clearer now
  - Other major performance improvements
  - Hovercars now hover over water
@@ -39,6 +42,7 @@
 
 ## Fixed
  - A broken plate being heavier than a normal one
+ - Display text change dialog not being pre-filled with the current text being displayed
  - Stuff being rendered outside of map bounds
  - Some items going haywire inside lava
  - Context menu closing when the scrollwheel is clicked
