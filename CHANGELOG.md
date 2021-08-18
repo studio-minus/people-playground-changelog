@@ -2,13 +2,14 @@
 
 ## [1.21.1] - August ?? 2021
 
-## Added
+## Added 
 
 ## Changed
  - Water splashes are no longer created if the object is moving too slowly
 
 ## Fixed
  - The camera going insane when following disintegrated things
+ - Memory leak
 
 ## Removed
 
