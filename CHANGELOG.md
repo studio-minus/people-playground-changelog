@@ -1,17 +1,20 @@
 # Changelog
 
-## [1.21.1] - August ?? 2021
-
-## Added 
+## [1.21.1] - August 18 2021
 
 ## Changed
+ - Hover thrusters now have an editable hover height (context menu). Energy only makes it more powerful.
  - Water splashes are no longer created if the object is moving too slowly
 
 ## Fixed
  - The camera going insane when following disintegrated things
+ - Underwater sound starting too early
  - Memory leak
-
-## Removed
+ - Much faster map switching and contraption saving
+ - Activation toggle still working when broken
+ - Resize action in context menu not closing the menu
+ - Other small bugs
+ - Outline (de)serialisation issues
 
 
 ## [1.21] - August 17 2021
