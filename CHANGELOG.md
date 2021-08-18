@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.21] - August ?? 2021
+## [1.21] - August 17 2021
 
 ## Added
  - Liquid pressuriser
@@ -54,15 +54,13 @@
  - Minor disintegration & crushing bugs and also performance improvements
  - Item persistence bug
  - A memory leak
+ - Metal detector not considering some items metal
  - Small buttons going haywire in water and lava
  - Heartrate Monitor issues
  - UI lock when attempting to publish a contraption to the Workshop before Steam is initialised
  - Debris not being scaled with the destroyed object correctly
  - Camera trying to follow disintegrated/crushed objects
  - Other minor bugs
-
-## Removed
- - The play button on the maps menu. Just double click the map icon.
 
 ## [1.20] - July 28 2021
 
