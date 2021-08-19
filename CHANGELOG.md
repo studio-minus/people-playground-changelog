@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.21.2] - August ?? 2021
+
+## Added
+ - Hover thrusters can now change height using signals. Red increases hover height by 10 cm every use (or 5 meters per second when used continuously), blue decreases by the same amount.
+
+## Changed
+ - Falling animation
+ - Dismemberment is now painful
+
+## Fixed
+ - Humans no longer die immediately if their arms are ripped off
+ - Older outlines being all warped
+ - Laser not scaling correctly
+
+## Removed
+
+
 ## [1.21.1] - August 18 2021
 
 ## Changed
