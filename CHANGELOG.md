@@ -17,9 +17,6 @@
  - Some effects not being removed when "Clear everything" is pressed
  - Laser not scaling correctly
 
-## Removed
-
-
 ## [1.21.1] - August 18 2021
 
 ## Changed
