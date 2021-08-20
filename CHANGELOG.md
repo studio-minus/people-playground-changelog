@@ -4,9 +4,10 @@
 
 ## Added
 
-
 ## Changed
  - Renamed a few items
+ - Made destructible propagation wires less fragile
+ - Slightly faster contraption spawning / pasting
 
 ## Fixed
 
