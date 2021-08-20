@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.21.3] - August ?? 2021
+
+## Added
+
+
+## Changed
+ - Renamed a few items
+
+## Fixed
+
+
+## Removed
+
+
+
 ## [1.21.2] - August 19 2021
 
 ## Added
@@ -9,7 +24,7 @@
  - Falling animation
  - Dismemberment is now painful
  - LED Bulbs can now break
- - Vector SMG sounds
+ - G1 SMG sounds
 
 ## Fixed
  - Humans no longer die immediately if their arms are ripped off
@@ -1263,11 +1278,11 @@ A small update adding a few new items and fixing a number of bugs following 1.3
 
 ## [1.2.5] - October 27 2019
 ### Added
-   - Glock 17
-   - Desert Eagle
-   - PPSH
-   - M1 Garand
-   - Vector
+   - 9mm Pistol
+   - Handcannon
+   - Soviet SMG
+   - M1 Rifle
+   - G1
    - Stielhandgranate
    - Disassembler gun
    - Decimator
