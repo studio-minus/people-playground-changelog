@@ -10,7 +10,9 @@
  - Slightly faster contraption spawning / pasting
 
 ## Fixed
-
+ - Out of bounds hover height for hover thrusters
+ - The game now falls back to the object center when calculating the center of mass for frozen objects
+ - Crate debris not being removed correctly
 
 ## Removed
 
