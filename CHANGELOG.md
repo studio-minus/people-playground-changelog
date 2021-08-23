@@ -1,8 +1,9 @@
 # Changelog
 
-## [1.21.3] - August ?? 2021
+## [1.21.3] - August 23 2021
 
 ## Added
+ - Cable. An indestructible non-conductive wire.
 
 ## Changed
  - Renamed a few items
@@ -18,13 +19,10 @@
  - Crate debris not being removed correctly
  - More consistent contraption mod detection
  - Propagation wire destructibility issues (is that a word?)
+ - Activation transformer only outputting a green signal
  - Minor bug fixes
  - Center of mass gizmo being all jittery
  - Frozen organisms not experiencing some things
-
-## Removed
-
-
 
 ## [1.21.2] - August 19 2021
 
