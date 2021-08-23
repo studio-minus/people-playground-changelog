@@ -1,8 +1,9 @@
 # Changelog
 
-## [1.21.3] - August ?? 2021
+## [1.21.3] - August 23 2021
 
 ## Added
+ - Cable. An indestructible non-conductive wire.
 
 ## Changed
  - Renamed a few items
@@ -14,6 +15,7 @@
  - The game now falls back to the object center when calculating the center of mass for frozen objects
  - Crate debris not being removed correctly
  - More consistent contraption mod detection
+ - Activation transformer only outputting a green signal
  - Minor bug fixes
 
 ## Removed
