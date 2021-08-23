@@ -18,10 +18,6 @@
  - Activation transformer only outputting a green signal
  - Minor bug fixes
 
-## Removed
-
-
-
 ## [1.21.2] - August 19 2021
 
 ## Added
