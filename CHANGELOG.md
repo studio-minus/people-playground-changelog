@@ -8,13 +8,19 @@
  - Renamed a few items
  - Made destructible propagation wires less fragile
  - Slightly faster contraption spawning / pasting
+ - Shards and crossbow bolts fired from their respective launchers no longer collide with each other
+ - Explosives heat up objects less intensily
 
 ## Fixed
+ - Steam warning appearing too often
  - Out of bounds hover height for hover thrusters
  - The game now falls back to the object center when calculating the center of mass for frozen objects
  - Crate debris not being removed correctly
  - More consistent contraption mod detection
+ - Propagation wire destructibility issues (is that a word?)
  - Minor bug fixes
+ - Center of mass gizmo being all jittery
+ - Frozen organisms not experiencing some things
 
 ## Removed
 
