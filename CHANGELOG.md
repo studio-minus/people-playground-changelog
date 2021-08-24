@@ -3,6 +3,7 @@
 ## [??] - ?? 2021
 
 ## Added
+ - Much better bells. You can select a piano key in the context menu.
  - Wire direction snapping
  - Entities feel momentary pain when stunned
  - "Stop animation on damage" setting
@@ -14,6 +15,7 @@
 ## Fixed
 
 ## Removed
+ - The old bells. Contraptions with old bells in them will still work.
 
 ## [1.21.3] - August 23 2021
 
