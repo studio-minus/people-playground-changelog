@@ -3,6 +3,8 @@
 ## [??] - ?? 2021
 
 ## Added
+ - Wire direction snapping
+ - Entities feel momentary pain when stunned
 
 ## Changed
 
