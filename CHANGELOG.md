@@ -5,8 +5,11 @@
 ## Added
  - Wire direction snapping
  - Entities feel momentary pain when stunned
+ - "Stop animation on damage" setting
+ - Escape key escaping things
 
 ## Changed
+ - Lowered contraption spawn outline delay
 
 ## Fixed
 
