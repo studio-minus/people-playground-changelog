@@ -8,14 +8,26 @@
  - Entities feel momentary pain when stunned
  - "Stop animation on damage" setting
  - Escape key escaping things
+ - Balloons now pop under pressure
+ - Exit wounds for stabbing 
+ - Humans can get paralysed if their spine breaks
+ - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, loss of balance (in case of a head injury), and slowness. Major internal bleeding results in death.
 
 ## Changed
  - Lowered contraption spawn outline delay
+ - Humans regenerate limb integrity slowly
+ - Living tissue regenerates blunt damage slowly
+ - Adjusted impact damage so that head injuries are more dangerous
+ - Increased general impact damage severity
 
 ## Fixed
+ - Minor optimisation
+ - Minor bug fixes
+ - Water splashing being audible from seven lightyears away
 
 ## Removed
  - The old bells. Contraptions with old bells in them will still work.
+ - PersonBehaviour.AverageAngle
 
 ## [1.21.3] - August 23 2021
 
