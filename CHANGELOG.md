@@ -7,11 +7,12 @@
  - Wire direction snapping
  - Entities feel momentary pain when stunned
  - "Stop animation on damage" setting
+ - "Set object temperature" context menu option
  - Escape key escaping things
  - Balloons now pop under pressure
  - Exit wounds for stabbing 
  - Humans can get paralysed if their spine breaks
- - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, loss of balance (in case of a head injury), and slowness. Major internal bleeding results in death.
+ - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
 
 ## Changed
  - Lowered contraption spawn outline delay
@@ -19,6 +20,7 @@
  - Living tissue regenerates blunt damage slowly
  - Adjusted impact damage so that head injuries are more dangerous
  - Increased general impact damage severity
+ - Other minor changes to humans
 
 ## Fixed
  - Minor optimisation
