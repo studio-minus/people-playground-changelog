@@ -13,14 +13,19 @@
  - Exit wounds for stabbing 
  - Humans can get paralysed if their spine breaks
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
+ - A few optional keybinds
+ - Unbind button in keybind menu
 
 ## Changed
  - Lowered contraption spawn outline delay
  - Humans regenerate limb integrity slowly
- - Living tissue regenerates blunt damage slowly
+ - Living tissue regenerates visual blunt damage slowly
  - Adjusted impact damage so that head injuries are more dangerous
  - Increased general impact damage severity
  - Other minor changes to humans
+ - Decreased bleeding particle intensity
+ - Joint stress sound rate
+ - Minor changes to keybind page
 
 ## Fixed
  - Minor optimisation
