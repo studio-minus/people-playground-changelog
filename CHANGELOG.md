@@ -12,6 +12,7 @@
  - Balloons now pop under pressure
  - Exit wounds for stabbing 
  - Humans can get paralysed if their spine breaks
+ - Organisms now how specific "vital" spots inside their body. For example, head injuries are no longer necessarily a brain injury.
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
  - A few optional keybinds
  - Unbind button in keybind menu
@@ -30,6 +31,7 @@
 ## Fixed
  - Minor optimisation
  - Minor bug fixes
+ - Weird bandage tool bug where you could attach it to other wires
  - Water splashing being audible from seven lightyears away
 
 ## Removed
