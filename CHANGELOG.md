@@ -1,6 +1,6 @@
 # Changelog
 
-## [??] - ?? 2021
+## [1.22] - ?? 2021
 
 ## Added
  - Much better bells. You can select a piano key in the context menu.
