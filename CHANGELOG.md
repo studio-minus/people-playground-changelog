@@ -9,6 +9,7 @@
  - "Stop animation on damage" setting
  - "Set object temperature" context menu option
  - Escape key escaping things
+ - Objects are now destroyed if they are out of bounds for over 5 seconds.
  - Balloons now pop under pressure
  - Exit wounds for stabbing 
  - Humans can get paralysed if their spine breaks
@@ -18,8 +19,8 @@
  - Unbind button in keybind menu
 
 ## Changed
- - Lowered contraption spawn outline delay
  - Humans regenerate limb integrity slowly
+ - Lowered contraption spawn outline delay
  - Living tissue regenerates visual blunt damage slowly
  - Adjusted impact damage so that head injuries are more dangerous
  - Increased general impact damage severity
@@ -33,6 +34,14 @@
  - Minor bug fixes
  - Weird bandage tool bug where you could attach it to other wires
  - Water splashing being audible from seven lightyears away
+ - Ceiling turret not correctly saving/loading frozen state
+ - Syringes not being affected by pressure system
+ - Bug causing knockout poison to appear pitch black
+ - Pull/push powers occasionally causing teleportation
+ - Disappearing center of mass etc.
+ - Accumulator not having a heat shield option
+ - Lingering limb status UI things after deserialisation
+ - Lingering objects after disintegration
 
 ## Removed
  - The old bells. Contraptions with old bells in them will still work.
