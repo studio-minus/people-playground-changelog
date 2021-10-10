@@ -15,6 +15,7 @@
  - Humans can get paralysed if their spine breaks
  - Organisms now how specific "vital" spots inside their body. For example, head injuries are no longer necessarily a brain injury.
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
+ - More intense bullet metal impact sounds
  - A few optional keybinds
  - Unbind button in keybind menu
 
@@ -24,6 +25,7 @@
  - Living tissue regenerates visual blunt damage slowly
  - Adjusted impact damage so that head injuries are more dangerous
  - Increased general impact damage severity
+ - Decreased blood particle intensity
  - Other minor changes to humans
  - Decreased bleeding particle intensity
  - Joint stress sound rate
