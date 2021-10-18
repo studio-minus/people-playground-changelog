@@ -3,19 +3,23 @@
 ## [??] - ?? 2021
 
 ## Added
- - Much better bells. You can select a piano key in the context menu.
+ - Much better bells. You can select a piano key in the context menu
+ - Infrared thermometer
  - Wire direction snapping
  - Entities feel momentary pain when stunned
  - "Stop animation on damage" setting
  - "Set object temperature" context menu option
  - Escape key escaping things
- - Objects are now destroyed if they are out of bounds for over 5 seconds.
+ - Objects are now destroyed if they are out of bounds for over 5 seconds
+ - "Recompile" button that is shown when a mod failed to compile. This way you don't need to restart the entire game when you are developing a mod.
+ - Maximum mod compilation duration setting. 10 seconds by default. A mod is only allowed to take this amount of time for compiling, otherwise its terminated and ignored.
  - Balloons now pop under pressure
  - Exit wounds for stabbing 
  - Humans can get paralysed if their spine breaks
  - Organisms now how specific "vital" spots inside their body. For example, head injuries are no longer necessarily a brain injury.
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
  - More intense bullet metal impact sounds
+ - Multiselect using shift (by default)
  - A few optional keybinds
  - Unbind button in keybind menu
 
@@ -25,11 +29,15 @@
  - Living tissue regenerates visual blunt damage slowly
  - Adjusted impact damage so that head injuries are more dangerous
  - Increased general impact damage severity
- - Decreased blood particle intensity
- - Other minor changes to humans
+ - Decreased blood impact particle intensity
  - Decreased bleeding particle intensity
+ - Other minor changes to humans
+ - Increased maximum bullet penetration iterations to 128. This will make thick, soft obstacles more penetrable.
+ - LMG sfx
  - Joint stress sound rate
  - Minor changes to keybind page
+ - "Show selection/freezing outlines" settings is now called "Show hovering highlights". It will also disable the red wire highlights
+
 
 ## Fixed
  - Minor optimisation
@@ -43,11 +51,13 @@
  - Disappearing center of mass etc.
  - Accumulator not having a heat shield option
  - Lingering limb status UI things after deserialisation
+ - Conveyor belt pinning serialisation issues
  - Lingering objects after disintegration
 
 ## Removed
  - The old bells. Contraptions with old bells in them will still work.
  - PersonBehaviour.AverageAngle
+ - Lance. Contraptions with it will still work.
 
 ## [1.21.3] - August 23 2021
 
