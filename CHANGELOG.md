@@ -13,6 +13,8 @@
  - Objects are now destroyed if they are out of bounds for over 5 seconds
  - "Recompile" button that is shown when a mod failed to compile. This way you don't need to restart the entire game when you are developing a mod.
  - Maximum mod compilation duration setting. 10 seconds by default. A mod is only allowed to take this amount of time for compiling, otherwise its terminated and ignored.
+ - Blood decal & particle colours are now accurate to the actual liquid inside the body
+ - Water cleans objects
  - Balloons now pop under pressure
  - Exit wounds for stabbing 
  - Humans can get paralysed if their spine breaks
