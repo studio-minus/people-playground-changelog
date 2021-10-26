@@ -21,7 +21,10 @@
  - Organisms now have specific "vital" spots inside their body. For example, head injuries are no longer necessarily a brain injury.
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
  - More intense bullet metal impact sounds
+ - If set to "Drain", the blood tank can now spill into other containers. This means you can make finally a nitroglycerin shower. It can also spill onto non-container objects, but this **will not** transfer the liquid effects onto that surface.
+ - Firearms can accidentally discharge when dropped
  - Multiselect using shift (by default)
+ - Toybox size is now remembered
  - A few optional keybinds
  - Unbind button in keybind menu
 
@@ -34,12 +37,12 @@
  - Decreased blood impact particle intensity
  - Decreased bleeding particle intensity
  - Other minor changes to humans
+ - Disassembler is more likely to disintegrate things
  - Increased maximum bullet penetration iterations to 128. This will make thick, soft obstacles more penetrable.
  - LMG sfx
  - Joint stress sound rate
  - Minor changes to keybind page
- - "Show selection/freezing outlines" settings is now called "Show hovering highlights". It will also disable the red wire highlights
-
+ - "Show selection/freezing outlines" settings is now called "Show hovering highlights". It will also disable the red wire highlights.
 
 ## Fixed
  - Minor optimisation
