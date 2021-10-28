@@ -5,6 +5,8 @@
 ## Added
  - Much better bells. You can select a piano key in the context menu.
  - Infrared thermometer
+ - Liquid outlet
+ - Thermal vision
  - Wire direction snapping
  - Entities feel momentary pain when stunned
  - "Stop animation on damage" setting
@@ -18,6 +20,7 @@
  - Balloons now pop under pressure
  - Exit wounds for stabbing 
  - Humans can get paralysed if their spine breaks
+ - There is a chance that an injury punctures the lungs of a human, which can cause low oxygen levels and death
  - Organisms now have specific "vital" spots inside their body. For example, head injuries are no longer necessarily a brain injury.
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
  - More intense bullet metal impact sounds
@@ -39,8 +42,10 @@
  - Other minor changes to humans
  - Disassembler is more likely to disintegrate things
  - Increased maximum bullet penetration iterations to 128. This will make thick, soft obstacles more penetrable.
- - LMG sfx
+ - Some firearm sfx changes
+ - Increased blood vessel wire transfer speed
  - Joint stress sound rate
+ - Replaced "Symphony No.40, Mozart" with "Danse Macabre, Saint Saëns 🎃" in the Jukebox.
  - Minor changes to keybind page
  - "Show selection/freezing outlines" settings is now called "Show hovering highlights". It will also disable the red wire highlights.
 
@@ -51,6 +56,8 @@
  - Water splashing being audible from seven lightyears away
  - Ceiling turret not correctly saving/loading frozen state
  - Syringes not being affected by pressure system
+ - Accidental overwriting of contraptions
+ - Occasional flashes of light when spawning in items
  - Bug causing knockout poison to appear pitch black
  - Pull/push powers occasionally causing teleportation
  - Disappearing center of mass etc.
