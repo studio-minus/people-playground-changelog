@@ -37,14 +37,17 @@
  - Lowered contraption spawn outline delay
  - Living tissue regenerates visual blunt damage slowly
  - Adjusted impact damage so that head injuries are more dangerous
+ - Fire kills less quickly
  - Increased general impact damage severity
  - Decreased blood impact particle intensity
  - Decreased bleeding particle intensity
  - Other minor changes to humans
  - Disassembler is more likely to disintegrate things
  - Increased maximum bullet penetration iterations to 128. This will make thick, soft obstacles more penetrable.
- - Some firearm sfx changes
+ - Some firearm SFX changes
+ - Wood impact SFX
  - Increased blood vessel wire transfer speed
+ - Minor changes to liquid rules
  - Joint stress sound rate
  - Replaced "Symphony No.40, Mozart" with "Danse Macabre, Saint Saëns 🎃" in the Jukebox.
  - Minor changes to keybind page
@@ -70,6 +73,7 @@
 ## Removed
  - The old bells. Contraptions with old bells in them will still work.
  - PersonBehaviour.AverageAngle
+ - "Liquid overflow limb exploding" setting
  - Lance. Contraptions with it will still work.
 
 ## [1.21.3] - August 23 2021
