@@ -9,6 +9,7 @@
  - Thermal vision
  - Vases
  - Wire direction snapping
+ - Detached 30mm HE autocannon
  - Entities feel momentary pain when stunned
  - "Stop animation on damage" setting
  - "Set object temperature" context menu option
@@ -49,6 +50,11 @@
  - Increased blood vessel wire transfer speed
  - Minor changes to liquid rules
  - Joint stress sound rate
+ - Beam rifle now heats up objects it strikes
+ - Blaster bolts heat up objects that they reflect off of
+ - Increased rocket launcher impact dismemberment chance
+ - Multithreaded the ambient temperature system
+ - The ambient temperature grid can now propagate more effectively
  - Replaced "Symphony No.40, Mozart" with "Danse Macabre, Saint Saëns 🎃" in the Jukebox.
  - Minor changes to keybind page
  - "Show selection/freezing outlines" settings is now called "Show hovering highlights". It will also disable the red wire highlights.
@@ -61,11 +67,14 @@
  - Ceiling turret not correctly saving/loading frozen state
  - Syringes not being affected by pressure system
  - Accidental overwriting of contraptions
+ - Bug where you could resize the toybox with middle mouse button
  - Occasional flashes of light when spawning in items
  - Bug causing knockout poison to appear pitch black
+ - Center of mass being all messed up when the object is resized or flipped
  - Pull/push powers occasionally causing teleportation
  - Disappearing center of mass etc.
  - Accumulator not having a heat shield option
+ - Object pooling issue
  - Lingering limb status UI things after deserialisation
  - Conveyor belt pinning serialisation issues
  - Lingering objects after disintegration
@@ -74,7 +83,6 @@
  - The old bells. Contraptions with old bells in them will still work.
  - PersonBehaviour.AverageAngle
  - "Liquid overflow limb exploding" setting
- - Lance. Contraptions with it will still work.
 
 ## [1.21.3] - August 23 2021
 
