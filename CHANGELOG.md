@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.22] - ?? 2021
+## [1.22] - November 1 2021
 
 ## Added
  - Much better bells. You can select a piano key in the context menu.
@@ -64,7 +64,7 @@
  - Minor optimisation
  - Minor bug fixes
  - Weird bandage tool bug where you could attach it to other wires
- - Water splashing being audible from seven lightyears away
+ - Water splashing being audible from seven light years away
  - Ceiling turret not correctly saving/loading frozen state
  - Syringes not being affected by pressure system
  - Accidental overwriting of contraptions
