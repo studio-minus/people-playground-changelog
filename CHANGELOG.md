@@ -9,7 +9,7 @@
  - Thermal vision
  - Vases
  - Wire direction snapping
- - Detached 30mm HE autocannon
+ - Detached 30mm HEAT autocannon
  - Entities feel momentary pain when stunned
  - "Stop animation on damage" setting
  - "Set object temperature" context menu option
@@ -49,6 +49,7 @@
  - Wood impact SFX
  - Increased blood vessel wire transfer speed
  - Minor changes to liquid rules
+ - Minor changes to the machine gun and 30mm cartridge
  - Joint stress sound rate
  - Beam rifle now heats up objects it strikes
  - Blaster bolts heat up objects that they reflect off of
