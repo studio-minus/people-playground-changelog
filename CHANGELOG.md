@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.22.1] - November ? 2021
+
+## Added
+
+## Changed
+ - Decreased likelihood of internal bleeding
+ - Reconstructor will help heal internal bleeding
+
+## Fixed
+ - Infrared thermometer incorrect limits
+ - Gate double trigger not existing
+ - "Bleeding" showing up in inspection display despite lack of visual bleeding
+
+## Removed
+
 ## [1.22] - November 1 2021
 
 ## Added
