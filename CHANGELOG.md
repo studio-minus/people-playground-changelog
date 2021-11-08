@@ -1,19 +1,22 @@
 # Changelog
 
-## [1.22.1] - November ? 2021
+## [1.22.1] - November 9 2021
 
 ## Added
+ - Mods now show if they have timed out
 
 ## Changed
  - Decreased likelihood of internal bleeding
  - Reconstructor will help heal internal bleeding
+ - Sentry turret is now a little more vulnerable
+ - Fireworks can explode when shot
 
 ## Fixed
  - Infrared thermometer incorrect limits
  - Gate double trigger not existing
+ - Sentry turret debris issues
+ - Bicycle disintegration bug
  - "Bleeding" showing up in inspection display despite lack of visual bleeding
-
-## Removed
 
 ## [1.22] - November 1 2021
 
