@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.22.2] - November 10 2021
+
+## Fixed
+- Fixed some out-of-bounds stuff again
+- Made PhysicalBehaviour.IsUnderwater's set accessor public again
+
 ## [1.22.1] - November 9 2021
 
 ## Added
