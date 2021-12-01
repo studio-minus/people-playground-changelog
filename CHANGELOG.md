@@ -1,5 +1,37 @@
 # Changelog
 
+## [1.22.3] - ?? 2021
+
+## Added
+- Accelerator energy weapon
+- Archelix Caster energy weapon
+- Plastic explosive
+- Liquid.GetAll()
+- The inspection display now shows if the entity has punctured lungs
+- Punctured lungs cause pain
+- SimpleLightingEmitterBehaviour.Instance.Emit
+- A few new minor Steam achievements
+- A warning that appears whenever the maximum activation signal limit is reached
+
+## Changed
+- Lowered likelihood of punctured lungs
+- Minor change to sniper rifle sfx
+- Bullet wounds can fully heal if properly treated
+- Internal bleeding will heal faster
+- Decreased required temperature for organisms to start shivering
+- Liquid effect intensity is now often based on the concentration of the liquid inside the container
+
+## Fixed
+- Incorrect ceiling turret aiming
+- Minor memory leaks
+- Minor performance improvements
+- Flamethrower issues
+- Strange problems setting the contents of multiple text displays/radios/hologram displays at once
+- "Previous texture" not always working
+- DRAG SELECTED
+- DRAG SELECTED
+- DRAG SELECTED
+
 ## [1.22.2] - November 10 2021
 
 ## Fixed
