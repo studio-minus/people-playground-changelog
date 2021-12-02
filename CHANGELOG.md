@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.22.3] - ?? 2021
+## [1.22.3] - 3 December 2021
 
 ## Added
 - Accelerator energy weapon
@@ -12,12 +12,14 @@
 - SimpleLightingEmitterBehaviour.Instance.Emit
 - A few new minor Steam achievements
 - A warning that appears whenever the maximum activation signal limit is reached
+- You can press escape to stop resizing
 
 ## Changed
 - Lowered likelihood of punctured lungs
 - Minor change to sniper rifle sfx
 - Bullet wounds can fully heal if properly treated
 - Internal bleeding will heal faster
+- Gave the immobility field a little more health
 - Decreased required temperature for organisms to start shivering
 - Liquid effect intensity is now often based on the concentration of the liquid inside the container
 
@@ -26,6 +28,7 @@
 - Minor memory leaks
 - Minor performance improvements
 - Flamethrower issues
+- Key rebinding issue when trying to bind to "escape"
 - Strange problems setting the contents of multiple text displays/radios/hologram displays at once
 - "Previous texture" not always working
 - DRAG SELECTED
