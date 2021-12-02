@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.22.3] - 3 December 2021
+## [1.22.3] - 2 December 2021
 
 ## Added
 - Accelerator energy weapon
@@ -16,7 +16,7 @@
 
 ## Changed
 - Lowered likelihood of punctured lungs
-- Minor change to sniper rifle sfx
+- Minor change to sniper rifle SFX
 - Bullet wounds can fully heal if properly treated
 - Internal bleeding will heal faster
 - Gave the immobility field a little more health
@@ -25,7 +25,7 @@
 
 ## Fixed
 - Incorrect ceiling turret aiming
-- Minor memory leaks
+- Minor memory leaks (minor as in "minor catastrophe")
 - Minor performance improvements
 - Flamethrower issues
 - Key rebinding issue when trying to bind to "escape"
