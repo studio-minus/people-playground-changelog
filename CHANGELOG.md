@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.22.4] - ?? December 2021
+
+## Added
+
+## Changed
+
+## Fixed
+ - Debug messages doing the DRAG SELECTED thing.
+ - Zombies moving even though they're dead (more deader)
+ - Minor performance improvements
+ - Contraption synchronisation can time-out (20 seconds per item, just to prevent an infinite loop in case Steam loses its mind)
+ - Toybox scrollbar stuff
+
 ## [1.22.3] - 2 December 2021
 
 ## Added
