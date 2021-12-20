@@ -3,13 +3,17 @@
 ## [1.22.4] - ?? December 2021
 
 ## Added
+ - Gears?
 
 ## Changed
+ - Made metronome more consistent
+ - Increased grenade fuse from 2 seconds to 4 seconds
 
 ## Fixed
  - Debug messages doing the DRAG SELECTED thing.
  - Zombies moving even though they're dead (more deader)
  - Minor performance improvements
+  - Outlet liquid decal issues
  - Contraption synchronisation can time-out (20 seconds per item, just to prevent an infinite loop in case Steam loses its mind)
  - Toybox scrollbar stuff
 
