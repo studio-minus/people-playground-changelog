@@ -1,19 +1,32 @@
 # Changelog
 
-## [1.22.4] - ?? December 2021
+## [1.23] - ?? be patient please
 
 ## Added
- - Gears?
+ - Gears??
+ - Serpentine Belt??
+ - Resizable Housing
 
 ## Changed
  - Made metronome more consistent
+ - Made humans heavier and stronger
+ - Selection outline is a little less vibrant
  - Increased grenade fuse from 2 seconds to 4 seconds
+ - Mods that use the "Application" identifier are marked as suspicious
+ - Decreased activation signal amount warning sound rate
+ - Decal sorting order stuff
+ - For modders: deprecated Hover.collider and all wire colliders
+ - Increased "stop animation on damage" damage threshold
 
 ## Fixed
  - Debug messages doing the DRAG SELECTED thing.
  - Zombies moving even though they're dead (more deader)
- - Minor performance improvements
-  - Outlet liquid decal issues
+ - Improved fast moving wire performance
+ - Other minor performance improvements
+ - Fixed an LED bulb issue that you never noticed 
+ - Some pumpkin stuff
+ - Some deletion stuff
+ - Outlet liquid decal issues
  - Contraption synchronisation can time-out (20 seconds per item, just to prevent an infinite loop in case Steam loses its mind)
  - Toybox scrollbar stuff
 
