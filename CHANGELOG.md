@@ -8,11 +8,13 @@
  - Resizable Housing
  - Bottle
  - Power Hammer
+ - "Slowly heal injuries" is now togglable 
  - For modders: Liquid mixing controller 
 
 ## Changed
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
  - Made metronome more consistent
+ - Broken electronics spark sfx
  - Made humans heavier and stronger
  - Increased default mod compilation duration limit and increased maximum loading time from 60 seconds to 120 seconds
  - Selection outline is a little less vibrant
