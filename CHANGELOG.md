@@ -4,24 +4,30 @@
 
 ## Added
  - Gears??
- - Serpentine Belt??
+ - Mechanical Belt??
  - Resizable Housing
+ - Bottle
+ - Power Hammer
+ - For modders: Liquid mixing controller 
 
 ## Changed
+ - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
  - Made metronome more consistent
  - Made humans heavier and stronger
+ - Increased default mod compilation duration limit and increased maximum loading time from 60 seconds to 120 seconds
  - Selection outline is a little less vibrant
  - Increased grenade fuse from 2 seconds to 4 seconds
  - Mods that use the "Application" identifier are marked as suspicious
  - Decreased activation signal amount warning sound rate
  - Decal sorting order stuff
  - For modders: deprecated Hover.collider and all wire colliders
+ - Removed very low frequencies from ambient hum
  - Increased "stop animation on damage" damage threshold
 
 ## Fixed
+ - Improved fast moving wire performance
  - Debug messages doing the DRAG SELECTED thing.
  - Zombies moving even though they're dead (more deader)
- - Improved fast moving wire performance
  - Other minor performance improvements
  - Fixed an LED bulb issue that you never noticed 
  - Some pumpkin stuff
