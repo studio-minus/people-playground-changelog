@@ -4,7 +4,7 @@
 
 ## Added
  - Gears??
- - Mechanical Belt??
+ - Mechanical Belt
  - Resizable Housing
  - Bottle
  - Power Hammer
@@ -16,6 +16,7 @@
  - Made metronome more consistent
  - Broken electronics spark sfx
  - Made humans heavier and stronger
+ - Phase link is now only visible in detail view
  - Increased default mod compilation duration limit and increased maximum loading time from 60 seconds to 120 seconds
  - Selection outline is a little less vibrant
  - Increased grenade fuse from 2 seconds to 4 seconds
