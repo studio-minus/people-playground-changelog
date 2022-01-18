@@ -9,6 +9,7 @@
  - Bottle
  - Power Hammer
  - "Slowly heal injuries" is now togglable 
+ - "Open in Workshop" button, if applicable
  - For modders: Liquid mixing controller 
 
 ## Changed
