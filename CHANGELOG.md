@@ -40,6 +40,9 @@
  - Contraption synchronisation can time-out (20 seconds per item, just to prevent an infinite loop in case Steam loses its mind)
  - Toybox scrollbar stuff
 
+## Removed
+ - Removed liquid pressuriser sound
+
 ## [1.22.3] - 2 December 2021
 
 ## Added
