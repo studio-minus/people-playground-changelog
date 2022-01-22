@@ -25,6 +25,7 @@
  - Mods that use the "Application" identifier are marked as suspicious
  - Decreased activation signal amount warning sound rate
  - Decal sorting order stuff
+ - Small wood impact is a little louder
  - Made sliding sound less loud
  - For modders: deprecated Hover.collider and all wire colliders
  - Removed very low frequencies from ambient hum
