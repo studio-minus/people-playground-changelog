@@ -3,6 +3,7 @@
 ## [1.23] - ?? be patient please
 
 ## Added
+ - Substructure map
  - Gears??
  - Mechanical Belt
  - Resizable Housing
@@ -24,6 +25,7 @@
  - Mods that use the "Application" identifier are marked as suspicious
  - Decreased activation signal amount warning sound rate
  - Decal sorting order stuff
+ - Made sliding sound less loud
  - For modders: deprecated Hover.collider and all wire colliders
  - Removed very low frequencies from ambient hum
  - Increased "stop animation on damage" damage threshold
