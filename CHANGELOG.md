@@ -4,7 +4,6 @@
 
 ## Added
  - Substructure map
- - Gears??
  - Mechanical Belt
  - Resizable Housing
  - Bottle
@@ -12,18 +11,22 @@
  - "Slowly heal injuries" is now togglable 
  - "Open in Workshop" button, if applicable
  - For modders: Liquid mixing controller 
+ - Optional "Choose object under cursor" keybind
 
 ## Changed
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
  - Made metronome more consistent
  - Broken electronics spark sfx
  - Made humans heavier and stronger
+ - Minor changes to minigun behaviour
+ - Changed minigun motor sound
  - Phase link is now only visible in detail view
  - Increased default mod compilation duration limit and increased maximum loading time from 60 seconds to 120 seconds
  - Selection outline is a little less vibrant
  - Increased grenade fuse from 2 seconds to 4 seconds
  - Mods that use the "Application" identifier are marked as suspicious
  - Decreased activation signal amount warning sound rate
+ - Increased activation signal limit
  - Decal sorting order stuff
  - Small wood impact is a little louder
  - Made sliding sound less loud
@@ -32,8 +35,10 @@
  - Increased "stop animation on damage" damage threshold
 
 ## Fixed
+ - An awful design flaw to do with continuous activation signals. This should not introduce any unexpected behaviour unless you expect something to be broken. Some contraptions may rely on this inconsistency, and they will break. Most contraptions will benefit from this and behave a lot more consistently. It should also reduce activation signal limit warnings.
  - Improved fast moving wire performance
  - Debug messages doing the DRAG SELECTED thing.
+ - Glass no longer increases detector range if placed in front of a mirror
  - Zombies moving even though they're dead (more deader)
  - Other minor performance improvements
  - Fixed an LED bulb issue that you never noticed 
@@ -45,6 +50,7 @@
 
 ## Removed
  - Removed liquid pressuriser sound
+ - Expanded gore is gone
 
 ## [1.22.3] - 2 December 2021
 
