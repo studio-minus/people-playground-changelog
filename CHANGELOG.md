@@ -19,7 +19,7 @@
  - Broken electronics spark sfx
  - Made humans heavier and stronger
  - Minor changes to minigun behaviour
- - Changed minigun motor sound
+ - Changed minigun SFX
  - Phase link is now only visible in detail view
  - Increased default mod compilation duration limit and increased maximum loading time from 60 seconds to 120 seconds
  - Selection outline is a little less vibrant
