@@ -5,13 +5,17 @@
 ## Added
  - Substructure map
  - Mechanical Belt
- - Resizable Housing
+ - Resizable Housing (colorable box that maintains a correct texture when resized)
  - Bottle
  - Power Hammer
+ - Trees
+ - Bushes
  - "Slowly heal injuries" is now togglable 
  - "Open in Workshop" button, if applicable
- - For modders: Liquid mixing controller 
- - Optional "Choose object under cursor" keybind
+ - For modders: LiquidMixingController. Visit the modding wiki for more information.
+ - More wooden strut stress sfx
+ - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
+ - Fire embers
 
 ## Changed
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
@@ -23,19 +27,23 @@
  - Phase link is now only visible in detail view
  - Increased default mod compilation duration limit and increased maximum loading time from 60 seconds to 120 seconds
  - Selection outline is a little less vibrant
+ - Minor changes to human bruise colour
+ - Minor changes to human blood impact
  - Increased grenade fuse from 2 seconds to 4 seconds
  - Mods that use the "Application" identifier are marked as suspicious
  - Decreased activation signal amount warning sound rate
  - Increased activation signal limit
+ - Layering changes to the tank
  - Decal sorting order stuff
  - Small wood impact is a little louder
  - Made sliding sound less loud
  - For modders: deprecated Hover.collider and all wire colliders
+ - Tank muzzle blast is a little more dangerous
  - Removed very low frequencies from ambient hum
  - Increased "stop animation on damage" damage threshold
 
 ## Fixed
- - An awful design flaw to do with continuous activation signals. This should not introduce any unexpected behaviour unless you expect something to be broken. Some contraptions may rely on this inconsistency, and they will break. Most contraptions will benefit from this and behave a lot more consistently. It should also reduce activation signal limit warnings.
+ - An awful design flaw to do with continuous activation signals. This should not introduce any unexpected behaviour unless you expect something to be broken. Some contraptions may rely on this inconsistency, and they will break. Most contraptions will benefit from this and behave a lot more consistently. It should also reduce (pretty much eliminate) activation signal limit warnings.
  - Improved fast moving wire performance
  - Debug messages doing the DRAG SELECTED thing.
  - Glass no longer increases detector range if placed in front of a mirror
@@ -43,6 +51,10 @@
  - Other minor performance improvements
  - Fixed an LED bulb issue that you never noticed 
  - Some pumpkin stuff
+ - Weird explosion miscalulation (`CreatePulseExplosion`)
+ - Minor firearm bugs
+ - Bicycle is now made of metal too, just like the others
+ - Bug where explosives could trigger other explosives infinite times
  - Some deletion stuff
  - Outlet liquid decal issues
  - Contraption synchronisation can time-out (20 seconds per item, just to prevent an infinite loop in case Steam loses its mind)
