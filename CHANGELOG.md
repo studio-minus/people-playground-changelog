@@ -10,12 +10,17 @@
  - Power Hammer
  - Trees
  - Bushes
+ - Magnum Revolver
+ - Key triggers now clearly show what key they're assigned to in Detail View. They can also be given a description.
+ - Some more bone breaking sounds
  - "Slowly heal injuries" is now togglable 
  - "Open in Workshop" button, if applicable
- - For modders: LiquidMixingController. Visit the modding wiki for more information.
+ - Search bar in mod menu
  - More wooden strut stress sfx
  - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
- - Fire embers
+ - Fire embers (only visible when Fancy Effects is enabled)
+ - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
+ - For modders: LiquidMixingController. Visit the modding wiki for more information.
 
 ## Changed
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
@@ -24,6 +29,16 @@
  - Made humans heavier and stronger
  - Minor changes to minigun behaviour
  - Changed minigun SFX
+ - Small change to sniper rifle SFX
+ - Changed 120mm cannon SFX
+ - Changed tank cannon SFX
+ - Increased tank barrel weight
+ - Increased tank cannon recoil
+ - Decreased tank suspension strength
+ - Decreased tank speed
+ - Tank muzzle blast is a little more dangerous and is much larger
+ - Decreased ambient sound rate on Humongous
+ - Decreased bullet drop
  - Phase link is now only visible in detail view
  - Increased default mod compilation duration limit and increased maximum loading time from 60 seconds to 120 seconds
  - Selection outline is a little less vibrant
@@ -38,7 +53,6 @@
  - Small wood impact is a little louder
  - Made sliding sound less loud
  - For modders: deprecated Hover.collider and all wire colliders
- - Tank muzzle blast is a little more dangerous
  - Removed very low frequencies from ambient hum
  - Increased "stop animation on damage" damage threshold
 
