@@ -20,6 +20,9 @@
  - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
  - Fire embers (only visible when Fancy Effects is enabled)
  - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
+ - Destructible machinery can now be made indestructible using the context menu
+ - Flamethrower flames and fire extinguisher... puffs (??) now collide with objects, they have no effect on things behind walls
+ - Contraptions that depend on mods will now have a list of required mods added to the description. **There is no way for me to automatically add required items to the Steam upload. You need to do this yourself.**
  - For modders: LiquidMixingController. Visit the modding wiki for more information.
 
 ## Changed
@@ -46,10 +49,12 @@
  - Minor changes to human blood impact
  - Increased grenade fuse from 2 seconds to 4 seconds
  - Mods that use the "Application" identifier are marked as suspicious
+ - Rockets launched from the standard rocket launcher will slow down more underwater and will get stuck inside immobility fields
  - Decreased activation signal amount warning sound rate
  - Increased activation signal limit
  - Layering changes to the tank
  - Decal sorting order stuff
+ - Made that little orange thing in the corner of outdated contraptions a bit smaller
  - Small wood impact is a little louder
  - Made sliding sound less loud
  - For modders: deprecated Hover.collider and all wire colliders
