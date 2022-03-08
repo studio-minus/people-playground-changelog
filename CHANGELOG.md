@@ -12,6 +12,7 @@
  - Bushes
  - Magnum Revolver
  - Key triggers now clearly show what key they're assigned to in Detail View. They can also be given a description.
+ - Contraptions now have an "info" button. It'll show you required mods and some other useful information.
  - Some more bone breaking sounds
  - "Slowly heal injuries" is now togglable 
  - "Open in Workshop" button, if applicable
@@ -30,6 +31,7 @@
  - Made metronome more consistent
  - Broken electronics spark sfx
  - Made humans heavier and stronger
+ - Reordered some buttons on the contraption button in the toybox
  - Minor changes to minigun behaviour
  - Changed minigun SFX
  - Small change to sniper rifle SFX
