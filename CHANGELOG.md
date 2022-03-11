@@ -17,10 +17,12 @@
  - Some more bone breaking sounds
  - "Slowly heal injuries" is now togglable 
  - "Open in Workshop" button, if applicable
+ - "Ambience Highpass" setting. It allows the player to set a highpass cutoff frequency for the ambient noise. **This is useful if you suffer from crackling audio issues.**
  - Search bar in mod menu
  - Better explosion shrapnel. Some explosions will now emit shrapnel (invisible, behave identical to bullets)
  - More wooden strut stress sfx
  - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
+ - Made soap work just by sliding too
  - Fire embers (only visible when Fancy Effects is enabled)
  - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
  - Destructible machinery can now be made indestructible using the context menu
@@ -80,12 +82,14 @@
  - Bicycle is now made of metal too, just like the others
  - Bug where explosives could trigger other explosives infinite times
  - Some deletion stuff
+ - Soap problems
  - Outlet liquid decal issues
  - Contraption synchronisation can time-out (20 seconds per item, just to prevent an infinite loop in case Steam loses its mind)
  - Toybox scrollbar stuff
 
 ## Removed
  - Removed liquid pressuriser sound
+ - Removed rotor sound
  - Expanded gore is gone
 
 ## [1.22.3] - 2 December 2021
@@ -173,7 +177,7 @@
  - Organisms now have specific "vital" spots inside their body. For example, head injuries are no longer necessarily a brain injury.
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
  - More intense bullet metal impact sounds
- - If set to "Drain", the blood tank can now spill into other containers. This means you can make finally a nitroglycerin shower. It can also spill onto non-container objects, but this **will not** transfer the liquid effects onto that surface.
+ - If set to "Drain", the blood tank can now spill into other containers. This means you can finally make a nitroglycerin shower. It can also spill onto non-container objects, but this **will not** transfer the liquid effects onto that surface.
  - Firearms can accidentally discharge when dropped
  - Multiselect using shift (by default)
  - Toybox size is now remembered
