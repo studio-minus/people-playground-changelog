@@ -11,12 +11,14 @@
  - Trees
  - Bushes
  - Magnum Revolver
+ - Bazooka
  - Key triggers now clearly show what key they're assigned to in Detail View. They can also be given a description.
  - Contraptions now have an "info" button. It'll show you required mods and some other useful information.
  - Some more bone breaking sounds
  - "Slowly heal injuries" is now togglable 
  - "Open in Workshop" button, if applicable
  - Search bar in mod menu
+ - Better explosion shrapnel. Some explosions will now emit shrapnel (invisible, behave identical to bullets)
  - More wooden strut stress sfx
  - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
  - Fire embers (only visible when Fancy Effects is enabled)
@@ -34,6 +36,7 @@
  - Reordered some buttons on the contraption button in the toybox
  - Minor changes to minigun behaviour
  - Changed minigun SFX
+ - Minor change to rocket launcher SFX
  - Small change to sniper rifle SFX
  - Changed 120mm cannon SFX
  - Changed tank cannon SFX
@@ -196,6 +199,7 @@
  - Minor changes to the machine gun and 30mm cartridge
  - Joint stress sound rate
  - Beam rifle now heats up objects it strikes
+ - Lightbulb flickers a bit
  - Blaster bolts heat up objects that they reflect off of
  - Increased rocket launcher impact dismemberment chance
  - Multithreaded the ambient temperature system
