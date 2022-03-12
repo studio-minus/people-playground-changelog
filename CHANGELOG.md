@@ -35,6 +35,7 @@
  - Made metronome more consistent
  - Broken electronics spark sfx
  - Made humans heavier and stronger
+ - Blood will no longer spill out when a limb is stabbed. Instead, most of the blood will stay inside until the sharp object is removed.
  - Reordered some buttons on the contraption button in the toybox
  - Minor changes to minigun behaviour
  - Changed minigun SFX
