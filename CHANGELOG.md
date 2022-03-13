@@ -12,6 +12,7 @@
  - Bushes
  - Magnum Revolver
  - Bazooka
+ - Normal wheel
  - Key triggers now clearly show what key they're assigned to in Detail View. They can also be given a description.
  - Contraptions now have an "info" button. It'll show you required mods and some other useful information.
  - Some more bone breaking sounds
@@ -24,16 +25,21 @@
  - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
  - Made soap work just by sliding too
  - Fire embers (only visible when Fancy Effects is enabled)
+ - When shot in the head, there is a chance for visual brain matter to fly out
  - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
  - Destructible machinery can now be made indestructible using the context menu
  - Flamethrower flames and fire extinguisher... puffs (??) now collide with objects, they have no effect on things behind walls
  - Contraptions that depend on mods will now have a list of required mods added to the description. **There is no way for me to automatically add required items to the Steam upload. You need to do this yourself.**
  - For modders: LiquidMixingController. Visit the modding wiki for more information.
+ - For modders: the SkipSerialisationAttribute can now be applied to a class as well. This will exclude the entire component from the serialisation process.
 
 ## Changed
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
  - Made metronome more consistent
- - Broken electronics spark sfx
+ - Renamed "Wheel" to "Wooden Wheel"
+ - Broken electronics spark SFX
+ - Pistons will keep pushing/pulling. They can no longer be forcibly moved by other objects without them returning to their target state.
+ - The Tank is no longer a solid block of metal. It has an engine and gas tank, just like the car, and its turret base is detachable.
  - Made humans heavier and stronger
  - Blood will no longer spill out when a limb is stabbed. Instead, most of the blood will stay inside until the sharp object is removed.
  - Reordered some buttons on the contraption button in the toybox
@@ -70,7 +76,7 @@
  - Increased "stop animation on damage" damage threshold
 
 ## Fixed
- - An awful design flaw to do with continuous activation signals. This should not introduce any unexpected behaviour unless you expect something to be broken. Some contraptions may rely on this inconsistency, and they will break. Most contraptions will benefit from this and behave a lot more consistently. It should also reduce (pretty much eliminate) activation signal limit warnings.
+ - An awful design flaw to do with continuous activation signals. This should not introduce any unexpected behaviour unless you expect something to be broken. Some contraptions may rely on this inconsistency, and they will break. Most contraptions will benefit from this and behave a lot more consistently. It should also reduce (pretty much eliminate) activation signal limit warnings. 
  - Improved fast moving wire performance
  - Debug messages doing the DRAG SELECTED thing.
  - Glass no longer increases detector range if placed in front of a mirror
