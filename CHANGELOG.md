@@ -13,6 +13,7 @@
  - Magnum Revolver
  - Bazooka
  - Normal wheel
+ - Particle Projector
  - Key triggers now clearly show what key they're assigned to in Detail View. They can also be given a description.
  - Contraptions now have an "info" button. It'll show you required mods and some other useful information.
  - Some more bone breaking sounds
