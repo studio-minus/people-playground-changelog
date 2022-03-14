@@ -37,12 +37,14 @@
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
  - Made metronome more consistent
  - Renamed "Wheel" to "Wooden Wheel"
+ - The exact colour of the LED Bulb can now be set (this replaces all other LED Bulbs)
  - Broken electronics spark SFX
  - Pistons will keep pushing/pulling. They can no longer be forcibly moved by other objects without them returning to their target state.
  - The Tank is no longer a solid block of metal. It has an engine and gas tank, just like the car, and its turret base is detachable.
  - Made humans heavier and stronger
  - Blood will no longer spill out when a limb is stabbed. Instead, most of the blood will stay inside until the sharp object is removed.
  - Reordered some buttons on the contraption button in the toybox
+ - Made the nitroglycerin explosion more powerful again
  - Minor changes to minigun behaviour
  - Changed minigun SFX
  - Minor change to rocket launcher SFX
