@@ -26,6 +26,7 @@
  - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
  - Made soap work just by sliding too
  - Fire embers (only visible when Fancy Effects is enabled)
+ - Organisms have a chance to walk a bit when shot
  - When shot in the head, there is a chance for visual brain matter to fly out
  - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
  - Destructible machinery can now be made indestructible using the context menu
@@ -70,6 +71,7 @@
  - Decreased activation signal amount warning sound rate
  - Increased activation signal limit
  - Layering changes to the tank
+ - Minor changes to brick impact VFX
  - Decal sorting order stuff
  - Made that little orange thing in the corner of outdated contraptions a bit smaller
  - Small wood impact is a little louder
