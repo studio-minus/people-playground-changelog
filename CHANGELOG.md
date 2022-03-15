@@ -79,6 +79,7 @@
  - Increased "stop animation on damage" damage threshold
 
 ## Fixed
+ - Absolutely terrible oversight in the serialisation and deserialisation of wires. Wires should no longer turn pink / disappear after paste or load. This should also fix a whole bunch of other problems to do with the serialisation of specific objects.
  - An awful design flaw to do with continuous activation signals. This should not introduce any unexpected behaviour unless you expect something to be broken. Some contraptions may rely on this inconsistency, and they will break. Most contraptions will benefit from this and behave a lot more consistently. It should also reduce (pretty much eliminate) activation signal limit warnings. 
  - Improved fast moving wire performance
  - Debug messages doing the DRAG SELECTED thing.
