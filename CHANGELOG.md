@@ -29,6 +29,7 @@
  - Organisms have a chance to walk a bit when shot
  - When shot in the head, there is a chance for visual brain matter to fly out
  - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
+ - Clearing everything will now reset the map too
  - Overwriting a contraption that you've uploaded to the Workshop and then uploading it again will update the existing Workshop item.
  - Destructible machinery can now be made indestructible using the context menu
  - Flamethrower flames and fire extinguisher... puffs (??) now collide with objects, they have no effect on things behind walls
