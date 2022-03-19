@@ -29,10 +29,11 @@
  - Organisms have a chance to walk a bit when shot
  - When shot in the head, there is a chance for visual brain matter to fly out
  - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
+ - Overwriting a contraption that you've uploaded to the Workshop and then uploading it again will update the existing Workshop item.
  - Destructible machinery can now be made indestructible using the context menu
  - Flamethrower flames and fire extinguisher... puffs (??) now collide with objects, they have no effect on things behind walls
  - Contraptions that depend on mods will now have a list of required mods added to the description. **There is no way for me to automatically add required items to the Steam upload. You need to do this yourself.**
- - For modders: LiquidMixingController. Visit the modding wiki for more information.
+ - For modders: LiquidMixingController. [Visit the modding wiki for more information.](https://www.studiominus.nl/ppg-modding/tutorials/tutorialMixing.html)
  - For modders: the SkipSerialisationAttribute can now be applied to a class as well. This will exclude the entire component from the serialisation process.
 
 ## Changed
@@ -96,6 +97,7 @@
  - Bug where explosives could trigger other explosives infinite times
  - Some deletion stuff
  - Soap problems
+ - Water making the entire map float
  - Outlet liquid decal issues
  - Contraption synchronisation can time-out (20 seconds per item, just to prevent an infinite loop in case Steam loses its mind)
  - Toybox scrollbar stuff
