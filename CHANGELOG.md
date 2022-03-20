@@ -36,6 +36,7 @@
  - Contraptions that depend on mods will now have a list of required mods added to the description. **There is no way for me to automatically add required items to the Steam upload. You need to do this yourself.**
  - For modders: LiquidMixingController. [Visit the modding wiki for more information.](https://www.studiominus.nl/ppg-modding/tutorials/tutorialMixing.html)
  - For modders: the SkipSerialisationAttribute can now be applied to a class as well. This will exclude the entire component from the serialisation process.
+ - For modders: A Map object now has InstantiateOverride. This is an Action that, if not null, will be called on map load instead of instantiating the Prefab.
 
 ## Changed
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
