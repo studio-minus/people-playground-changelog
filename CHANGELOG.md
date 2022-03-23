@@ -12,6 +12,7 @@
  - Bushes
  - Magnum Revolver
  - Bazooka
+ - Spot light
  - Normal wheel
  - Particle Projector
  - Key triggers now clearly show what key they're assigned to in Detail View. They can also be given a description.
@@ -74,6 +75,7 @@
  - Decreased activation signal amount warning sound rate
  - Increased activation signal limit
  - Layering changes to the tank
+ - Lowered impact force of bullets on very hard objects (like bulletproof plates)
  - Minor changes to brick impact VFX
  - Decal sorting order stuff
  - Made that little orange thing in the corner of outdated contraptions a bit smaller
@@ -81,6 +83,7 @@
  - Made sliding sound less loud
  - For modders: deprecated Hover.collider and all wire colliders
  - Removed very low frequencies from ambient hum
+ - Made some bullet impact SFX a little less loud
  - Increased "stop animation on damage" damage threshold
 
 ## Fixed
