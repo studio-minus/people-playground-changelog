@@ -27,6 +27,7 @@
  - Optional "Choose object under cursor" keybind. It's like Minecraft middle click.
  - Made soap work just by sliding too
  - Fire embers (only visible when Fancy Effects is enabled)
+ - Laser pointer colour can be changed
  - Organisms have a chance to walk a bit when shot
  - When shot in the head, there is a chance for visual brain matter to fly out
  - Distant SFX. Guns and explosives now have special sounds that are heard when they're distant.
@@ -37,12 +38,13 @@
  - Contraptions that depend on mods will now have a list of required mods added to the description. **There is no way for me to automatically add required items to the Steam upload. You need to do this yourself.**
  - For modders: LiquidMixingController. [Visit the modding wiki for more information.](https://www.studiominus.nl/ppg-modding/tutorials/tutorialMixing.html)
  - For modders: the SkipSerialisationAttribute can now be applied to a class as well. This will exclude the entire component from the serialisation process.
- - For modders: A Map object now has InstantiateOverride. This is an Action that, if not null, will be called on map load instead of instantiating the Prefab.
+ - For modders: A Map object now has InstantiateOverride. This is an Action that, if not null, will be called on map load instead of instantiating the Prefab. The proper container is provided as a parameter.
 
 ## Changed
  - "Biohazard" category is now "Chemistry" (FindCategory treats them as the same)
  - Made metronome more consistent
  - Renamed "Wheel" to "Wooden Wheel"
+ - Minor changes to metal hit effect
  - The exact colour of the LED Bulb can now be set (this replaces all other LED Bulbs)
  - Broken electronics spark SFX
  - Pistons will keep pushing/pulling. They can no longer be forcibly moved by other objects without them returning to their target state.
@@ -52,6 +54,7 @@
  - Reordered some buttons on the contraption button in the toybox
  - Made the nitroglycerin explosion more powerful again
  - Minor changes to minigun behaviour
+ - Made bell a bit less loud
  - Changed minigun SFX
  - Minor change to rocket launcher SFX
  - Small change to sniper rifle SFX
@@ -83,6 +86,7 @@
  - Made sliding sound less loud
  - For modders: deprecated Hover.collider and all wire colliders
  - Removed very low frequencies from ambient hum
+ - Pistons now stop working completely when broken
  - Made some bullet impact SFX a little less loud
  - Increased "stop animation on damage" damage threshold
 
@@ -98,6 +102,7 @@
  - Some pumpkin stuff
  - Weird explosion miscalulation (`CreatePulseExplosion`)
  - Minor firearm bugs
+ - Liquidentifier going nuts in lava
  - Bicycle is now made of metal too, just like the others
  - Bug where explosives could trigger other explosives infinite times
  - Some deletion stuff
