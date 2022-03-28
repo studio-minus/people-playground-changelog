@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.23] - ?? be patient please
+## [1.23] - March 28 2022
 
 ## Added
  - Substructure map
@@ -12,6 +12,7 @@
  - Bushes
  - Magnum Revolver
  - Bazooka
+ - Liquid centrifuge
  - Spot light
  - Normal wheel
  - Particle Projector
@@ -20,6 +21,7 @@
  - Some more bone breaking sounds
  - "Slowly heal injuries" is now togglable 
  - "Open in Workshop" button, if applicable
+ - Thumbnail size warning on Workshop upload
  - "Ambience Highpass" setting. It allows the player to set a highpass cutoff frequency for the ambient noise. **This is useful if you suffer from crackling audio issues.**
  - Search bar in mod menu
  - Better explosion shrapnel. Some explosions will now emit shrapnel (invisible, behave identical to bullets)
@@ -99,6 +101,7 @@
  - Zombies moving even though they're dead (more deader)
  - Other minor performance improvements
  - Fixed an LED bulb issue that you never noticed 
+ - RemoveLiquid bug that can cause liquid underflow
  - Some pumpkin stuff
  - Weird explosion miscalulation (`CreatePulseExplosion`)
  - Minor firearm bugs
