@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.23.5] - April 1 2022
+
+## Changed
+ - Water breathing serum now lasts forever
+
+## Fixed
+ - Water breathing syringe bug
+ - Logging issue
+
+## [1.23.4] - March 31 2022
+
+## Changed
+ - Made the ambience in the Small map a lot less loud
+ - Minor performance improvements
+
+## Fixed
+ - Potentially unachievable achievement
+
+## [1.23.3] - March 29 2022
+
+## Fixed
+ - Liquid mixing problems again
+
+## [1.23.2] - March 29 2022
+
+## Fixed
+ - Liquid mixing problems
+
 ## [1.23.1] - March 28 2022
 
 ## Fixed
