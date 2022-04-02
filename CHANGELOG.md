@@ -1,5 +1,18 @@
 # Changelog
 
+# [1.23.6] - April ? 2022
+
+## Added 
+ - "Dynamic" collision mode. Dynamic mode switches between discrete and continuous based on velocity. It's not as reliable as continuous mode, but it serves as a middle ground.
+ - Boat Motor
+
+## Changed
+ - Minor optimisations to do with dragging
+
+## Fixed
+ - Some spelling inconsistencies
+ - A bug, believe it or not
+
 ## [1.23.5] - April 1 2022
 
 ## Changed
@@ -39,7 +52,7 @@
 ## Added
  - Substructure map
  - Mechanical Belt
- - Resizable Housing (colorable box that maintains a correct texture when resized)
+ - Resizable Housing (colourable box that maintains a correct texture when resized)
  - Bottle
  - Power Hammer
  - Trees
