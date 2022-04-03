@@ -5,6 +5,7 @@
 ## Added 
  - "Dynamic" collision mode. Dynamic mode switches between discrete and continuous based on velocity. It serves as a middle-ground between the two, being more reliable than discrete mode but not as CPU-hungry as continuous mode.
  - Android "skin" can be burnt off, just like pre-temperature-update versions
+ - Boat motor
 
 ## Changed
  - Minor optimisations to do with dragging
