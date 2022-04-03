@@ -8,9 +8,14 @@
 
 ## Changed
  - Minor optimisations to do with dragging
+ - Slowed human internal temperature transfer rate
+ - If the heart is stopped or blood flow is blocked, organisms no longer lose all blood pressure immediately
+ - Made organisms more vulnerable to hot/cold environments
+ - Minor changes to metal impact VFX
 
 ## Fixed
  - Some spelling inconsistencies
+ - Modded liquids will now correctly cause a contraption to require mods
  - A bug, believe it or not
 
 ## [1.23.5] - April 1 2022
