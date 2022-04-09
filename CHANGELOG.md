@@ -17,11 +17,9 @@
 ## Fixed
  - Decal layer stuff
  - Android arm layer stuff
+ - Substructure lift layer stuff
  - Minor optimisations
  - Physics audio volume inconsistencies
-
-## Removed
- - 
 
 # [1.23.6] - April 3 2022
 
