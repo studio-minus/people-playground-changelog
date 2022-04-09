@@ -6,11 +6,13 @@
  - Faster mod loading / compilation
  - Small Boulder
  - Fluorescent Lamp
+ - Invisible particle projectors are now visible in detail view
 
 ## Changed
  - Instant death poison is instant again
  - Made bottle stronger
  - Boat motor no longer electrocutes everything when charged
+ - Boat motor now breaks at 800 degrees Celsius
  - Organism inspector now considers an organism with a dysfunctional brain to be fully dead.
  - Detached limbs no longer have a heartbeat lmao
 
@@ -20,6 +22,8 @@
  - Substructure lift layer stuff
  - Minor optimisations
  - Physics audio volume inconsistencies
+ - Minor change to a bus texture 🟥
+ - Celsius*
 
 # [1.23.6] - April 3 2022
 
