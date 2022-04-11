@@ -1,6 +1,14 @@
 # Changelog
 
-# [1.23.7] - April ? 2022
+## Note for Windows 7 users
+
+Your operating system is obsolete. But if you want to keep using it anyway, you will probably need a little update:
+
+[KB3063858 for 64 bit (probably what you need)](https://www.microsoft.com/en-us/download/details.aspx?id=47442)
+
+[KB3063858 for 32 bit (if your computer is older than you)](https://www.microsoft.com/en-us/download/details.aspx?id=47409)
+
+# [1.23.7] - April 11 2022
 
 ## Added
  - Faster mod loading / compilation
@@ -14,7 +22,9 @@
  - Boat motor no longer electrocutes everything when charged
  - Boat motor now breaks at 800 degrees Celsius
  - Organism inspector now considers an organism with a dysfunctional brain to be fully dead.
+ - Minor changes to blood pressure calculation
  - Detached limbs no longer have a heartbeat lmao
+ - Spotlights emit some softer light too
  - Mod compiling is now more compatible with older systems
 
 ## Fixed
@@ -26,14 +36,6 @@
  - Minor change to a bus texture 🟥
  - Emergency stop button on lift not working sometimes
  - Celsius*
-
-## Note for Windows 7 users
-
-Your operating system is obsolete. But if you want to keep using it anyway, you will probably need a little update:
-
-[KB3063858 for 64 bit (probably what you need)](https://www.microsoft.com/en-us/download/details.aspx?id=47442)
-
-[KB3063858 for 32 bit (if your computer is older than you)](https://www.microsoft.com/en-us/download/details.aspx?id=47409)
 
 # [1.23.6] - April 3 2022
 
