@@ -1,5 +1,10 @@
 # Changelog
 
+# [1.23.8] - April 12 2022
+
+## Changed
+ - Should be impossible for the compiler server to stay alive
+
 # [1.23.7] - April 11 2022
 
 ## Note for Windows 7 users
