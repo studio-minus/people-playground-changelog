@@ -1,5 +1,16 @@
 # Changelog
 
+# [1.23.10] - April 15 2022
+
+## Fixed
+ - Now it has to be impossible for the compiler server to stay alive please god
+
+# [1.23.9] - April 14 2022
+
+## Fixed
+ - Centrifuge bug on low settings
+ - "Sharing violation" error while compiling mods
+
 # [1.23.8] - April 12 2022
 
 ## Changed
