@@ -1,5 +1,36 @@
 # Changelog
 
+# [1.23.11] - May ?? 2022
+
+## Added
+ - Painkiller syringe
+ - Boat motor reverses on red signal
+ - For modders: Liquid.GetDisplayName()
+
+## Changed
+ - Minor rendering optimisations
+ - Made bruises a little less blue, again
+ - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
+ - G-force damage no longer occurs when the organism was frozen
+ - Improved distant large explosion sound
+ - Made Ultra Strength Serum more potent
+ - Gave liquids nicer names
+ - Increased minimum impact damage threshold for limbs
+ - Heat capacity is now calculated using object mass in addition to size & material properties
+ - Lowered object to air heat dissipation 
+
+## Fixed
+ - Android circuit layer transparency 
+ - Concrete debris suddenly disappearing
+ - Made rescaled living entities a little more stable. 
+ - Boat motor saving issues
+ - Slider disintegration issues
+ - Workshop upload dialog box being weirdly sized
+ - Issues :(
+
+## Removed 
+ - Removed coagulation concentration calculation
+
 # [1.23.10] - April 15 2022
 
 ## Fixed
