@@ -5,11 +5,17 @@
 ## Added
  - Painkiller syringe
  - Boat motor reverses on red signal
+ - For modders: support for transparent liquids 
  - For modders: Liquid.GetDisplayName()
+ - For modders: BloodContainer.ForceCalculateComputedColor
 
 ## Changed
+ - Completely rewrote body shader
+   - Blunt damage causes bruising (new look)
+   - Bullets make bullet holes
+   - 
+
  - Minor rendering optimisations
- - Made bruises a little less blue, again
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
  - Improved distant large explosion sound
@@ -27,6 +33,7 @@
  - Slider disintegration issues
  - Workshop upload dialog box being weirdly sized
  - Issues :(
+ - Human flesh layer not covering all bones
 
 ## Removed 
  - Removed coagulation concentration calculation
