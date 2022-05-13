@@ -13,14 +13,15 @@
  - Completely rewrote body shader
    - Blunt damage causes bruising (new look)
    - Bullets make bullet holes
-   - 
-
+   - Stabbing makes stab wounds
+   - Touching hot objects & friction causes burn wounds
  - Minor rendering optimisations
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
  - Improved distant large explosion sound
  - Made Ultra Strength Serum more potent
  - Gave liquids nicer names
+ - Organisms rot slower
  - Increased minimum impact damage threshold for limbs
  - Heat capacity is now calculated using object mass in addition to size & material properties
  - Lowered object to air heat dissipation 
