@@ -3,6 +3,7 @@
 # [1.23.11] - May ?? 2022
 
 ## Added
+ - Liquid canister. This is a high capacity container that is vulnerable to bullets and has a variable buoyancy.
  - Painkiller syringe
  - Boat motor reverses on red signal
  - For modders: support for transparent liquids 
@@ -15,10 +16,13 @@
    - Bullets make bullet holes
    - Stabbing makes stab wounds
    - Touching hot objects & friction causes burn wounds
+ - Limbs don't drain their liquid as fast when bone is exposed
+ - Tritium glows when seen in transparent containers
  - Minor rendering optimisations
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
  - Improved distant large explosion sound
+ - Improved Gorse collision
  - Made Ultra Strength Serum more potent
  - Gave liquids nicer names
  - Organisms rot slower
