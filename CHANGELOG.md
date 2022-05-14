@@ -5,19 +5,21 @@
 ## Added
  - Liquid canister. This is a high capacity container that is vulnerable to bullets and has a variable buoyancy.
  - Painkiller syringe
+ - Humans will pass out when they experience too much g-force
  - Boat motor reverses on red signal
  - For modders: support for transparent liquids 
  - For modders: Liquid.GetDisplayName()
  - For modders: BloodContainer.ForceCalculateComputedColor
 
 ## Changed
- - Completely rewrote body shader
+ - Completely rewrote body shader (this may make humans from older contraptions look weird)
    - Blunt damage causes bruising (new look)
    - Bullets make bullet holes
    - Stabbing makes stab wounds
    - Touching hot objects & friction causes burn wounds
  - Limbs don't drain their liquid as fast when bone is exposed
  - Tritium glows when seen in transparent containers
+ - Increased g-force resilience 
  - Minor rendering optimisations
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
