@@ -19,7 +19,8 @@
    - Touching hot objects & friction causes burn wounds
  - Limbs don't drain their liquid as fast when bone is exposed
  - Tritium glows when seen in transparent containers
- - Increased g-force resilience 
+ - Increased g-force resilience
+ - Boiling bodies of water have no buoyancy 
  - Minor rendering optimisations
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
