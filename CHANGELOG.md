@@ -17,11 +17,13 @@
    - Bullets make bullet holes
    - Stabbing makes stab wounds
    - Touching hot objects & friction causes burn wounds
+ - Stopping time is has a much shorter transition
+ - Minor rendering optimisations
+ - Other minor optimisations
  - Limbs don't drain their liquid as fast when bone is exposed
  - Tritium glows when seen in transparent containers
  - Increased g-force resilience
  - Boiling bodies of water have no buoyancy 
- - Minor rendering optimisations
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
  - Improved distant large explosion sound
@@ -35,11 +37,14 @@
 
 ## Fixed
  - Android circuit layer transparency 
+ - Improved limb liquid circulation
+ - Fireworks detail view radius visible for too long
  - Concrete debris suddenly disappearing
  - Made rescaled living entities a little more stable. 
  - Boat motor saving issues
  - Slider disintegration issues
  - Workshop upload dialog box being weirdly sized
+ - Fluorescent bulb glow overlay appearing in front of everything
  - Issues :(
  - Human flesh layer not covering all bones
 
