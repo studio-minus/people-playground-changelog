@@ -17,9 +17,13 @@
    - Bullets make bullet holes
    - Stabbing makes stab wounds
    - Touching hot objects & friction causes burn wounds
- - Stopping time is has a much shorter transition
+   - **Important for modders**: wound intensity is now inverted (normal). The higher the Z component, the more intense the wound.
+ - Bullet impacts on bodies of water are more intense
+ - Stopping time has a shorter transition
+ - Androids are more durable
  - Minor rendering optimisations
  - Other minor optimisations
+ - Changed bullet hardness & damage distance calculations
  - Limbs don't drain their liquid as fast when bone is exposed
  - Tritium glows when seen in transparent containers
  - Increased g-force resilience
@@ -30,6 +34,7 @@
  - Improved Gorse collision
  - Made Ultra Strength Serum more potent
  - Gave liquids nicer names
+ - Made human pain animation a little less rigid
  - Organisms rot slower
  - Increased minimum impact damage threshold for limbs
  - Heat capacity is now calculated using object mass in addition to size & material properties
