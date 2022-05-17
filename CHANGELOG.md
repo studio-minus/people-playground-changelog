@@ -17,6 +17,7 @@
    - Bullets make bullet holes
    - Stabbing makes stab wounds
    - Touching hot objects & friction causes burn wounds
+   - You can switch back to the legacy shaders in the general settings menu
    - **Important for modders**: wound intensity is now inverted (normal). The higher the Z component, the more intense the wound.
  - Bullet impacts on bodies of water are more intense
  - Stopping time has a shorter transition
