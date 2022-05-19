@@ -28,6 +28,7 @@
  - Limbs don't drain their liquid as fast when bone is exposed
  - Tritium glows when seen in transparent containers
  - Increased g-force resilience
+ - Decreased human drown time
  - Boiling bodies of water have no buoyancy 
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
@@ -35,6 +36,7 @@
  - Improved Gorse collision
  - Increased explosion shrapnel lethality
  - Made Ultra Strength Serum more potent
+ - Increased body bullet impact sound volume
  - Gave liquids nicer names
  - Made human pain animation a little less rigid
  - Organisms rot slower
