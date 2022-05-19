@@ -36,6 +36,8 @@
  - Improved Gorse collision
  - Increased explosion shrapnel lethality
  - Made Ultra Strength Serum more potent
+ - Decreased bleeding particles intensity
+ - Minor tweaks to entity body temperature maths
  - Increased body bullet impact sound volume
  - Gave liquids nicer names
  - Made human pain animation a little less rigid
@@ -56,6 +58,7 @@
  - Workshop upload dialog box being weirdly sized
  - Fluorescent bulb glow overlay appearing in front of everything
  - Issues :(
+ - Detectors emitting signals even when broken
  - Human flesh layer not covering all bones
 
 ## Removed 
