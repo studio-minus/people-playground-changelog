@@ -26,13 +26,24 @@
  - Other minor optimisations
  - Changed bullet hardness & damage distance calculations
  - Limbs don't drain their liquid as fast when bone is exposed
+ - Humans don't panic as easily when shot
+ - Humans wince more when shot
+ - Humans and gorses regenerate blood slowly, if they're alive
+ - Bullets have 50% more impact force
  - Tritium glows when seen in transparent containers
+ - Made punctured lungs more dangerous
  - Increased g-force resilience
  - Decreased human drown time
  - Boiling bodies of water have no buoyancy 
  - Changing weather settings like rain, snow, and fog will now happen smoothly instead of abruptly.
  - G-force damage no longer occurs when the organism was frozen
  - Improved distant large explosion sound
+ - Changed AK-47 sfx
+ - Changed AR sfx
+ - Changed Submachine gun sfx
+ - Changed Shotgun sfx
+ - Changed Sniper sfx
+ - Swapped old Rifle sfx for sniper SFX 
  - Improved Gorse collision
  - Increased explosion shrapnel lethality
  - Made Ultra Strength Serum more potent
@@ -54,6 +65,7 @@
  - Made rescaled living entities a little more stable. 
  - Boat motor saving issues
  - Slider disintegration issues
+ - Unnecessary memory usage
  - Electrocution issues
  - Workshop upload dialog box being weirdly sized
  - Fluorescent bulb glow overlay appearing in front of everything
