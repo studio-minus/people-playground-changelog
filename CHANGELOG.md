@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.24] - May ?? 2022
+# [1.24] - May 21 2022
 
 ## Added
  - Liquid canister. This is a high capacity container that is vulnerable to bullets and has a variable buoyancy.
