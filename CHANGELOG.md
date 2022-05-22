@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.24.2] - May 22 2022
+
+## Fixed
+ - Burning issues
+ - Inspector issues 
+ - Other issues that are too small and numerous to list
+
 # [1.24.1] - May 22 2022
 
 A small patch to fix issues people have encountered & bonus additions.
