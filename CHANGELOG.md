@@ -1,5 +1,20 @@
 # Changelog
 
+# [1.24.3] - May 23 2022
+
+## Added 
+ - Burn damage can heal
+ - Adrenaline undoes numbness
+
+## Changed
+ - Bullet-holes can be a bit smaller
+
+## Fixed
+ - Even more burning issues (endless burning)
+ - Regeneration speed being way too slow
+ - Brain-dead state not working correctly
+ - Tempered glass undo not being 
+
 # [1.24.2] - May 22 2022
 
 ## Fixed
