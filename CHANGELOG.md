@@ -13,7 +13,7 @@
  - Even more burning issues (endless burning)
  - Regeneration speed being way too slow
  - Brain-dead state not working correctly
- - Tempered glass undo not being 
+ - Tempered glass undo not working 
 
 # [1.24.2] - May 22 2022
 
