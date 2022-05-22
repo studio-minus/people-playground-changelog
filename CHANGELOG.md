@@ -1,5 +1,20 @@
 # Changelog
 
+# [1.24.1] - May 22 2022
+
+A small patch to fix issues people have encountered & bonus additions.
+
+## Added
+ - "Heart stopped" in living entity inspector if the heart has stopped working
+ - "Brain-dead" in living entity inspector if... yeah
+
+## Fixed
+ - Human water impact damage is no longer excessive
+ - Error in bullet damage-by-distance-calculation
+ - Bullet-wound damage response curve. The contrast between small round damage & big round damage is greater and more noticeable. 
+ - More electrocution issues
+ - Android durability being almost infinite
+
 # [1.24] - May 21 2022
 
 ## Added
