@@ -1,5 +1,13 @@
 # Changelog
 
+# [1.24.5] - May 24 2022
+
+## Added
+ - Cyrillic support
+
+## Fixed
+ - Logging oversight
+
 # [1.24.4] - May 24 2022
 
 ## Changed
