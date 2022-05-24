@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.24.4] - May 24 2022
+
+## Changed
+ - Hover thruster max height is now 10 km
+
+## Fixed
+ - Brain-death being way too hard to heal
+ - Androids being impossible to revive sometimes
+ - Liquid exit tolerance & reliability
+ - Tritium permanence 
+ - Auto-healing
+
 # [1.24.3] - May 23 2022
 
 ## Added 
