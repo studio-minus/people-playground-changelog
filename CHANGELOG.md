@@ -1,5 +1,18 @@
 # Changelog
 
+# [1.24.6] - May 26 2022
+
+# Changed
+ - Immortality serum now heals skin damage too
+ - Minor tweaks to body shader
+
+# Fixed
+ - Healing dismemberment wounds being abrupt
+ - Laser receivers still sending signals even when broken
+ - Key triggers still sending signals even when broken
+ - Resizing objects that have been disintegrated
+ - Defibrillator reliability issues
+
 # [1.24.5] - May 24 2022
 
 ## Added
