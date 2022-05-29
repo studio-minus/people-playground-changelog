@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.24.7] - May ?? 2022
+
+# Fixed
+ - Auto healing again
+ - Heart rate monitor inaccuracy
+ - Disassembler still discharging despite being broken
+
 # [1.24.6] - May 26 2022
 
 # Changed
