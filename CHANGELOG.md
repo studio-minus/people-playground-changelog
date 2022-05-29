@@ -2,6 +2,9 @@
 
 # [1.24.7] - May ?? 2022
 
+# Added
+ - Liquid Duplicator
+
 # Fixed
  - Auto healing again
  - Heart rate monitor inaccuracy
