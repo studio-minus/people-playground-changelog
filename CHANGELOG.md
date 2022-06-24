@@ -1,14 +1,44 @@
 # Changelog
 
-# [1.24.7] - May ?? 2022
+# [1.24.7] - June ?? 2022
 
 # Added
+ - Split up settings into more categories: 
+    - General
+    - Gore
+    - Visual effects
+    - User Interface
+    - Video
+    - Audio
+ - Goreless mode: no blood, no gore
+ - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
+ - Goreless mode: no blood, no gore
  - Liquid Duplicator
+ - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
+
+# Changed
+ - Beam rifle beam will now crush limbs if they can't be sliced off
+ - Brain matter particles are now red
+ - Detaching the head from the torso will instantly kill the organism
+ - Flamethrower will heat things up less quickly
+ - Worm staff wounds now are counted as stab wounds in the entity inspector
+ - Doubled activation propagation limit
+ - Firearm casings that are ejected now scale with the weapon
+ - Human blood regeneration is slower
+ - Made the plate stronger
 
 # Fixed
  - Auto healing again
+ - Immortality serum
  - Heart rate monitor inaccuracy
  - Disassembler still discharging despite being broken
+ - Firearms not always passing in the Cartridge
+ - Impact intensity averaging calculation now removes outliers
+ - Sentry turret no longer targets dead limbs if the human is still alive
+ - Beam rifle beam is no longer effectively infinitely thin 
+ - Flamethrower going through walls occasionally
+ - Flamethrower going through very small gaps
+ - Weird debris issues to do with undoing
 
 # [1.24.6] - May 26 2022
 
