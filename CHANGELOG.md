@@ -12,7 +12,6 @@
     - Audio
  - Goreless mode: no blood, no gore
  - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
- - Goreless mode: no blood, no gore
  - Liquid Duplicator
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
 
@@ -30,6 +29,7 @@
 # Fixed
  - Auto healing again
  - Immortality serum
+ - Burn wounds regenerating despite "auto heal injuries" being off
  - Heart rate monitor inaccuracy
  - Disassembler still discharging despite being broken
  - Firearms not always passing in the Cartridge
