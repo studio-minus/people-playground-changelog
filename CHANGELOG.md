@@ -31,6 +31,7 @@
  - Immortality serum
  - Burn wounds regenerating despite "auto heal injuries" being off
  - Heart rate monitor inaccuracy
+ - Saving broken pistons being all messed up
  - Disassembler still discharging despite being broken
  - Firearms not always passing in the Cartridge
  - Impact intensity averaging calculation now removes outliers
