@@ -13,6 +13,7 @@
  - Goreless mode: no blood, no gore
  - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
  - Cobblestone wall
+ - Stone brick wall
  - Liquid Duplicator
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
 
