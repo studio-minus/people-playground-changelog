@@ -12,6 +12,7 @@
     - Audio
  - Goreless mode: no blood, no gore
  - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
+ - Cobblestone wall
  - Liquid Duplicator
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
 
@@ -39,6 +40,7 @@
  - Beam rifle beam is no longer effectively infinitely thin 
  - Flamethrower going through walls occasionally
  - Flamethrower going through very small gaps
+ - Critical drag tool bug
  - Weird debris issues to do with undoing
 
 # [1.24.6] - May 26 2022
