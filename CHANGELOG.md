@@ -15,6 +15,7 @@
  - Cobblestone wall
  - Stone brick wall
  - Liquid Duplicator
+ - Cardiopulmonary Bypass Machine
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
 
 # Changed
@@ -36,6 +37,7 @@
  - Saving broken pistons being all messed up
  - Disassembler still discharging despite being broken
  - Firearms not always passing in the Cartridge
+ - Slider slider width not adjusting to the actual scale
  - Impact intensity averaging calculation now removes outliers
  - Sentry turret no longer targets dead limbs if the human is still alive
  - Beam rifle beam is no longer effectively infinitely thin 
