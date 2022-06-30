@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.24.7] - June ?? 2022
+# [1.24.7] - ?? 2022
 
 # Added
  - Split up settings into more categories: 
@@ -12,6 +12,7 @@
     - Audio
  - Goreless mode: no blood, no gore
  - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
+ - Limbs with enough flesh on them may eject chunky particles when shot, similar to brain-matter particles
  - Cobblestone wall
  - Stone brick wall
  - Liquid Duplicator
@@ -24,14 +25,20 @@
  - Detaching the head from the torso will instantly kill the organism
  - Flamethrower will heat things up less quickly
  - Worm staff wounds now are counted as stab wounds in the entity inspector
+ - Decreased bleeding rate when most skin is gone
  - Doubled activation propagation limit
  - Firearm casings that are ejected now scale with the weapon
+ - Blaster weapon muzzle flashes
+ - Changed Sentry Turret gun sound
+ - Sentry Turret now targets torso over anything else
  - Human blood regeneration is slower
+ - Achievement icons updated to current sprites
  - Made the plate stronger
 
 # Fixed
  - Auto healing again
  - Immortality serum
+ - Acid is more effective and consistent
  - Burn wounds regenerating despite "auto heal injuries" being off
  - Heart rate monitor inaccuracy
  - Saving broken pistons being all messed up
