@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.24.7] - ?? 2022
+# [1.25] - ?? 2022
 
 # Added
  - Split up settings into more categories: 
