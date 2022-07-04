@@ -15,6 +15,7 @@
  - Limbs with enough flesh on them may eject chunky particles when shot, similar to brain-matter particles
  - Cobblestone wall
  - Stone brick wall
+ - Stone brick
  - Liquid Duplicator
  - Cardiopulmonary Bypass Machine
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
@@ -34,6 +35,7 @@
  - Human blood regeneration is slower
  - Achievement icons updated to current sprites
  - Made the plate stronger
+ - Tritium can heal a dead brain
 
 # Fixed
  - Auto healing again
@@ -51,7 +53,11 @@
  - Flamethrower going through walls occasionally
  - Flamethrower going through very small gaps
  - Critical drag tool bug
+ - Tempered glass
+ - Syringes and other small sharp things getting stuck inside people and potentially breaking their bones
+ - Energy Sword impact vfx positionv
  - Weird debris issues to do with undoing
+ - Minor performance improvements
 
 # [1.24.6] - May 26 2022
 
