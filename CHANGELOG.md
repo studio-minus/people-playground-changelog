@@ -19,6 +19,8 @@
  - Liquid Duplicator
  - Cardiopulmonary Bypass Machine
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
+ - Foliage leaves sway ever so slightly 
+ - Dimly lit objects are now desaturated to prevent unnatural looking brightness from vibrant objects
 
 # Changed
  - Beam rifle beam will now crush limbs if they can't be sliced off
