@@ -21,6 +21,7 @@
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
  - Foliage leaves sway ever so slightly 
  - Dimly lit objects are now desaturated to prevent unnatural looking brightness from vibrant objects
+ - Burned foliage will now shimmer and char
 
 # Changed
  - Beam rifle beam will now crush limbs if they can't be sliced off
@@ -32,12 +33,14 @@
  - Doubled activation propagation limit
  - Firearm casings that are ejected now scale with the weapon
  - Blaster weapon muzzle flashes
+ - Siren texture
  - Changed Sentry Turret gun sound
  - Sentry Turret now targets torso over anything else
  - Human blood regeneration is slower
  - Achievement icons updated to current sprites
  - Made the plate stronger
  - Tritium can heal a dead brain
+ - Blood no longer regenerates if the limb is bleeding or dismembered
 
 # Fixed
  - Auto healing again
