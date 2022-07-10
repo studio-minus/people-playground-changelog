@@ -22,6 +22,9 @@
  - Foliage leaves sway ever so slightly 
  - Dimly lit objects are now desaturated to prevent unnatural looking brightness from vibrant objects
  - Burned foliage will now shimmer and char
+ - Destroyed concrete now has loose, sharp rebar 
+ - Some more bullet ricochet sound variants
+ - Discord server invite link to Information menu
 
 # Changed
  - Beam rifle beam will now crush limbs if they can't be sliced off
@@ -41,6 +44,7 @@
  - Made the plate stronger
  - Tritium can heal a dead brain
  - Blood no longer regenerates if the limb is bleeding or dismembered
+ - Impact damage on organisms is now much more dangerous. It can propagate through from the impact limb to other connected limbs to roughly approximate what would happen in real life.
 
 # Fixed
  - Auto healing again
@@ -63,6 +67,10 @@
  - Energy Sword impact vfx positionv
  - Weird debris issues to do with undoing
  - Minor performance improvements
+ - Decimator will no longer occasionally be extremely loud when deleting multi-part objects
+
+# Removed
+ - "You can set your collision mode to "Discrete" for a significant performance boost!"
 
 # [1.24.6] - May 26 2022
 
