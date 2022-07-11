@@ -16,6 +16,7 @@
  - Cobblestone wall
  - Stone brick wall
  - Stone brick
+ - Ray Cannon
  - Liquid Duplicator
  - Cardiopulmonary Bypass Machine
  - Minor extra details to the default bullet impact effect (only visible when Fancy Effects is enabled)
@@ -33,10 +34,12 @@
  - Flamethrower will heat things up less quickly
  - Worm staff wounds now are counted as stab wounds in the entity inspector
  - Decreased bleeding rate when most skin is gone
+ - Energy Sword no longer sets everything on fire instantly
  - Doubled activation propagation limit
  - Firearm casings that are ejected now scale with the weapon
  - Blaster weapon muzzle flashes
  - Siren texture
+ - Minor changes to fire particles
  - Changed Sentry Turret gun sound
  - Sentry Turret now targets torso over anything else
  - Human blood regeneration is slower
