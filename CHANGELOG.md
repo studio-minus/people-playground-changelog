@@ -11,6 +11,7 @@
     - Video
     - Audio
  - Goreless mode: no blood, no gore
+ - Entity (human, android, gorse) fragility multiplier in Gore settings
  - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
  - Limbs with enough flesh on them may eject chunky particles when shot, similar to brain-matter particles
  - Cobblestone wall
