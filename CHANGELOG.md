@@ -32,7 +32,7 @@
 
 # Changed
  - Beam rifle beam will now crush limbs if they can't be sliced off
- - Brain matter particles are now red
+ - Brain matter particles are sometimes red
  - Detaching the head from the torso will instantly kill the organism
  - Flamethrower will heat things up less quickly
  - Worm staff wounds now are counted as stab wounds in the entity inspector
