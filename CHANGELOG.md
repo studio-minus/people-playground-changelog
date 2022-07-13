@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.25] - July ?? 2022
+# [1.25] - July 13 2022
 
 # Added
  - Split up settings into more categories: 
@@ -11,6 +11,7 @@
     - Video
     - Audio
  - Goreless mode: no blood, no gore
+ - Brain damage and relevant poses. Permanent unless treated.
  - Entity fragility multiplier in Gore settings. Make humans (etc.) more or less fragile as you play.
  - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
  - Limbs with enough flesh on them may eject chunky particles when shot, similar to brain-matter particles
@@ -26,6 +27,7 @@
  - Burned foliage will now shimmer and char
  - Destroyed concrete now has loose, sharp rebar 
  - Some more bullet ricochet sound variants
+ - Some particles to limb crushing effects
  - Discord server invite link to Information menu
 
 # Changed
@@ -48,6 +50,7 @@
  - Made the plate stronger
  - Tritium can heal a dead brain
  - Blood no longer regenerates if the limb is bleeding or dismembered
+ - Bandages' redness is now based on bleeding intensity 
  - Impact damage on organisms is now much more dangerous. It can propagate through from the impact limb to other connected limbs to roughly approximate what would happen in real life.
 
 # Fixed
@@ -65,6 +68,7 @@
  - Beam rifle beam is no longer effectively infinitely thin 
  - Flamethrower going through walls occasionally
  - Flamethrower going through very small gaps
+ - Fire extinguisher and flamethrower particles scale with the object
  - Critical drag tool bug
  - Tempered glass
  - Syringes and other small sharp things getting stuck inside people and potentially breaking their bones
