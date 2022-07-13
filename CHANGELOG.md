@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.25] - ?? 2022
+# [1.25] - July ?? 2022
 
 # Added
  - Split up settings into more categories: 
@@ -11,7 +11,7 @@
     - Video
     - Audio
  - Goreless mode: no blood, no gore
- - Entity (human, android, gorse) fragility multiplier in Gore settings
+ - Entity fragility multiplier in Gore settings. Make humans (etc.) more or less fragile as you play.
  - Dismemberment could now expose stringy tissue that will loosely hold the limbs together
  - Limbs with enough flesh on them may eject chunky particles when shot, similar to brain-matter particles
  - Cobblestone wall
