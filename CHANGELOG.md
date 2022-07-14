@@ -2,11 +2,17 @@
 
 # [1.25.2] - July ?? 2022
 
+## Added
+ - Seizures
+
 ## Changed
  - Made tritium more likely to heal brain damage
+ - Brain damage is less likely to occur
+ - Brain damage postures are no longer permanent, but the being will be noticeably incapable and might occasionally collapse or have a seizure
 
 ## Fixed
  - Brain damaged people still walking and stuff if instructed to
+ - Some gorse gore effects having incorrect colours
 
 # [1.25.1] - July 13 2022
 
