@@ -13,6 +13,8 @@
 ## Fixed
  - Brain damaged people still walking and stuff if instructed to
  - Some gorse gore effects having incorrect colours
+ - Gorse ball impact vfx being wrong
+ - Cobblestone wall debris going insane in water
 
 # [1.25.1] - July 13 2022
 
