@@ -1,8 +1,21 @@
 # Changelog
 
+# [1.25.2] - July ?? 2022
+
+## Changed
+ - Made tritium more likely to heal brain damage
+
+## Fixed
+ - Brain damaged people still walking and stuff if instructed to
+
+# [1.25.1] - July 13 2022
+
+## Fixed
+ - Gorses and androids not working at all
+
 # [1.25] - July 13 2022
 
-# Added
+## Added
  - Split up settings into more categories: 
     - General
     - Gore
@@ -30,7 +43,7 @@
  - Some particles to limb crushing effects
  - Discord server invite link to Information menu
 
-# Changed
+## Changed
  - Beam rifle beam will now crush limbs if they can't be sliced off
  - Brain matter particles are sometimes red
  - Detaching the head from the torso will instantly kill the organism
@@ -53,7 +66,7 @@
  - Bandages' redness is now based on bleeding intensity 
  - Impact damage on organisms is now much more dangerous. It can propagate through from the impact limb to other connected limbs to roughly approximate what would happen in real life.
 
-# Fixed
+## Fixed
  - Auto healing again
  - Immortality serum
  - Acid is more effective and consistent
@@ -77,7 +90,7 @@
  - Minor performance improvements
  - Decimator will no longer occasionally be extremely loud when deleting multi-part objects
 
-# Removed
+## Removed
  - "You can set your collision mode to "Discrete" for a significant performance boost!"
 
 # [1.24.6] - May 26 2022
