@@ -2289,5 +2289,3 @@ Last update had a few issues following the rewrite, this is a quick patch.
 
 - Fixed unassigned wound neighbour
 - Fixed small thruster not burning objects
-
-(don't mind me im just testing something)
