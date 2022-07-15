@@ -100,7 +100,7 @@
  - Critical drag tool bug
  - Tempered glass
  - Syringes and other small sharp things getting stuck inside people and potentially breaking their bones
- - Energy Sword impact vfx positionv
+ - Energy Sword impact vfx position
  - Weird debris issues to do with undoing
  - Minor performance improvements
  - Decimator will no longer occasionally be extremely loud when deleting multi-part objects
@@ -425,7 +425,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Made humans heavier and stronger
  - Blood will no longer spill out when a limb is stabbed. Instead, most of the blood will stay inside until the sharp object is removed.
  - Reordered some buttons on the contraption button in the toybox
- - Made the nitroglycerin explosion more powerful again
+ - Made the nitro-glycerine explosion more powerful again
  - Minor changes to minigun behaviour
  - Made bell a bit less loud
  - Changed minigun SFX
@@ -474,7 +474,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Fixed an LED bulb issue that you never noticed 
  - RemoveLiquid bug that can cause liquid underflow
  - Some pumpkin stuff
- - Weird explosion miscalulation (`CreatePulseExplosion`)
+ - Weird explosion miscalculation (`CreatePulseExplosion`)
  - Minor firearm bugs
  - Liquidentifier going nuts in lava
  - Bicycle is now made of metal too, just like the others
@@ -576,7 +576,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Organisms now have specific "vital" spots inside their body. For example, head injuries are no longer necessarily a brain injury.
  - Organisms can now bleed internally. Internal bleeding can cause many issues, most obviously twitching, slowness, and loss of balance (in case of a head injury). Major internal bleeding results in death.
  - More intense bullet metal impact sounds
- - If set to "Drain", the blood tank can now spill into other containers. This means you can finally make a nitroglycerin shower. It can also spill onto non-container objects, but this **will not** transfer the liquid effects onto that surface.
+ - If set to "Drain", the blood tank can now spill into other containers. This means you can finally make a nitro-glycerine shower. It can also spill onto non-container objects, but this **will not** transfer the liquid effects onto that surface.
  - Firearms can accidentally discharge when dropped
  - Multiselect using shift (by default)
  - Toybox size is now remembered
@@ -646,7 +646,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Made destructible propagation wires less fragile
  - Slightly faster contraption spawning / pasting
  - Shards and crossbow bolts fired from their respective launchers no longer collide with each other
- - Explosives heat up objects less intensily
+ - Explosives heat up objects less intensely
 
 ## Fixed
  - Steam warning appearing too often
@@ -740,7 +740,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Display text change dialog not being pre-filled with the current text being displayed
  - Stuff being rendered outside of map bounds
  - Some items going haywire inside lava
- - Context menu closing when the scrollwheel is clicked
+ - Context menu closing when the scroll wheel is clicked
  - Valves still transferring pressure when closed
  - Channel-related bug with the gate
  - Liquid related bugs
@@ -765,7 +765,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Buttons have a double trigger mode
  - Underwater objects may transfer charge to other near underwater objects
  - Tempered glass pane
- - You can hold M (can rebind) while using pins to snap to the center of mass of the undelying object. This is useful for things like putting pins in the exact center of wheels. It also magically allows you to put pins outside the object. This may be extended to other tools in the future, but it's just pins for now. It's pins.
+ - You can hold M (can rebind) while using pins to snap to the center of mass of the underlying object. This is useful for things like putting pins in the exact center of wheels. It also magically allows you to put pins outside the object. This may be extended to other tools in the future, but it's just pins for now. It's pins.
  - Liquid container pressure now travels through valves and such. This may introduce some unfamiliar, however correct, behaviour.
  - ModAPI.OnLinkCreated and ModAPI.OnPinCreated events. The modding wiki is being worked on intensely so these events may not be documented for a while. They are invoked when a link device is created (currently only the phase link) and when a pin is created, respectively.
  - Partial proper documentation: https://www.studiominus.nl/ppg-modding/internalReference.html. It isn't completely done yet so there may be some issues. Not everything has an explanation yet but I have done the most important parts.
@@ -897,7 +897,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Living things now have an internal temperature
  - Internal temperature is shown in the Inspector panel
 ## Fixed
- - Muzzleflashes not correctly scaling
+ - Muzzle flashes not correctly scaling
  - Environment tab not resizing with the containing panel
  - Broken chair being way too rigid
  - Table & chair being too resilient
@@ -921,7 +921,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - This update will forcibly recompile all your installed mods. If you have lots of them, this will take a while. This will only happen once, though.
  - Also switched to Facepunch's C# implementation of Steamworks which you won't really notice.
  - Minor changes to some particle effects
- - Completely changed the settings menu. It is no longer a weird game of tetris
+ - Completely changed the settings menu. It is no longer a weird game of Tetris
  - Disallowed mods to use shady code (toggleable in settings)
  - Tank shells are explosive
  - Made humans less resilient to extreme ambient temperatures
@@ -932,7 +932,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - You can now stop resizing without having to right click the object specifically
  - "Double delay" and "Half delay" type buttons are replaced with a simple number input dialog box.
  - Fire spread radius decreased
- - Replaced firworks SFX
+ - Replaced fireworks SFX
  - Minor changes to firework particles
  - Fireworks fuse length is now slightly randomised
  - Minor performance improvements
@@ -955,7 +955,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
 ## [1.17.3] - May 16 2021
 
 ## Removed
- - OKAY I REMOVED THE BUG REPORT FORM. Jesus Christ. What is wrong with all of you. Within the first hour of releasing the update, I had to IP ban an embarrassing amount of people. As a sidenote, please uninstall Sanguinem Triae because about 50% of all the reports I received were caused by it. No offense to its creator, but this is a disaster.
+ - OKAY I REMOVED THE BUG REPORT FORM. Jesus Christ. What is wrong with all of you. Within the first hour of releasing the update, I had to IP ban an embarrassing amount of people. As a side note, please uninstall Sanguinem Triae because about 50% of all the reports I received were caused by it. No offense to its creator, but this is a disaster.
 
 ## [1.17.2] - May 15 2021
 
@@ -1086,7 +1086,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - People can now hold broken glass
  - Impact sounds are more consistent
  - Fire is a little less bright and faster
- - Bleedout from dismemberment is slower, but there is more visible amount of blood
+ - Bleed out from dismemberment is slower, but there is more visible amount of blood
  - Updated to Unity 2020.3.1f1 LTS
  - Fire particles can't be too big :D
  - Hammer is wood
@@ -1152,9 +1152,9 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
    - Power Gauge
    - Toggleable Mirror
    - Bulletproof Sheet
-   - Humongous now has a lightsource
+   - Humongous now has a light source
    - Pin tool
-   - Handgrenade now actually shows a pin flying off
+   - Hand grenade now actually shows a pin flying off
    - A little more information in the compiling box
    - Bandages will slowly look soaked in blood
    - Underwater explosion effects
@@ -1163,8 +1163,8 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
    - Some particle effects
    - Energy Vessel texture
    - Fireworks power is scaled with the object scale
-   - Handgrenade texture
-   - Handgrenade dismembering chance
+   - Hand grenade texture
+   - Hand grenade dismembering chance
    - Reorganised tool bar
    - Fancy effects option also toggles many other effects
    - Made electricity particles less intense
@@ -1214,7 +1214,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
 ## Fixed
  - Weightlessness not affecting certain child objects
  - Lots of minor bugfixes
- - Epic watersplash performance bug
+ - Epic water splash performance bug
  - ModAPI.PixelSize is correct now
  - Immobility field irregularities
 
@@ -1236,7 +1236,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
 ## Fixed
  - Gentle drag tool dampening
  - Major mod loader issues
- - Infinite propagation signal limit. This will break contraptions that rely on more than 1024 simultaneous signals. Do note that creating an infinte signal loop *will still slow your game down*, it just won't freeze anymore. It actually might still freeze on slower computers but the point is that infinite loops no longer cause memory leaks.
+ - Infinite propagation signal limit. This will break contraptions that rely on more than 1024 simultaneous signals. Do note that creating an infinite signal loop *will still slow your game down*, it just won't freeze anymore. It actually might still freeze on slower computers but the point is that infinite loops no longer cause memory leaks.
 
 ## [1.12.1] - November 6 2020
 
@@ -1418,7 +1418,7 @@ Lots of ones this time.
 ## [1.9.4] - August 2 2020
 
 ## Added
-   - OnLoad method for mods. This is a static method that will be invoked after all mods are loaded. This is unlike the Main method which is invoked when the catalog is populated.
+   - OnLoad method for mods. This is a static method that will be invoked after all mods are loaded. This is unlike the Main method which is invoked when the catalogue is populated.
    - ModAPI debug drawing feature
    - ModAPI.PixelSize constant
 ## Changed
@@ -1554,7 +1554,7 @@ Lots of ones this time.
 ### Fixed
    - Fixed some business regarding Steam and launching the game from the .exe directly
    - Legacy wires are no longer super dark blue
-   - Adding a PhysicalBehaviour manually no longer causes many ObjectReferenceExceptions because there is no inspector to initalise the empty fields.
+   - Adding a PhysicalBehaviour manually no longer causes many ObjectReferenceExceptions because there is no inspector to initialise the empty fields.
 
 ## [1.7.2] - June 17 2020
 
@@ -1642,10 +1642,10 @@ Small mod API patch
    - Wire rendering optimisation
    - Fire extinguisher now updates visual state of burning object immediately
    - "Flamethrower" now updates visual state of burning object immediately
-   - Decreased Deagle knockback
+   - Decreased Handcannon knockback
    - Minor changes to machine gun and tank sfx/vfx
    - Logs have their own folder now
-   - Incrased firearm range
+   - Increased firearm range
 ### Fixed
    - Incompatible contraptions will no longer destroy the entire toybox
    - Game shows info popups instead of letting the toybox crash when deleting a corrupt contraption
@@ -1696,7 +1696,7 @@ Small mod API patch
    - Joint stress sounds play less frequently
    - Limbs can only be crushed by guns when Limb Crushing is enabled
    - Machine gun texture
-   - Sentry turret now fires a 5.56 round at a lower firerate, instead of a 9mm at a high fire rate
+   - Sentry turret now fires a 5.56 round at a lower fire rate, instead of a 9mm at a high fire rate
    - Beam Rifle texture
    - Blast Radius texture
    - Humans are a little less soft
@@ -1740,7 +1740,7 @@ Small mod API patch
    - Industrial Generator (dangerous as hell, I'm not sure if this should actually be in the game)
    - Red barrels
    - An unreasonably large map
-   - _Detail view_: shows blast radii, limb healh, center of mass, and visual center
+   - _Detail view_: shows blast radii, limb health, center of mass, and visual center
    - Blood decals are now created behind exit wounds
 ### Changed
    - Human flesh texture
@@ -1776,7 +1776,7 @@ Small mod API patch
    - Bullets will go through syringes
    - Explosives can no longer go off multiple times
 
-## [1.4] - Febuary 26 2020
+## [1.4] - February 26 2020
 A small update adding a few new items and fixing a number of bugs following 1.3
 ### Added
    - Timed gate
@@ -1804,7 +1804,7 @@ A small update adding a few new items and fixing a number of bugs following 1.3
    - Risky expanded gore mode
       - Adds a number of organs and reintroduces guts to the game. This option is disabled by default and should stay disabled considering the performance impact and limited support / attention. Enable at your own risk :)
 ### Changed
-   - The majority of all machinery is now destructable and will generally cease all function when destroyed
+   - The majority of all machinery is now destructible and will generally cease all function when destroyed
    - Behaviour of aerodynamic objects
    - General Purpose Bomb is now aerodynamic
    - Atom Bomb is now aerodynamic
@@ -1836,7 +1836,7 @@ A small update adding a few new items and fixing a number of bugs following 1.3
    - Incorrect broken plate spawn position
    - Giant wooden bowl not looking burnt after being burnt
    - Disassembler muzzle flash is no longer gigantic when weightless
-   - Canceling saving a contraption is no longer broken
+   - Cancelling saving a contraption is no longer broken
    - You can once again pan while hovering over the toybox panel 
 ### Removed
    - Metronomes no longer burn when energy flows through
@@ -1866,7 +1866,7 @@ A small update adding a few new items and fixing a number of bugs following 1.3
    - Decreased chance of losing consciousness on impact
    - Halved water impact damage
    - Abyss thumbnail
-   - Normal handgrenades are now less powerful
+   - Normal hand grenades are now less powerful
    - Blaster impact
    - Tank texture
    - Wooden pole texture
@@ -1971,7 +1971,7 @@ A small update adding a few new items and fixing a number of bugs following 1.3
 - Freezing outlines now disappear after a second
 - Crossbow finally has knockback
 - Bleeding wounds now heal automatically
-   - This also means the lethality of wounds is now based on how deep it is. Syringe wounds heal quicky, while a spear through the stomach won't heal at all.
+   - This also means the lethality of wounds is now based on how deep it is. Syringe wounds heal quickly, while a spear through the stomach won't heal at all.
 - Sharp objects can now penetrate multiple objects 
    - **This breaks any lodged objects in saves from older versions**
  - Improved performance of particles
@@ -2147,7 +2147,7 @@ Last update had a few issues following the rewrite, this is a quick patch.
 ### Removed
  - Grenade is no longer armed when spawned
  - Barrels no longer deform
- - Removed arrow on motorised wheel since every wheel is now reversable
+ - Removed arrow on motorised wheel since every wheel is now reversible
 
 ## [1.2.0] - August 5 2019
 
@@ -2207,7 +2207,7 @@ Last update had a few issues following the rewrite, this is a quick patch.
 ### Changed
 
 - Made truck container background more transparent
-- Doubled limb breaking treshold
+- Doubled limb breaking threshold
 - Changed the look of the fixed cable to make objects behind more visible
 - Decreased camera shake from firearms
 - Dimmed selection outline
