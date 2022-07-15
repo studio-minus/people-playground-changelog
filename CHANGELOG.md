@@ -1,6 +1,13 @@
 # Changelog
 
-# [1.25.2] - July ?? 2022
+# [1.25.3] - July 15 🎈 2022
+
+## Changed
+ - Made seizures a little less intense and lowered maximum duration from 5 minutes to 30 seconds
+ - Pain animation is less strong, again
+ - Painkiller can now help with seizures
+
+# [1.25.2] - July 14 2022
 
 ## Added
  - Seizures
