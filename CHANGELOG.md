@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.25.4] - July 15 🎈 2022
+
+## Fixed
+ - Mods failing to compile occasionally on start
+## Removed
+ - You know what
+
 # [1.25.3] - July 15 🎈 2022
 
 ## Changed
