@@ -9,8 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Discord Commits
-        uses: Sniddl/discord-commits@v1.3
+      - name: discord-webhook
+        uses: johnnyhuy/actions-discord-git-webhook@v1.0.0
         with:
-          # discord webhook url without /github
-          webhook: ${{ secrets.WEBHOOK_LINK }}
+          # Discord webhook URL
+          webhook_url: ${{ secrets.WEBHOOK_LINK }}
+          # Hide the full GitHub username
+          censor_username: true
+          # Color of the Discord embed
+          color: '#f0771a'
