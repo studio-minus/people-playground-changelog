@@ -1,0 +1,16 @@
+name: Discord notification
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+jobs:
+  notify-discord-server:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Discord Commits
+        uses: Sniddl/discord-commits@v1.3
+        with:
+          # discord webhook url without /github
+          webhook: ${{ secrets.WEBHOOK_LINK }}
