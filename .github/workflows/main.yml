@@ -1,5 +1,4 @@
 name: Discord notification
-
 on:
   push:
     branches: [ "master" ]
@@ -9,12 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: discord-webhook
-        uses: johnnyhuy/actions-discord-git-webhook@v1.0.0
+      - name: Discord Commits
+        uses: Sniddl/discord-commits@v1.3
         with:
-          # Discord webhook URL
-          webhook_url: ${{ secrets.WEBHOOK_LINK }}
-          # Hide the full GitHub username
-          censor_username: true
-          # Color of the Discord embed
-          color: '#f0771a'
+          webhook: ${{ secrets.WEBHOOK_LINK }}
+          message: "Updated changelog\nDiff: {{ github.context.payload.compare }}"
+          embed: '{ "title": "{{ commit.title }}", "description": "{{ commit.description }}", "url": "{{ commit.url }}", "author": { "name": "{{ commit.author.name }} ({{ commit.author.username }})", "icon_url": "https://avatars.io/gravatar/{{ commit.author.email }}"} }'
