@@ -12,5 +12,5 @@ jobs:
         uses: Sniddl/discord-commits@v1.3
         with:
           webhook: ${{ secrets.WEBHOOK_LINK }}
-          message: '**{{ commit.title }}**\n{{ commit.description }}'
+          message: "**{{ commit.title }}**\n{{ commit.description }}"
           embed: '{"components":[{"type":1,"components":[{"style":5,"label":"View changes","url":"{{ github.context.payload.compare }}","disabled":false,"type":2}]}]}'
