@@ -1,5 +1,18 @@
 # Changelog
 
+# [1.25.5] - July ?? 2022
+
+## Changed
+ - Life syringe stops seizures
+ - Drastically lowered chance of brain damage, it should be a rare occurrence
+ - Lowered chance of concrete rebar appearing in concrete debris. It's completely disabled when Fancy Effects is disabled.
+ - Increased water impact damage 
+
+## Fixed
+ - Older contraptions having firearms with incorrect reflection sounds
+ - Ray cannon going insane on void & other maps occasionally
+ - Fragility slider not showing enough digits
+
 # [1.25.4] - July 15 🎈 2022
 
 ## Fixed
@@ -117,11 +130,11 @@
 
 # [1.24.6] - May 26 2022
 
-# Changed
+## Changed
  - Immortality serum now heals skin damage too
  - Minor tweaks to body shader
 
-# Fixed
+## Fixed
  - Healing dismemberment wounds being abrupt
  - Laser receivers still sending signals even when broken
  - Key triggers still sending signals even when broken
