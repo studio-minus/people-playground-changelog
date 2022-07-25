@@ -3,12 +3,13 @@
 # [1.25.5] - July ?? 2022
 
 ## Added
- -
+ - Freezing limbs will now damage tissue.
 
 ## Changed
  - Life syringe stops seizures
  - Drastically lowered chance of brain damage, it should be a rare occurrence
  - Lowered chance of concrete rebar appearing in concrete debris. It's completely disabled when Fancy Effects is disabled.
+ - Slightly improved tesla coil arcs
  - Increased water impact damage 
  - Bullet casings now shrink when despawning
  - Oxygen deficiency may cause brain damage
@@ -17,6 +18,7 @@
  - Seizures can stop the heart
  - Slightly lowered entity impact damage
  - Increased thermal pulse intensity from nuclear explosions
+ - Made many changes to the body heat system and responses to environment temperature. Humans are more resistant to cold environments. They won't freeze as quickly and will often pass out before dying if their body temperature is too low.
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
