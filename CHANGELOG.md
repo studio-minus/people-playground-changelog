@@ -2,16 +2,29 @@
 
 # [1.25.5] - July ?? 2022
 
+## Added
+ -
+
 ## Changed
  - Life syringe stops seizures
  - Drastically lowered chance of brain damage, it should be a rare occurrence
  - Lowered chance of concrete rebar appearing in concrete debris. It's completely disabled when Fancy Effects is disabled.
  - Increased water impact damage 
+ - Bullet casings now shrink when despawning
+ - Oxygen deficiency may cause brain damage
+ - Low blood pressure may cause brain damage
+ - Lowered brain damage posturing time
+ - Seizures can stop the heart
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
  - Ray cannon going insane on void & other maps occasionally
  - Fragility slider not showing enough digits
+ - Crossbow bolts spinning forever
+ - Some energy sword problems
+ - Tree collision
+ - Phase link slightly affecting center of mass
+ - Minor performance improvements to do with phase links and other tools
 
 # [1.25.4] - July 15 🎈 2022
 
