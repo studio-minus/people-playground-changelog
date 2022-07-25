@@ -15,6 +15,8 @@
  - Low blood pressure may cause brain damage
  - Lowered brain damage posturing time
  - Seizures can stop the heart
+ - Slightly lowered entity impact damage
+ - Increased thermal pulse intensity from nuclear explosions
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
@@ -23,6 +25,7 @@
  - Crossbow bolts spinning forever
  - Some energy sword problems
  - Tree collision
+ - Human feet are no longer unnaturally resistant to being crushed
  - Phase link slightly affecting center of mass
  - Minor performance improvements to do with phase links and other tools
 
