@@ -4,6 +4,7 @@
 
 ## Added
  - Freezing limbs will now damage tissue.
+ - "Toggle UI visibility" optional keybind
 
 ## Changed
  - Life syringe stops seizures
@@ -30,6 +31,7 @@
  - Human feet are no longer unnaturally resistant to being crushed
  - Phase link slightly affecting center of mass
  - Minor performance improvements to do with phase links and other tools
+ - Some deletion stuff
 
 # [1.25.4] - July 15 🎈 2022
 
