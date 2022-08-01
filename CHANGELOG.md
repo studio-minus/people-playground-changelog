@@ -3,6 +3,7 @@
 # [1.25.5] - July ?? 2022
 
 ## Added
+ - Wooden Binding
  - Freezing limbs will now damage tissue.
  - "Toggle UI visibility" optional keybind
 
@@ -18,8 +19,13 @@
  - Lowered brain damage posturing time
  - Seizures can stop the heart
  - Slightly lowered entity impact damage
+ - Fire Extinguisher is a little heavier now
  - Increased thermal pulse intensity from nuclear explosions
+ - Increased drag underwater
  - Made many changes to the body heat system and responses to environment temperature. Humans are more resistant to cold environments. They won't freeze as quickly and will often pass out before dying if their body temperature is too low.
+ - Changed sharpness velocity threshold calculation. Lower softness values are now more effective
+ - Improved thruster SFX
+ - Lowered audio range of mini thruster
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
