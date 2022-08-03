@@ -1,13 +1,16 @@
 # Changelog
 
-# [1.25.5] - July ?? 2022
+# [1.25.5] - August ?? 2022
 
 ## Added
  - Wooden Binding
+ - Jet Engine
  - Freezing limbs will now damage tissue.
  - "Toggle UI visibility" optional keybind
 
 ## Changed
+ - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
+ - Servos no longer speed up when powered, they only become more powerful. Speed can be changed in the context menu.
  - Life syringe stops seizures
  - Drastically lowered chance of brain damage, it should be a rare occurrence
  - Lowered chance of concrete rebar appearing in concrete debris. It's completely disabled when Fancy Effects is disabled.
@@ -25,6 +28,7 @@
  - Made many changes to the body heat system and responses to environment temperature. Humans are more resistant to cold environments. They won't freeze as quickly and will often pass out before dying if their body temperature is too low.
  - Changed sharpness velocity threshold calculation. Lower softness values are now more effective
  - Improved thruster SFX
+ - Improved propeller SFX
  - Lowered audio range of mini thruster
 
 ## Fixed
@@ -38,6 +42,9 @@
  - Phase link slightly affecting center of mass
  - Minor performance improvements to do with phase links and other tools
  - Some deletion stuff
+ - Pin hover stuff
+ - Menu escape issue
+ - Bug where limbs would cool down when dead despite blood flowing through them
 
 # [1.25.4] - July 15 🎈 2022
 
