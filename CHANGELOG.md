@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.25.5] - August ?? 2022
+# [1.25.6] - August ?? 2022
 
 ## Added
  - Wooden Binding
