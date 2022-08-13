@@ -30,6 +30,7 @@
  - Improved thruster SFX
  - Improved propeller SFX
  - Lowered audio range of mini thruster
+ - Decreased cannon shockwave
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
@@ -43,8 +44,12 @@
  - Minor performance improvements to do with phase links and other tools
  - Some deletion stuff
  - Pin hover stuff
+ - The game will now delete older logs as to keep a maximum of 25 logs in the log directory
  - Menu escape issue
  - Bug where limbs would cool down when dead despite blood flowing through them
+ - Bug where cardiopulmonary bypass machine continues to provide oxygen even when turned off/broken
+ - Electricity particles not scaling with the object
+ - Some major liquid system problems
 
 # [1.25.4] - July 15 🎈 2022
 
