@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.25.6] - August ?? 2022
+# [1.26] - August hopefully ?? 2022
 
 ## Added
  - Wooden Binding
@@ -9,6 +9,7 @@
  - "Toggle UI visibility" optional keybind
  - ModAPI.SerialiseJSON and ModAPI.DeserialiseJSON
  - The optional `OnUnload` static method is now called when the application is closed for all loaded mods.
+ - You can now edit object rendering layers
 
 ## Changed
  - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
@@ -24,6 +25,7 @@
  - Lowered brain damage posturing time
  - Seizures can stop the heart
  - Slightly lowered entity impact damage
+ - Bleeding particles collide with the world when Fancy Effects is enabled
  - Fire Extinguisher is a little heavier now
  - Increased thermal pulse intensity from nuclear explosions
  - Increased drag underwater
@@ -35,6 +37,7 @@
  - Lowered audio range of mini thruster
  - Improved pumpkin destruction effect
  - Decreased cannon shockwave
+ - Laser colours can be much darker
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
