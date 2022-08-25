@@ -7,6 +7,8 @@
  - Jet Engine
  - Freezing limbs will now damage tissue.
  - "Toggle UI visibility" optional keybind
+ - ModAPI.SerialiseJSON and ModAPI.DeserialiseJSON
+ - The optional `OnUnload` static method is now called when the application is closed for all loaded mods.
 
 ## Changed
  - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
@@ -29,7 +31,9 @@
  - Changed sharpness velocity threshold calculation. Lower softness values are now more effective
  - Improved thruster SFX
  - Improved propeller SFX
+ - Improved ricochet SFX variety
  - Lowered audio range of mini thruster
+ - Improved pumpkin destruction effect
  - Decreased cannon shockwave
 
 ## Fixed
