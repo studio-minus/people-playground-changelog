@@ -9,10 +9,13 @@
  - "Toggle UI visibility" optional keybind
  - ModAPI.SerialiseJSON and ModAPI.DeserialiseJSON
  - The optional `OnUnload` static method is now called when the application is closed for all loaded mods.
- - You can now edit object rendering layers
+ - You can now edit object rendering layers (a little box will appear in detail view, but there are also optional keybinds)
+ - Bullets can now dismember limbs in addition to them already crushing limbs
 
 ## Changed
+ - **UPDATED TO UNITY 2022.1.14f1**
  - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
+ - Bullet damage is now based on speed alongside distance and cartridge damage
  - Servos no longer speed up when powered, they only become more powerful. Speed can be changed in the context menu.
  - Life syringe stops seizures
  - Drastically lowered chance of brain damage, it should be a rare occurrence
@@ -37,7 +40,10 @@
  - Lowered audio range of mini thruster
  - Improved pumpkin destruction effect
  - Decreased cannon shockwave
+ - Falling embers now collide
  - Laser colours can be much darker
+ - Increased G1 SMG, SMG, and Minigun spread
+ - Increased LMG heat up speed and added a little glowy bit at the end
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
@@ -57,6 +63,7 @@
  - Bug where cardiopulmonary bypass machine continues to provide oxygen even when turned off/broken
  - Electricity particles not scaling with the object
  - Some major liquid system problems
+ - Weird deletion message stuff
 
 # [1.25.4] - July 15 🎈 2022
 
