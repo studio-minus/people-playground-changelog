@@ -16,7 +16,6 @@
  - Fire Extinguisher is a little more animated
 
 ## Changed
- - **UPDATED TO UNITY 2022.1.14f1**
  - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
  - Bullet damage is now based on speed alongside distance and cartridge damage
  - Servos no longer speed up when powered, they only become more powerful. Speed can be changed in the context menu.
