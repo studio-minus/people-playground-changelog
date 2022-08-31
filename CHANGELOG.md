@@ -59,6 +59,7 @@
  - Phase link slightly affecting center of mass
  - Minor performance improvements to do with phase links and other tools
  - Some deletion stuff
+ - Flamethrower wouldn't burn stuff up close sometimes
  - Pin hover stuff
  - The game will now delete older logs as to keep a maximum of 25 logs in the log directory
  - Menu escape issue
@@ -67,6 +68,7 @@
  - Electricity particles not scaling with the object
  - Some major liquid system problems
  - Weird deletion message stuff
+ - Other minor bugs
 
 # [1.25.4] - July 15 🎈 2022
 
