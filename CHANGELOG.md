@@ -39,6 +39,7 @@
  - Improved thruster SFX
  - Improved propeller SFX
  - Improved ricochet SFX variety
+ - Improved fire extinguisher particles
  - Lowered audio range of mini thruster
  - Improved pumpkin destruction effect
  - Decreased cannon shockwave
