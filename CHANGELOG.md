@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.26] - Definitely not August ?? 2022
+# [1.26] - September ?? 2022
 
 ## Added
  - Wooden Binding
@@ -9,8 +9,8 @@
  - Metal scraping sparks
  - Tyres can pop/deflate
  - "Toggle UI visibility" optional keybind
- - ModAPI.SerialiseJSON and ModAPI.DeserialiseJSON
- - The optional `OnUnload` static method is now called when the application is closed for all loaded mods.
+ - ModAPI.SerialiseJSON, ModAPI.DeserialiseJSON, ModAPI.DeleteJSON
+ - The optional OnUnload static method is now called when the application is closed for all loaded mods.
  - You can now edit object rendering layers (a little box will appear in detail view, but there are also optional keybinds)
  - Bullets can now dismember limbs in addition to them already crushing limbs
  - Fire Extinguisher is a little more animated
