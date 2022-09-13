@@ -36,6 +36,7 @@
  - Increased drag underwater
  - Made many changes to the body heat system and responses to environment temperature. Humans are more resistant to cold environments. They won't freeze as quickly and will often pass out before dying if their body temperature is too low.
  - Changed sharpness velocity threshold calculation. Lower softness values are now more effective
+ - Improved wood impact VFX
  - Improved thruster SFX
  - Improved propeller SFX
  - Improved ricochet SFX variety
@@ -69,6 +70,8 @@
  - Some major liquid system problems
  - Weird deletion message stuff
  - Other minor bugs
+
++ Many changes and improvements to the modding wiki
 
 # [1.25.4] - July 15 🎈 2022
 
