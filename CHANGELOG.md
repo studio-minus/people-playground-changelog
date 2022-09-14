@@ -11,7 +11,7 @@
  - "Toggle UI visibility" optional keybind
  - ModAPI.SerialiseJSON, ModAPI.DeserialiseJSON, ModAPI.DeleteJSON
  - The optional OnUnload static method is now called when the application is closed for all loaded mods.
- - You can now edit object rendering layers (a little box will appear in detail view, but there are also optional keybinds)
+ - You can now edit object rendering layers (context menu option & optional keybinds)
  - Bullets can now dismember limbs in addition to them already crushing limbs
  - Fire Extinguisher is a little more animated
 
