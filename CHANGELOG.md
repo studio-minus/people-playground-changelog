@@ -1,15 +1,17 @@
 # Changelog
 
-# [1.26] - September ?? 2022
+# [1.26] - October <-- LOL ?? 2022
 
 ## Added
  - Wooden Binding
  - Jet Engine
  - Freezing limbs will now damage tissue
  - Metal scraping sparks
+ - Activator Electrode
  - Tyres can pop/deflate
  - "Toggle UI visibility" optional keybind
  - ModAPI.SerialiseJSON, ModAPI.DeserialiseJSON, ModAPI.DeleteJSON
+ - Nitroglycerine will explode when the container is charged by something like a battery
  - The optional OnUnload static method is now called when the application is closed for all loaded mods.
  - You can now edit object rendering layers (context menu option & optional keybinds)
  - Bullets can now dismember limbs in addition to them already crushing limbs
@@ -71,7 +73,11 @@
  - Weird deletion message stuff
  - Other minor bugs
 
-+ Many changes and improvements to the modding wiki
+## Removed
+ - Android instant death on dismemberment
+
+## Additionally
+Many changes and improvements to the modding wiki. Also yes this update sure is delayed. What am I doing???
 
 # [1.25.4] - July 15 🎈 2022
 
