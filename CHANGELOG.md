@@ -16,6 +16,8 @@
  - You can now edit object rendering layers (context menu option & optional keybinds)
  - Bullets can now dismember limbs in addition to them already crushing limbs
  - Fire Extinguisher is a little more animated
+ - ModAPI.RegisterCategory
+ - Catalog now supports custom categories
 
 ## Changed
  - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
