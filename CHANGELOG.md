@@ -9,6 +9,7 @@
  - Metal scraping sparks
  - Activator Electrode
  - Tyres can pop/deflate
+ - Brain damage can be disabled in settings
  - "Toggle UI visibility" optional keybind
  - ModAPI.SerialiseJSON, ModAPI.DeserialiseJSON, ModAPI.DeleteJSON
  - Nitroglycerine will explode when the container is charged by something like a battery
