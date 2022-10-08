@@ -51,7 +51,7 @@
  - Falling embers now collide
  - Laser colours can be much darker
  - Increased G1 SMG, SMG, and Minigun spread
- - Increased LMG heat up speed and added a little glowy bit at the end
+ - Increased LMG heat up speed and added a little glowy bit at the end (will automatically be removed when overridden with a mod. Use ModAPI.KeepExtraObjects())
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
@@ -59,6 +59,7 @@
  - Fragility slider not showing enough digits
  - Crossbow bolts spinning forever
  - Some energy sword problems
+ - Item persistence bugs (normal sized bug) (you may have to do the achievement again)
  - Tree collision
  - Human feet are no longer unnaturally resistant to being crushed
  - Phase link slightly affecting center of mass
