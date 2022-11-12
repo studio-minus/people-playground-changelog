@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.26] - October <-- LOL ?? 2022
+# [1.26] - Surely this month ?? 2022
 
 ## Added
  - Wooden Binding
@@ -8,6 +8,8 @@
  - Freezing limbs will now damage tissue
  - Metal scraping sparks
  - Activator Electrode
+ - Procedural gore fragments on crush (disabled by default, enable in settings)
+ - Functional weapon attachments
  - Tyres can pop/deflate
  - Brain damage can be disabled in settings
  - "Toggle UI visibility" optional keybind
@@ -33,6 +35,7 @@
  - Oxygen deficiency may cause brain damage
  - Low blood pressure may cause brain damage
  - Lowered brain damage posturing time
+ - Increased crush-by-gunshot chances a bit
  - Seizures can stop the heart
  - Slightly lowered entity impact damage
  - Bleeding particles collide with the world when Fancy Effects is enabled
