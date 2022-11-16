@@ -8,6 +8,7 @@
  - Freezing limbs will now damage tissue
  - Metal scraping sparks
  - Activator Electrode
+ - Local fire propagation on large flammable objects
  - Procedural gore fragments on crush (disabled by default, enable in settings)
  - Functional weapon attachments
  - Tyres can pop/deflate
@@ -21,6 +22,7 @@
  - Fire Extinguisher is a little more animated
  - ModAPI.RegisterCategory
  - Catalog now supports custom categories
+ - ModAPI.OnWireDestroyed, ModAPI.OnPinDestroyed, ModAPI.OnLinkDestroyed
 
 ## Changed
  - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
@@ -32,6 +34,7 @@
  - Slightly improved tesla coil arcs
  - Increased water impact damage 
  - Bullet casings now shrink when despawning
+ - Deflated tyres slightly deform when in contact with an object
  - Oxygen deficiency may cause brain damage
  - Low blood pressure may cause brain damage
  - Lowered brain damage posturing time
