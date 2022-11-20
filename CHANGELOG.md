@@ -10,8 +10,9 @@
  - Activator Electrode
  - Local fire propagation on large flammable objects
  - Procedural gore fragments on crush (disabled by default, enable in settings)
- - Functional weapon attachments
+ - Functional weapon attachments (capacitor, explosive, scope, laser, flashlight)
  - Tyres can pop/deflate
+ - Burnt leaves will now slowly disappear
  - Brain damage can be disabled in settings
  - "Toggle UI visibility" optional keybind
  - ModAPI.SerialiseJSON, ModAPI.DeserialiseJSON, ModAPI.DeleteJSON
@@ -62,6 +63,7 @@
 
 ## Fixed
  - Older contraptions having firearms with incorrect reflection sounds
+ - Stupid memory leak to do with custom human textures
  - Ray cannon going insane on void & other maps occasionally
  - Fragility slider not showing enough digits
  - Crossbow bolts spinning forever
@@ -80,6 +82,7 @@
  - Bug where cardiopulmonary bypass machine continues to provide oxygen even when turned off/broken
  - Electricity particles not scaling with the object
  - Some major liquid system problems
+ - Automatic firearms shooting two bullets as their first shot sometimes
  - Weird deletion message stuff
  - Other minor bugs
 
