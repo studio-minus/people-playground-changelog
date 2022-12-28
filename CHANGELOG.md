@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.26] - Surely this month ?? 2022
+# [1.26] - Dear God. I hope it releases this year.
 
 ## Added
  - Wooden Binding
@@ -24,6 +24,7 @@
  - ModAPI.RegisterCategory
  - Catalog now supports custom categories
  - ModAPI.OnWireDestroyed, ModAPI.OnPinDestroyed, ModAPI.OnLinkDestroyed
+ - BallisticsEmitter.OnTracerCreation<LineRenderer> is a UnityEvent that can be used to customise a tracer round when it is created
 
 ## Changed
  - Minor changes to ragdoll animation system. Some animations had way too much force behind them and it's now possible for animations to specify a force multiplier.
@@ -57,6 +58,7 @@
  - Improved pumpkin destruction effect
  - Decreased cannon shockwave
  - Falling embers now collide
+ - Made acid less effective on androids
  - Laser colours can be much darker
  - Increased G1 SMG, SMG, and Minigun spread
  - Increased LMG heat up speed and added a little glowy bit at the end (will automatically be removed when overridden with a mod. Use ModAPI.KeepExtraObjects())
@@ -72,6 +74,7 @@
  - Tree collision
  - Human feet are no longer unnaturally resistant to being crushed
  - Phase link slightly affecting center of mass
+ - Phase link being deletable without being visible
  - Minor performance improvements to do with phase links and other tools
  - Some deletion stuff
  - Flamethrower wouldn't burn stuff up close sometimes
@@ -84,6 +87,7 @@
  - Some major liquid system problems
  - Automatic firearms shooting two bullets as their first shot sometimes
  - Weird deletion message stuff
+ - Things can no longer breathe when submerged in ice
  - Other minor bugs
 
 ## Removed
