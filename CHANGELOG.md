@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.26] - Dear God. I hope it releases this year.
+# [1.26] - December 30 2022
 
 ## Added
  - Wooden Binding
@@ -8,6 +8,7 @@
  - Freezing limbs will now damage tissue
  - Metal scraping sparks
  - Activator Electrode
+ - You can now edit object rendering layers (context menu option & optional keybinds)
  - Local fire propagation on large flammable objects
  - Procedural gore fragments on crush (disabled by default, enable in settings)
  - Functional weapon attachments (capacitor, explosive, scope, laser, flashlight)
@@ -18,7 +19,6 @@
  - ModAPI.SerialiseJSON, ModAPI.DeserialiseJSON, ModAPI.DeleteJSON
  - Nitroglycerine will explode when the container is charged by something like a battery
  - The optional OnUnload static method is now called when the application is closed for all loaded mods.
- - You can now edit object rendering layers (context menu option & optional keybinds)
  - Bullets can now dismember limbs in addition to them already crushing limbs
  - Fire Extinguisher is a little more animated
  - ModAPI.RegisterCategory
@@ -88,13 +88,18 @@
  - Automatic firearms shooting two bullets as their first shot sometimes
  - Weird deletion message stuff
  - Things can no longer breathe when submerged in ice
+ - Humans unable to grab things after copy/pasting
  - Other minor bugs
 
 ## Removed
  - Android instant death on dismemberment
 
 ## Additionally
-Many changes and improvements to the modding wiki. Also yes this update sure is delayed. What am I doing???
+- Many changes and improvements to the modding wiki.
+- Aspa102
+- [You should read our weekly blog for updates on all our projects](https://www.studiominus.nl/blog/)
+- I need to remind myself to **never** make updates large and infrequent. It's a lot better for everyone involved to make them frequent and smaller. Ideally focused on a theme or single feature implementation. This shouldn't happen anymore from now on.
+
 
 # [1.25.4] - July 15 🎈 2022
 
