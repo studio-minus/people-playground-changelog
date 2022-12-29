@@ -47,6 +47,7 @@
  - Fire Extinguisher is a little heavier now
  - Increased thermal pulse intensity from nuclear explosions
  - Increased drag underwater
+ - Made androids less vulnerable to explosives
  - Made many changes to the body heat system and responses to environment temperature. Humans are more resistant to cold environments. They won't freeze as quickly and will often pass out before dying if their body temperature is too low.
  - Changed sharpness velocity threshold calculation. Lower softness values are now more effective
  - Improved wood impact VFX
@@ -60,6 +61,7 @@
  - Falling embers now collide
  - Made acid less effective on androids
  - Laser colours can be much darker
+ - Explosions can now completely crush bodyparts if "procedural fragments" is enabled
  - Increased G1 SMG, SMG, and Minigun spread
  - Increased LMG heat up speed and added a little glowy bit at the end (will automatically be removed when overridden with a mod. Use ModAPI.KeepExtraObjects())
 
