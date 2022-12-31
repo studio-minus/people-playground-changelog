@@ -1,13 +1,13 @@
 # Changelog
 
-# [1.26.1] - December 30 2022
+# [1.26.1] - god knows
 
 ## Changed
- - Explosive barrels will not longer ignite obstructed objects
+ - Explosive barrels will no longer ignite obstructed objects
 
 ## Fixed
  - Layering issues regarding objects with multiple sprites (lagboxes, ion cannons, etc.)
- - Syringes behaving incorrectly if loaded while lodged into a liquid container
+ - Syringes behaving incorrectly if pasted/loaded while lodged into a liquid container
  - Attachment point blob in detail mode being visible at the wrong time
 
 # [1.26] - December 29 2022
