@@ -1,14 +1,18 @@
 # Changelog
 
-# [1.26.1] - god knows
+# [1.26.1] - December 31 2022 🎆
 
 ## Changed
  - Explosive barrels will no longer ignite obstructed objects
+ - Wrench description is now more accurate
 
 ## Fixed
  - Layering issues regarding objects with multiple sprites (lagboxes, ion cannons, etc.)
  - Syringes behaving incorrectly if pasted/loaded while lodged into a liquid container
  - Attachment point blob in detail mode being visible at the wrong time
+ - Flare showing spawn particles on use, sometimes
+ - Deflated tyre appearing inflated after deserialisation
+ - Organisms slowly descending if the surface they stood on is disintegrated or otherwise removed unexpectedly
 
 # [1.26] - December 29 2022
 
