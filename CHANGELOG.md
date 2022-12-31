@@ -1,5 +1,10 @@
 # Changelog
 
+# [1.26.2] - ??
+
+## Fixed
+ - Weapon attachment undo bug
+
 # [1.26.1] - December 31 2022 🎆
 
 ## Changed
