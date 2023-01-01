@@ -9,6 +9,7 @@
  - Weapon attachment undo 
  - Red barrel fire now takes no-collide into account
  - Gore fragments are now always removed with the organism
+ - awdawdawdawd
 
 # [1.26.1] - December 31 2022 🎆
 
