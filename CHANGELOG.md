@@ -2,8 +2,13 @@
 
 # [1.26.2] - ??
 
+## Added
+ - Thermal vision now also displays the temperature of the object under the cursor
+
 ## Fixed
- - Weapon attachment undo bug
+ - Weapon attachment undo 
+ - Red barrel fire now takes no-collide into account
+ - Gore fragments are now always removed with the organism
 
 # [1.26.1] - December 31 2022 🎆
 
