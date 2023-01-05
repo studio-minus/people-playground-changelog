@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.26.2] - ??
+# [1.26.2] - January 5 2023
 
 ## Added
  - Thermal vision now also displays the temperature of the object under the cursor
