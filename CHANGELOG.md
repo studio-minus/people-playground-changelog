@@ -1,5 +1,20 @@
 # Changelog
 
+# [1.26.3] - ??
+
+## Added
+ - Laser double trigger
+
+## Changed
+ - Minor tweaks to body temperature management (body is now less effective at resistent external heat than it is external cold)
+ - Being on fire causes skin damage and is less likely to cause someone to lose consciousness
+ - Organisms burn longer
+
+## Fixed
+ - PPG modding wiki bug fix to do with rendering method overloads
+ - Thermal vision display not showing lava temperature
+ - Procedural fragments disappearing after every limb is crushed
+
 # [1.26.2] - January 5 2023
 
 ## Added
