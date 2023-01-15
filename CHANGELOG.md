@@ -3,7 +3,8 @@
 # [1.26.3] - ??
 
 ## Added
- - Laser double trigger
+ - Laser receiver double trigger
+ - Suspicious mods can now be "trusted". [Observe.](https://i.imgur.com/chNORZe.mp4)
 
 ## Changed
  - Minor tweaks to body temperature management (body is now less effective at resisting external heat than it is external cold)
