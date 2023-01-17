@@ -5,6 +5,7 @@
 ## Added
  - Laser receiver double trigger
  - Suspicious mods can now be "trusted". [Observe.](https://i.imgur.com/chNORZe.mp4)
+ - Mods can now come with a README.txt, which can contain TMP rich text which will be displayed on the right side of the mod list screen. Think of it as an extended description. More information [on the wiki](https://www.studiominus.nl/ppg-modding/details/readme.html).
 
 ## Changed
  - Minor tweaks to body temperature management (body is now less effective at resisting external heat than it is external cold)
