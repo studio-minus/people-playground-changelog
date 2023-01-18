@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.26.3] - ??
+# [1.26.3] - January 18 2023
 
 ## Added
  - Laser receiver double trigger
