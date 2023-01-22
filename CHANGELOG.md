@@ -1,5 +1,15 @@
 # Changelog
 
+# [1.26.4] - January 22 2023
+
+## Changed
+ - For modders: the `Lasered` message is now `OnLasered` and takes a `Messages.ILasered.LaserArgs` as a parameter. Please implement the `Messages.ILasered` interface.
+ - You can double click a mod to toggle it
+## Fixed
+ - Map objects occasionally creating spawn particles
+ - Tank tank problems (Tank)
+ - Some UI problems
+
 # [1.26.3] - January 18 2023
 
 ## Added
