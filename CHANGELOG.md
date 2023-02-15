@@ -1,5 +1,19 @@
 # Changelog
 
+# [1.26.5] - February 15 2023
+
+## Added 
+ - WaterBehaviour.Ignore, IgnoreObject(gm), and StopIgnoringObject(gm)
+ - You can now toggle the detector beam visibility in the context menu and added a enabled light
+
+## Changed
+ - Increased EMP chance for regular atom bomb
+
+## Fixed
+ - That wire layering bug when editing layers
+ - Organism temperature response being way too abrupt
+ - EMP from nuclear weapons not passing through objects for some reason
+
 # [1.26.4] - January 22 2023
 
 ## Changed
