@@ -1,5 +1,18 @@
 # Changelog
 
+# [1.26.6] - ??
+
+## Added
+ - `Limb.StrengthMultipliers`. This is a float array that is used to adjust the final motor strength of the limb. Empty by default
+- Some extra checks when uploading items to the Workshop to prevent unclear failures
+
+## Changed
+ - Renamed "Blood vessel wire" to "Fluid tube"
+ - Objects held by humans (etc.) will no longer collide with the human until it is distant enough or 15 seconds have passed. This prevents, for example, dropped weapons from freaking out when its wielder is killed.
+
+## Fixed
+ - Layer editor showing up when it shouldn't
+
 # [1.26.5] - February 15 2023
 
 ## Added 
