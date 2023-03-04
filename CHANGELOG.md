@@ -1,13 +1,14 @@
 # Changelog
 
-# [1.26.6] - ??
+# [1.26.6] - March 4 2023
 
 ## Added
- - `Limb.StrengthMultipliers`. This is a float array that is used to adjust the final motor strength of the limb. Empty by default
 - Some extra checks when uploading items to the Workshop to prevent unclear failures
+- When a mod is uploaded from within the game, it is modified slightly to make it harder to blatantly reupload
+ - `Limb.StrengthMultipliers`. This is a float array that is used to adjust the final motor strength of the limb. Empty by default
 
 ## Changed
- - Renamed "Blood vessel wire" to "Fluid tube"
+ - Renamed "Blood vessel wire" to "Liquid conduit"
  - Objects held by humans (etc.) will no longer collide with the human until it is distant enough or 15 seconds have passed. This prevents, for example, dropped weapons from freaking out when its wielder is killed.
 
 ## Fixed
