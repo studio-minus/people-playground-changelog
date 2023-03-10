@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.27] - ??
+
+## Added
+ - New map: Reactor A5
+ 
+## Changed
+ - Casing ejection particles no longer scale with the weapon
+ - Closed suspicious mod rejection loophole
+ - Made tempered glass shatter quicker
+
+## Fixed
+
 # [1.26.6] - March 4 2023
 
 ## Added
