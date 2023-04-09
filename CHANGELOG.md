@@ -4,13 +4,18 @@
 
 ## Added
  - New map: Reactor A5
+ - Office Chair
  
 ## Changed
  - Casing ejection particles no longer scale with the weapon
  - Closed suspicious mod rejection loophole
  - Made tempered glass shatter quicker
+ - Increased default physics iterations to 32
+ - Missile Launcher missile will now explode when shot with a sufficiently large round
 
 ## Fixed
+ - Mods occasionally failing to upload 
+ - Humans could live having all their blood replaced with a tasty beverage
 
 # [1.26.6] - March 4 2023
 
@@ -115,7 +120,7 @@
  - Bullets can now dismember limbs in addition to them already crushing limbs
  - Fire Extinguisher is a little more animated
  - ModAPI.RegisterCategory
- - Catalog now supports custom categories
+ - Catalogue now supports custom categories
  - ModAPI.OnWireDestroyed, ModAPI.OnPinDestroyed, ModAPI.OnLinkDestroyed
  - BallisticsEmitter.OnTracerCreation<LineRenderer> is a UnityEvent that can be used to customise a tracer round when it is created
 
@@ -154,7 +159,7 @@
  - Falling embers now collide
  - Made acid less effective on androids
  - Laser colours can be much darker
- - Explosions can now completely crush bodyparts if "procedural fragments" is enabled
+ - Explosions can now completely crush body parts if "procedural fragments" is enabled
  - Increased G1 SMG, SMG, and Minigun spread
  - Increased LMG heat up speed and added a little glowy bit at the end (will automatically be removed when overridden with a mod. Use ModAPI.KeepExtraObjects())
 
@@ -1086,7 +1091,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - The inspector window "blood amount" value no longer counts other liquid types
  - Shotgun collision boxes
  - Abyss uneven platform height
- - Missing Physics Gun init sound
+ - Missing Physics Gun initialisation sound
  - Human reaction to disconnected limbs burning
  - Minor bugs
 
@@ -1492,7 +1497,7 @@ Your operating system is obsolete. But if you want to keep using it anyway, you 
  - Context menu activation not being a direct activation signal
  - Some EMP related problems
  - Some rendering performance problems
- - Airfoil outline rendering
+ - Air foil outline rendering
  - Drag tool inconsistencies
  - Arm flailing when shot in upper chest
  - Local contraption paths. This should make many corrupt contraptions readable again
@@ -1644,7 +1649,7 @@ Lots of ones this time.
    - PhysicalProperties.LodgeStrengthMultiplier
       - This field determines how difficult it is to pull the object out if it has been lodged into something. It is set to 1 by default.
 ## Changed
-   - Slipperly soap
+   - Slippery soap
    - Androids are now 
    - 120mm cartridge is now 30mm
 ## Fixed
@@ -1924,7 +1929,7 @@ Small mod API patch
    - Charged particles will correctly appear after deserialisation
    - Resize handles will now properly encapsulate the selected objects
    - Bones will break properly when forcefully put in an unnatural position again. For some reason this bug went unnoticed for months.
-   - Battery powered lasers will no longer vaporise bodyparts
+   - Battery powered lasers will no longer vaporise body parts
    - Fire extinguisher and other particles will no longer appear under just decals
    - Resizing weight bug
    - Key triggers won't activate when the UI is blocked anymore
@@ -2030,7 +2035,7 @@ A small update adding a few new items and fixing a number of bugs following 1.3
    - New tank shot sound
    - New machine gun sound
    - Disabled fake reverb
-   - Metronomes and detectors will no longer propagate direct activation signals (zero propagations away from user iniatiated activation)
+   - Metronomes and detectors will no longer propagate direct activation signals (zero propagations away from user initiated activation)
    - Versioning will from now on go 1.3 -> 1.4 -> 1.5 and so on
 ### Fixed
    - Infinite fireworks activation
@@ -2341,7 +2346,7 @@ Last update had a few issues following the rewrite, this is a quick patch.
  - Improved rendering performance
  - Improved physics performance
  - Improved fire propagation performance
- - Barrels now render burnmarks
+ - Barrels now render burn marks
 ### Fixed
  - Contraptions with a full stop in their name couldn't be uploaded to the workshop 
  - Fixed incorrect human description
