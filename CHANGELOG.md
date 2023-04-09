@@ -5,6 +5,9 @@
 ## Added
  - New map: Reactor A5
  - Office Chair
+ - Office Desk
+ - Office Computer
+ - Office Monitor
  
 ## Changed
  - Casing ejection particles no longer scale with the weapon
