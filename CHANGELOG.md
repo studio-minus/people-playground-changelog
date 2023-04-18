@@ -14,11 +14,19 @@
  - Closed suspicious mod rejection loophole
  - Made tempered glass shatter quicker
  - Increased default physics iterations to 32
+ - Improved fragmentation explosion crushing behaviour
  - Missile Launcher missile will now explode when shot with a sufficiently large round
+ - Increased headshot fatality rate
+ - Slightly increased bullet knockback force
 
 ## Fixed
  - Mods occasionally failing to upload 
  - Humans could live having all their blood replaced with a tasty beverage
+ - Zombies healing wounds
+ - Cardiopulmonary bypass machine collision serialisation working incorrectly
+ - Attachments detaching when weapon is activated using activator electrode
+ - Incorrect servo description
+ - Heartrate monitor showing 70 bpm when it shouldn't
 
 # [1.26.6] - March 4 2023
 
