@@ -4,10 +4,12 @@
 
 ## Added
  - New map: Reactor A5
+ - Decoupler
  - Office Chair
  - Office Desk
  - Office Computer
  - Office Monitor
+ - "Mute" context menu option to the Lagbox, Metronome, and Timed Gate
  
 ## Changed
  - Casing ejection particles no longer scale with the weapon
