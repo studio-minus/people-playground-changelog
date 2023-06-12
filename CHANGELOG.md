@@ -9,6 +9,7 @@
  - Office Desk
  - Office Computer
  - Office Monitor
+ - Naval Mine
  - "Mute" context menu option to the Lagbox, Metronome, and Timed Gate
  
 ## Changed
@@ -20,6 +21,7 @@
  - Missile Launcher missile will now explode when shot with a sufficiently large round
  - Increased headshot fatality rate
  - Slightly increased bullet knockback force
+ - Doubled the lethality of the landmine
 
 ## Fixed
  - Mods occasionally failing to upload 
