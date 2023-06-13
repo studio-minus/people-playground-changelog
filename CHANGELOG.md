@@ -10,7 +10,9 @@
  - Office Computer
  - Office Monitor
  - Naval Mine
- - "Mute" context menu option to the Lagbox, Metronome, and Timed Gate
+ - Chain
+ - "Mute" context menu option to the Lagbox, Metronome, Missile Launcher, and Timed Gate
+ - Sound effects for bullet cracks and whizzes.
  
 ## Changed
  - Casing ejection particles no longer scale with the weapon
@@ -22,6 +24,7 @@
  - Increased headshot fatality rate
  - Slightly increased bullet knockback force
  - Doubled the lethality of the landmine
+ - Changed water surface explosion SFX
 
 ## Fixed
  - Mods occasionally failing to upload 
