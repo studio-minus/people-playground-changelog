@@ -12,6 +12,8 @@
  - Naval Mine
  - Chain
  - "Mute" context menu option to the Lagbox, Metronome, Missile Launcher, and Timed Gate
+ - Blunt impact can now emit blood particles
+ - Blunt impact have a chance to cut the skin open
  - Sound effects for bullet cracks and whizzes.
  
 ## Changed
@@ -19,10 +21,13 @@
  - Closed suspicious mod rejection loophole
  - Made tempered glass shatter quicker
  - Increased default physics iterations to 32
+ - Increased maximum physics iteration count to 256
+ - Increased minimum physics iteration count to 8
  - Improved fragmentation explosion crushing behaviour
  - Missile Launcher missile will now explode when shot with a sufficiently large round
  - Increased headshot fatality rate
  - Slightly increased bullet knockback force
+ - Made sentry turret AI more consistent
  - Doubled the lethality of the landmine
  - Changed water surface explosion SFX
 
@@ -33,7 +38,9 @@
  - Cardiopulmonary bypass machine collision serialisation working incorrectly
  - Attachments detaching when weapon is activated using activator electrode
  - Incorrect servo description
+ - Immobility field - sentry turret interaction weirdness
  - Heartrate monitor showing 70 bpm when it shouldn't
+ - Broken plate debris not showing up when flipped
 
 # [1.26.6] - March 4 2023
 
