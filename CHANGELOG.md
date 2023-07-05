@@ -15,6 +15,7 @@
  - Blunt impact can now emit blood particles
  - Blunt impact have a chance to cut the skin open
  - Sound effects for bullet cracks and whizzes.
+ - Grid and angle snap size settings with optional keybinds
  
 ## Changed
  - Casing ejection particles no longer scale with the weapon
@@ -23,6 +24,7 @@
  - Increased default physics iterations to 32
  - Increased maximum physics iteration count to 256
  - Increased minimum physics iteration count to 8
+ - Made it easier to select objects inside other objects by prioritising the smallest object under the cursor
  - Improved fragmentation explosion crushing behaviour
  - Missile Launcher missile will now explode when shot with a sufficiently large round
  - Increased headshot fatality rate
@@ -33,6 +35,7 @@
 
 ## Fixed
  - Mods occasionally failing to upload 
+ - Rewrote significant parts of the control scheme system, fixing a few inconsistencies, bugs, and "what the hell" moments 
  - Humans could live having all their blood replaced with a tasty beverage
  - Zombies healing wounds
  - Cardiopulmonary bypass machine collision serialisation working incorrectly
