@@ -16,6 +16,7 @@
  - Blunt impact have a chance to cut the skin open
  - Sound effects for bullet cracks and whizzes.
  - Grid and angle snap size settings with optional keybinds
+ - Bus window can shatter
  
 ## Changed
  - Casing ejection particles no longer scale with the weapon
@@ -26,6 +27,7 @@
  - Increased minimum physics iteration count to 8
  - Made it easier to select objects inside other objects by prioritising the smallest object under the cursor
  - Improved fragmentation explosion crushing behaviour
+ - Organisms can now fully restore their blood levels on their own
  - Missile Launcher missile will now explode when shot with a sufficiently large round
  - Increased headshot fatality rate
  - Slightly increased bullet knockback force
@@ -44,6 +46,7 @@
  - Immobility field - sentry turret interaction weirdness
  - Heartrate monitor showing 70 bpm when it shouldn't
  - Broken plate debris not showing up when flipped
+ - EscapeRichText loophole
 
 # [1.26.6] - March 4 2023
 
