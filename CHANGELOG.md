@@ -19,6 +19,7 @@
  - Bus window can shatter
  
 ## Changed
+ - Bullet holes age more visibly and eventually cause larger bruises
  - Casing ejection particles no longer scale with the weapon
  - Closed suspicious mod rejection loophole
  - Made tempered glass shatter quicker
@@ -34,6 +35,9 @@
  - Made sentry turret AI more consistent
  - Doubled the lethality of the landmine
  - Changed water surface explosion SFX
+ - Lowered wood bullet impact volume
+ - Increased ricochet sfx spread
+ - Bleeding particles are less chaotic
 
 ## Fixed
  - Mods occasionally failing to upload 
