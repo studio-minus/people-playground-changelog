@@ -5,6 +5,8 @@
 ## Added
  - New map: Reactor A5
  - Decoupler
+ - Adhesive Coupler
+ - Pointer
  - Office Chair
  - Office Desk
  - Office Computer
