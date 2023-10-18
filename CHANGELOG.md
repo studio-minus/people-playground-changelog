@@ -7,6 +7,7 @@
  - Decoupler
  - Adhesive Coupler
  - Pointer
+ - Counter
  - Office Chair
  - Office Desk
  - Office Computer
@@ -19,6 +20,7 @@
  - Sound effects for bullet cracks and whizzes.
  - Grid and angle snap size settings with optional keybinds
  - Bus window can shatter
+ - Some ambient sounds in the main menu
  
 ## Changed
  - Bullet holes age more visibly and eventually cause larger bruises
@@ -52,6 +54,7 @@
  - Immobility field - sentry turret interaction weirdness
  - Heartrate monitor showing 70 bpm when it shouldn't
  - Broken plate debris not showing up when flipped
+ - Some more safety
  - EscapeRichText loophole
 
 # [1.26.6] - March 4 2023
