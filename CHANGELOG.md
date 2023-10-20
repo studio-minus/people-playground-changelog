@@ -21,6 +21,7 @@
  - Grid and angle snap size settings with optional keybinds
  - Bus window can shatter
  - Some ambient sounds in the main menu
+ - "Artery sections", where cuts and shots will emit a larger, more focused bloodstream
  
 ## Changed
  - Bullet holes age more visibly and eventually cause larger bruises
@@ -43,7 +44,7 @@
  - Changed water surface explosion SFX
  - Lowered wood bullet impact volume
  - Increased ricochet sfx spread
- - Bleeding particles are less chaotic
+ - Reduced blood impact mist
 
 ## Fixed
  - Mods occasionally failing to upload 
