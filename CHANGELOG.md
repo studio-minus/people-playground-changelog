@@ -27,6 +27,8 @@
  - Casing ejection particles no longer scale with the weapon
  - Closed suspicious mod rejection loophole
  - Made tempered glass shatter quicker
+ - Changed map selection buttons
+ - The hand grenade now correctly loses its pin and lever when armed
  - Increased default physics iterations to 32
  - Increased maximum physics iteration count to 256
  - Increased minimum physics iteration count to 8
