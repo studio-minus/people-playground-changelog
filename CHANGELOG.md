@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.27.1] - October 21 2023
+
+## Fixed
+ - Flamethrower and fire extinguisher recoil being wrong when flipped
+ - Explosive radius flashing when spawning explosive
+
 # [1.27] - October 21 2023
 
 ## Added
