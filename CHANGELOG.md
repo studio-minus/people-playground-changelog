@@ -45,6 +45,8 @@
  - Lowered wood bullet impact volume
  - Increased ricochet sfx spread
  - Reduced blood impact mist
+ - The flamethrower and fire extinguisher now has slight recoil
+ - Updated several item descriptions to color code different types of signals
 
 ## Fixed
  - Mods occasionally failing to upload 
