@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.27] - ??
+# [1.27] - October 21 2023
 
 ## Added
  - New map: Reactor A5
@@ -14,7 +14,7 @@
  - Office Monitor
  - Naval Mine
  - Chain
- - "Mute" context menu option to the Lagbox, Metronome, Missile Launcher, and Timed Gate
+ - "Mute" context menu option to the Lagbox, Metronome, Missile Launcher, Timed Gate, and pistons
  - Blunt impact can now emit blood particles
  - Blunt impact have a chance to cut the skin open
  - Sound effects for bullet cracks and whizzes.
@@ -47,6 +47,7 @@
  - Reduced blood impact mist
  - The flamethrower and fire extinguisher now has slight recoil
  - Updated several item descriptions to color code different types of signals
+ - Made detail view explosive killzone a vector image
 
 ## Fixed
  - Mods occasionally failing to upload 
