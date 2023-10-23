@@ -1,5 +1,10 @@
 # Changelog
 
+# [1.27.2] - October 23 2023
+
+## Fixed
+ - Minor bug fixes :)
+
 # [1.27.1] - October 21 2023
 
 ## Fixed
