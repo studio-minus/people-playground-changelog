@@ -1,5 +1,20 @@
 # Changelog
 
+# [1.27.3] - October 25 2023
+
+## Changed
+ - Lowered pain response when shot
+ - Lowered adrenaline persistence
+ - Increased chance of loss of consciousness when shot
+ - Minor improvements to bleeding particles
+
+## Fixed
+ - Bleeding particle direction being fucked
+ - Selection hover thing when laying wires
+
+## Removed
+ - Foot collider extension
+
 # [1.27.2] - October 23 2023
 
 ## Fixed
