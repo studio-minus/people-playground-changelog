@@ -1,5 +1,19 @@
 # Changelog
 
+# [1.27.4] - ???
+
+## Added
+ - Excalibur
+ - Blood splats on dismemberment
+ - Some new dismemberment sounds
+
+## Changed
+ - Increased visible damage on dismember
+
+## Fixed
+ - Objects that were previously incorrectly unaffected by time scale or volume settings are now fixed
+ - Energy sword boiling effect underwater
+
 # [1.27.3] - October 25 2023
 
 ## Changed
