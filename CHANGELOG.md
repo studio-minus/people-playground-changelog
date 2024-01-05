@@ -5,10 +5,12 @@
 ## Added
  - Excalibur
  - Blood splats on dismemberment
- - Some new dismemberment sounds
+ - Some new dismemberment sounds (new tears and blood dripping)
+ - New procedural shatter masks
 
 ## Changed
  - Increased visible damage on dismember
+ - Adhesive coupler no longer sticks to phase-linked objects
 
 ## Fixed
  - Objects that were previously incorrectly unaffected by time scale or volume settings are now fixed
