@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.27.4] - ???
+# [1.27.4] - January 6 2024
 
 ## Added
  - Excalibur
