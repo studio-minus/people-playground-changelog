@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.27.5] - ???
+
+## Added
+ - Better gib physics SFX
+
+## Changed
+ - Improved dripping SFX
+
+## Fixed
+ - Minor collision issues
+ - Ȁ̴̲̇̓�⍰⍰΢��⍰�
+
 # [1.27.4] - January 6 2024
 
 ## Added
