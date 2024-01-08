@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.27.5] - ???
+# [1.27.5] - January 8 2024
 
 ## Added
  - Better gib physics SFX
