@@ -10,7 +10,7 @@
 
 ## Fixed
  - Minor collision issues
- - Ȁ̴̲̇̓�⍰⍰΢��⍰�
+ - Excalibur issues
 
 # [1.27.4] - January 6 2024
 
