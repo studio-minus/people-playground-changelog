@@ -1,5 +1,24 @@
 # Changelog
 
+# [1.28] - ??
+
+This changelog is incomplete!
+
+## Added
+ - New map
+ - Helicopter SFX for enlarged propellers
+ - Reactor A5 auto-regulator context option
+
+## Changed
+ - Increased volume of blood dripping sounds
+ - Increased machine blaster fire rate
+
+## Fixed
+ - A typo in the naval mine description
+ - Notification animation
+
+## Removed
+
 # [1.27.5] - January 8 2024
 
 ## Added
