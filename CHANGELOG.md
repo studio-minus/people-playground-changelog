@@ -30,7 +30,7 @@ This changelog is incomplete!
  - Some mouse hoverables responding while the pause menu is open
  - Unreasonable screen shake when using the machine blaster
  - "Ignite" context menu button not igniting at the right location
- - Entities feeling shock from dismembered limbs
+ - Entities getting adrenaline when stabbing dismembered limbs
  - The toes of Humans causing utter devastation when stubbed
  - Resistor functionality when flipped (it would think it wasn't flipped so the amount of electricity getting through would change)
  - Resizing spawnables like the Rotor not informing their relatives to update their mass
