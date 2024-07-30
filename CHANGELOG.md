@@ -5,15 +5,23 @@
 This changelog is incomplete!
 
 ## Added
+ - Map Editor
  - New map
  - Helicopter SFX for enlarged propellers
  - Reactor A5 auto-regulator context option
  - Power meter (like the power gauge but with a digital readout)
+ - Selection mode in settings
+ - Several new liquids and chemistry mixes
+ - "Prevent Electrocution" context menu button
+ - Motorized wheel energy mode where the wheel can be powered by / produce electricity
 
 ## Changed
  - Increased volume of blood dripping sounds
  - Increased machine blaster fire rate
  - Shock detector responds to explosions
+ - Liquid outlet can pull liquid out of bodies of fluid
+ - Blue channel activation disengages / engages brakes
+ - Black hole appearance
 
 ## Fixed
  - A typo in the naval mine description
@@ -22,6 +30,14 @@ This changelog is incomplete!
  - Some mouse hoverables responding while the pause menu is open
  - Unreasonable screen shake when using the machine blaster
  - "Ignite" context menu button not igniting at the right location
+ - Entities getting adrenaline when stabbing dismembered limbs
+ - The toes of Humans causing utter devastation when stubbed
+ - Resistor functionality when flipped (it would think it wasn't flipped so the amount of electricity getting through would change)
+ - Resizing spawnables like the Rotor not informing their relatives to update their mass
+ - The EMP message fixing vehicles for some reason (the Excalibur is no longer a car mechanic)
+ - Limbs shattering instantly when touched by a heavy object while frozen
+ - Some issue relating to custom firearm attachment serialization
+ - Pins not showing up properly when pasting
 
 ## Removed
 
