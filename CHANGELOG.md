@@ -8,14 +8,20 @@ This changelog is incomplete!
  - New map
  - Helicopter SFX for enlarged propellers
  - Reactor A5 auto-regulator context option
+ - Power meter (like the power gauge but with a digital readout)
 
 ## Changed
  - Increased volume of blood dripping sounds
  - Increased machine blaster fire rate
+ - Shock detector responds to explosions
 
 ## Fixed
  - A typo in the naval mine description
  - Notification animation
+ - Sentry turret explosion duplication
+ - Some mouse hoverables responding while the pause menu is open
+ - Unreasonable screen shake when using the machine blaster
+ - "Ignite" context menu button not igniting at the right location
 
 ## Removed
 
