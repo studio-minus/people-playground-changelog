@@ -10,6 +10,7 @@ This changelog is incomplete!
  - Helicopter SFX for enlarged propellers
  - Reactor A5 auto-regulator context option
  - Power meter (like the power gauge but with a digital readout)
+ - Beam Repeater weapon
  - Selection mode in settings
  - Several new liquids and chemistry mixes
  - "Prevent Electrocution" context menu button
