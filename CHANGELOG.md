@@ -15,6 +15,7 @@ This changelog is incomplete!
  - Several new liquids and chemistry mixes
  - "Prevent Electrocution" context menu button
  - Motorized wheel energy mode where the wheel can be powered by / produce electricity
+ - Matter Energy Extractor
 
 ## Changed
  - Increased volume of blood dripping sounds
@@ -39,6 +40,7 @@ This changelog is incomplete!
  - Limbs shattering instantly when touched by a heavy object while frozen
  - Some issue relating to custom firearm attachment serialization
  - Pins not showing up properly when pasting
+ - Map selection view having a weird offset on the bottom half of the icons
 
 ## Removed
 
