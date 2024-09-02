@@ -24,6 +24,7 @@ This changelog is incomplete!
  - Liquid outlet can pull liquid out of bodies of fluid
  - Blue channel activation disengages / engages brakes
  - Black hole appearance
+ - Boat motor's force is dependant on size, not unlike the fans.
 
 ## Fixed
  - A typo in the naval mine description
