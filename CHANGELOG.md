@@ -25,6 +25,7 @@ This changelog is incomplete!
  - Blue channel activation disengages / engages brakes
  - Black hole appearance
  - Boat motor's force is dependant on size, not unlike the fans.
+ - RegisterCategory returns the newly made category
 
 ## Fixed
  - A typo in the naval mine description
