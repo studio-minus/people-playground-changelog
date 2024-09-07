@@ -43,6 +43,7 @@ This changelog is incomplete!
  - Some issue relating to custom firearm attachment serialization
  - Pins not showing up properly when pasting
  - Map selection view having a weird offset on the bottom half of the icons
+ - An issue with reversed boat motors and charge
 
 ## Removed
 
