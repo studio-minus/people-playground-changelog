@@ -16,6 +16,9 @@ This changelog is incomplete!
  - "Prevent Electrocution" context menu button
  - Motorized wheel energy mode where the wheel can be powered by / produce electricity
  - Matter Energy Extractor
+ - Propagation Link
+ - Randomizer
+ - Max activation propagation limit setting
 
 ## Changed
  - Increased volume of blood dripping sounds
@@ -26,6 +29,7 @@ This changelog is incomplete!
  - Black hole appearance
  - Boat motor's force is dependant on size, not unlike the fans.
  - RegisterCategory returns the newly made category
+ - Limbs will now vaporise if burn progress is over 70% and temperature exceeds 2500, or if temperature exceeds 7500 (ignores burn progress)
 
 ## Fixed
  - A typo in the naval mine description
