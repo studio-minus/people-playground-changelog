@@ -18,7 +18,6 @@ This changelog is incomplete!
  - Matter Energy Extractor
  - Propagation Link
  - Randomizer
- - Max activation propagation limit setting
 
 ## Changed
  - Increased volume of blood dripping sounds
