@@ -15,6 +15,9 @@ This changelog is incomplete!
  - Several new liquids and chemistry mixes
  - "Prevent Electrocution" context menu button
  - Motorized wheel energy mode where the wheel can be powered by / produce electricity
+ - Matter Energy Extractor
+ - Propagation Link
+ - Randomizer
 
 ## Changed
  - Increased volume of blood dripping sounds
@@ -23,6 +26,9 @@ This changelog is incomplete!
  - Liquid outlet can pull liquid out of bodies of fluid
  - Blue channel activation disengages / engages brakes
  - Black hole appearance
+ - Boat motor's force is dependant on size, not unlike the fans.
+ - RegisterCategory returns the newly made category
+ - Limbs will now vaporise if burn progress is over 70% and temperature exceeds 2500, or if temperature exceeds 7500 (ignores burn progress)
 
 ## Fixed
  - A typo in the naval mine description
@@ -39,6 +45,8 @@ This changelog is incomplete!
  - Limbs shattering instantly when touched by a heavy object while frozen
  - Some issue relating to custom firearm attachment serialization
  - Pins not showing up properly when pasting
+ - Map selection view having a weird offset on the bottom half of the icons
+ - An issue with reversed boat motors and charge
 
 ## Removed
 
