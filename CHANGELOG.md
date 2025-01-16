@@ -21,6 +21,7 @@ This changelog is incomplete!
  - Activation propagation limit setting
  - New human inspector ui
  - Destructible liquid conduit
+ - Vaporisation
 
 ## Changed
  - Increased volume of blood dripping sounds
@@ -31,7 +32,8 @@ This changelog is incomplete!
  - Black hole appearance
  - Boat motor's force is dependant on size, not unlike the fans.
  - RegisterCategory returns the newly made category
- - Limbs will now vaporise if burn progress is over 70% and temperature exceeds 2500, or if temperature exceeds 7500 (ignores burn progress)
+ - Adhesive coupler can be destroyed
+ - Nuclear weapons emit more heat
  - Rotated held items in paused time will keep their new rotation
 
 ## Fixed
