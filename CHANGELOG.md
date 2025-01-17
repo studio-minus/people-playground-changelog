@@ -18,7 +18,11 @@ This changelog is incomplete!
  - Matter Energy Extractor
  - Propagation Link
  - Randomizer
+ - Activation propagation limit setting
+ - New human inspector ui
+ - Destructible liquid conduit
  - Vaporisation
+ - Fire extinguisher explodes when shot
 
 ## Changed
  - Increased volume of blood dripping sounds
@@ -31,6 +35,7 @@ This changelog is incomplete!
  - RegisterCategory returns the newly made category
  - Adhesive coupler can be destroyed
  - Nuclear weapons emit more heat
+ - Rotated held items in paused time will keep their new rotation
 
 ## Fixed
  - A typo in the naval mine description
