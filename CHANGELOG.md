@@ -22,6 +22,7 @@ This changelog is incomplete!
  - New human inspector ui
  - Destructible liquid conduit
  - Vaporisation
+ - Fire extinguisher explodes when shot
 
 ## Changed
  - Increased volume of blood dripping sounds
