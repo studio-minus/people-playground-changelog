@@ -4,6 +4,8 @@
 
 This changelog is incomplete!
 
+**Updated to Unity 2020.3.49f1 for security reasons**
+
 ## Added
  - Map Editor
  - New map
@@ -21,7 +23,7 @@ This changelog is incomplete!
  - Activation propagation limit setting
  - New human inspector ui
  - Destructible liquid conduit
- - Vaporisation
+ - Vaporisation (optional)
  - Fire extinguisher explodes when shot
 
 ## Changed
@@ -29,6 +31,7 @@ This changelog is incomplete!
  - Increased machine blaster fire rate
  - Shock detector responds to explosions
  - Liquid outlet can pull liquid out of bodies of fluid
+ - Continuous blood spurts look a bit more visceral
  - Blue channel activation disengages / engages brakes
  - Black hole appearance
  - Boat motor's force is dependant on size, not unlike the fans.
@@ -36,6 +39,7 @@ This changelog is incomplete!
  - Adhesive coupler can be destroyed
  - Nuclear weapons emit more heat
  - Rotated held items in paused time will keep their new rotation
+ - Inverted gravitational lensing effect
 
 ## Fixed
  - A typo in the naval mine description
@@ -50,6 +54,7 @@ This changelog is incomplete!
  - Resizing spawnables like the Rotor not informing their relatives to update their mass
  - The EMP message fixing vehicles for some reason (the Excalibur is no longer a car mechanic)
  - Limbs shattering instantly when touched by a heavy object while frozen
+ - Weird issues with procedural gibs
  - Some issue relating to custom firearm attachment serialization
  - Pins not showing up properly when pasting
  - Map selection view having a weird offset on the bottom half of the icons
