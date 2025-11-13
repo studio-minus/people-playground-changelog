@@ -25,6 +25,7 @@ This changelog is incomplete!
  - Destructible liquid conduit
  - Vaporisation (optional)
  - Fire extinguisher explodes when shot
+ - Flamethrower explodes when shot
 
 ## Changed
  - Increased volume of blood dripping sounds
@@ -40,6 +41,7 @@ This changelog is incomplete!
  - Nuclear weapons emit more heat
  - Rotated held items in paused time will keep their new rotation
  - Inverted gravitational lensing effect
+ - Procedural fragments on by default
 
 ## Fixed
  - A typo in the naval mine description
