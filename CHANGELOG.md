@@ -14,7 +14,6 @@ This changelog is incomplete!
  - Power meter (like the power gauge but with a digital readout)
  - Beam Repeater weapon
  - Selection mode in settings
- - Several new liquids and chemistry mixes
  - "Prevent Electrocution" context menu button
  - Motorized wheel energy mode where the wheel can be powered by / produce electricity
  - Matter Energy Extractor
@@ -31,7 +30,6 @@ This changelog is incomplete!
  - Increased volume of blood dripping sounds
  - Increased machine blaster fire rate
  - Shock detector responds to explosions
- - Liquid outlet can pull liquid out of bodies of fluid
  - Continuous blood spurts look a bit more visceral
  - Blue channel activation disengages / engages brakes
  - Black hole appearance
