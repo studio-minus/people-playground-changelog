@@ -31,6 +31,8 @@ This changelog is incomplete!
  - Increased machine blaster fire rate
  - Shock detector responds to explosions
  - Continuous blood spurts look a bit more visceral
+ - Heart function is no longer fully dependent on the brain
+ - Blood pressure drops much faster when disconnected from the heart
  - Blue channel activation disengages / engages brakes
  - Black hole appearance
  - Boat motor's force is dependant on size, not unlike the fans.
@@ -40,6 +42,7 @@ This changelog is incomplete!
  - Rotated held items in paused time will keep their new rotation
  - Inverted gravitational lensing effect
  - Procedural fragments on by default
+ - Small visual change to blaster impact smoke
 
 ## Fixed
  - A typo in the naval mine description
