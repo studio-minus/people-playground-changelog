@@ -4,8 +4,6 @@
 
 This changelog is incomplete!
 
-**Updated to Unity 2020.3.49f1 for security reasons**
-
 ## Added
  - Map Editor
  - New map
@@ -45,6 +43,7 @@ This changelog is incomplete!
  - Small visual change to blaster impact smoke
 
 ## Fixed
+ - Improvements to mod loading security
  - A typo in the naval mine description
  - Notification animation
  - Sentry turret explosion duplication
