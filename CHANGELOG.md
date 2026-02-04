@@ -64,6 +64,16 @@ This changelog is incomplete!
 
 ## Removed
 
+# [1.27.5] - February 4 2026
+
+Note: what the fuck
+
+## Added
+ - `BeforeSpawn`. This function is called right after the object is instantiated.
+
+## Changed
+ - Renamed `PerformMod` to `PerformAfterSpawn`.
+
 # [1.27.5] - January 8 2024
 
 ## Added
