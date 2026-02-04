@@ -64,7 +64,7 @@ This changelog is incomplete!
 
 ## Removed
 
-# [1.27.5] - February 4 2026
+# [1.27.6] - February 4 2026
 
 Note: what the fuck
 
