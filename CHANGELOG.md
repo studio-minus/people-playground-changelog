@@ -66,13 +66,17 @@ This changelog is incomplete!
 
 # [1.27.6] - February 4 2026
 
-Note: what the fuck
+Note: ~~what the fuck~~ this is mostly for modders really
 
 ## Added
+ - Various new security measures for mods
+ - Upgraded mod C# version to C# 9
+ - Included AssetBundles, PostProcessing, and Ceras in the mod assembly list
  - `BeforeSpawn`. This function is called right after the object is instantiated.
 
 ## Changed
  - Renamed `PerformMod` to `PerformAfterSpawn`.
+ - `AfterSpawn` can be null if `BeforeSpawn` is not, and vice versa
 
 # [1.27.5] - January 8 2024
 
