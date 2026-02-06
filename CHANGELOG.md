@@ -64,6 +64,15 @@ This changelog is incomplete!
 
 ## Removed
 
+# [1.27.7] - February 6 2026
+
+## Added
+ - Added Stack<>, Queue<>, and others to mod import list
+
+## Changed
+ - Trust cache now takes mod content hash into account
+ - Mods no longer auto-update. They need to be manually approved if their contents have changed.
+
 # [1.27.6] - February 4 2026
 
 Note: ~~what the fuck~~ this is mostly for modders really
