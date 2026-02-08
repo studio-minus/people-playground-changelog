@@ -64,6 +64,16 @@ This changelog is incomplete!
 
 ## Removed
 
+# [1.27.8] - February 8 2026
+
+## Added
+ - ModAPI.OnBeforeItemSpawned
+ - `IgnoreCollisionStackController` events
+
+## Changed
+ - Mod content hash is less aggressive
+ - More comprehensive mod scanning
+
 # [1.27.7] - February 6 2026
 
 ## Added
