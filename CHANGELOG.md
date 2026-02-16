@@ -64,6 +64,15 @@ This changelog is incomplete!
 
 ## Removed
 
+# [1.27.9] - February 16 2026
+
+## Changed
+ - Fixed more security issues
+ - Fixed mod import oversight thing
+
+## Removed
+ - UPDATE MOD x50000
+
 # [1.27.8] - February 8 2026
 
 ## Added
