@@ -66,6 +66,9 @@ This changelog is incomplete!
 
 # [1.27.9] - February 16 2026
 
+## Added
+ - Upgraded mod C# version to C# 14
+
 ## Changed
  - Fixed more security issues
  - Fixed mod import oversight thing
