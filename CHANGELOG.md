@@ -64,12 +64,18 @@ This changelog is incomplete!
 
 ## Removed
 
+# [1.27.11] - February 21 2026
+
+## Fixed
+ - Fixed more security issues
+
+
 # [1.27.10] - February 18 2026
 
 ## Added
  - `ModMeta.AssemblyName`: The name given to the compiled assembly. Something random is assigned if null or empty.
 
-## Changed
+## Fixed
  - Fixed mod hash content check
  - Fixed issue where "Accept Risk" still wouldn't work
 
@@ -78,7 +84,7 @@ This changelog is incomplete!
 ## Added
  - Upgraded mod C# version to C# 14
 
-## Changed
+## Fixed
  - Fixed more security issues
  - Fixed mod import oversight thing
 
