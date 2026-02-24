@@ -64,6 +64,19 @@ This changelog is incomplete!
 
 ## Removed
 
+# [1.27.13] - ??
+
+## Added 
+ - Prototype mod file system by mishanya
+
+# [1.27.12] - February 24 2026
+
+## Added
+ - `Modification.InstantiateOverride`. If provided, it's invoked instead of instantiating the original asset.
+
+## Fixed
+ - Mooooooooooore security issues
+
 # [1.27.11] - February 21 2026
 
 ## Fixed
