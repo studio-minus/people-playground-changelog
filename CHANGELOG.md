@@ -64,10 +64,10 @@ This changelog is incomplete!
 
 ## Removed
 
-# [1.27.13] - ??
+# [1.27.13] - August 4 2026
 
-## Added 
- - Prototype mod file system by mishanya
+## Fixed
+ - Security thing
 
 # [1.27.12] - February 24 2026
 
