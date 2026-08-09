@@ -64,6 +64,14 @@ This changelog is incomplete!
 
 ## Removed
 
+# [1.27.15] - August 9 2026
+
+Security update
+
+# [1.27.14] - August 8 2026
+
+Security update
+
 # [1.27.13] - August 4 2026
 
 ## Fixed
