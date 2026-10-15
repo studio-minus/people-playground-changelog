@@ -17,7 +17,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Improved Workshop reliability
    - Removed auto-exposure in main menu
    - Bug where an annoying permanent dialog box would show up when failing to upload a contraption
-   - Mods that require mods will try their hardest to load anyway
+   - Contraptions that require mods will try their hardest to load anyway
    - Steam initialisation bug
 
 ## Removed
