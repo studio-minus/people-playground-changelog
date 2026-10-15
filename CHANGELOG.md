@@ -1,68 +1,28 @@
 # Changelog
 
-# [1.28] - ??
+# [1.28] - ??? 2026
 
-This changelog is incomplete!
+This replaces 1.28 alpha (pre September). As many changes as possible from that version will be merged over time.
 
 ## Added
- - Map Editor
- - New map
- - Helicopter SFX for enlarged propellers
- - Reactor A5 auto-regulator context option
- - Power meter (like the power gauge but with a digital readout)
- - Beam Repeater weapon
- - Selection mode in settings
- - "Prevent Electrocution" context menu button
- - Motorized wheel energy mode where the wheel can be powered by / produce electricity
- - Matter Energy Extractor
- - Propagation Link
- - Randomizer
- - Activation propagation limit setting
- - New human inspector ui
- - Destructible liquid conduit
- - Vaporisation (optional)
- - Fire extinguisher explodes when shot
- - Flamethrower explodes when shot
+   - Native Linux support
 
 ## Changed
- - Increased volume of blood dripping sounds
- - Increased machine blaster fire rate
- - Shock detector responds to explosions
- - Continuous blood spurts look a bit more visceral
- - Heart function is no longer fully dependent on the brain
- - Blood pressure drops much faster when disconnected from the heart
- - Blue channel activation disengages / engages brakes
- - Black hole appearance
- - Boat motor's force is dependant on size, not unlike the fans.
- - RegisterCategory returns the newly made category
- - Adhesive coupler can be destroyed
- - Nuclear weapons emit more heat
- - Rotated held items in paused time will keep their new rotation
- - Inverted gravitational lensing effect
- - Procedural fragments on by default
- - Small visual change to blaster impact smoke
+   - Restructured mod loader
+   - Appearance of fire
+   - Increased volume of kapoentje
 
 ## Fixed
- - Improvements to mod loading security
- - A typo in the naval mine description
- - Notification animation
- - Sentry turret explosion duplication
- - Some mouse hoverables responding while the pause menu is open
- - Unreasonable screen shake when using the machine blaster
- - "Ignite" context menu button not igniting at the right location
- - Entities getting adrenaline when stabbing dismembered limbs
- - The toes of Humans causing utter devastation when stubbed
- - Resistor functionality when flipped (it would think it wasn't flipped so the amount of electricity getting through would change)
- - Resizing spawnables like the Rotor not informing their relatives to update their mass
- - The EMP message fixing vehicles for some reason (the Excalibur is no longer a car mechanic)
- - Limbs shattering instantly when touched by a heavy object while frozen
- - Weird issues with procedural gibs
- - Some issue relating to custom firearm attachment serialization
- - Pins not showing up properly when pasting
- - Map selection view having a weird offset on the bottom half of the icons
- - An issue with reversed boat motors and charge
+   - Improved reliability of contraption saving and loading
+   - Improved Workshop reliability
+   - Removed auto-exposure in main menu
+   - Bug where an annoying permanent dialog box would show up when failing to upload a contraption
+   - Mods that require mods will try their hardest to load anyway
+   - Steam initialisation bug
 
 ## Removed
+   - C# modding
+   - Support for legacy layout contraptions
 
 # [1.27.15] - August 9 2026
 
