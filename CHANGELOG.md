@@ -6,14 +6,16 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
 
 ## Added
    - Native Linux support
+   - R to flip selection
 
 ## Changed
    - Restructured mod loader
    - Appearance of fire
    - Increased volume of kapoentje
+   - Default keybind for deletion is now X instead of Backspace
 
 ## Fixed
-   - Improved reliability of contraption saving and loading
+   - Improved reliability and security of contraption saving and loading
    - Improved Workshop reliability
    - Removed auto-exposure in main menu
    - Bug where an annoying permanent dialog box would show up when failing to upload a contraption
