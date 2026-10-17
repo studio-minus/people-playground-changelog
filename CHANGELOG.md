@@ -17,6 +17,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Changed order of maps in menu
    - Fallen leaves particles move slightly more realistically
    - Increased machine blaster fire rate
+   - Flipped objects no longer show reversed text
 
 ## Fixed
    - Improved reliability and security of contraption saving and loading
