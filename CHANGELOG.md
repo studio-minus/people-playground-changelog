@@ -13,6 +13,10 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Appearance of fire
    - Increased volume of kapoentje
    - Default keybind for deletion is now X instead of Backspace
+   - Wounds are coloured based on the internal liquid of the limb
+   - Changed order of maps in menu
+   - Fallen leaves particles move slightly more realistically
+   - Increased machine blaster fire rate
 
 ## Fixed
    - Improved reliability and security of contraption saving and loading
@@ -21,6 +25,11 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Bug where an annoying permanent dialog box would show up when failing to upload a contraption
    - Contraptions that require mods will try their hardest to load anyway
    - Steam initialisation bug
+   - Map selection bug
+   - Counter bug where it would clamp the input value incorrectly
+   - Trees and bushes no longer collide with themselves
+   - Unreasonable screen shake when using the machine blaster
+   - Destroyed blasters stop glowing
 
 ## Removed
    - C# modding
