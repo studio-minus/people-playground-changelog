@@ -31,6 +31,12 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Trees and bushes no longer collide with themselves
    - Unreasonable screen shake when using the machine blaster
    - Destroyed blasters stop glowing
+   - Sentry turret explosion duplication
+   - Thruster flame heating bug
+   - "Previous texture" button not working sometimes
+   - Spelling errors in various item descriptions
+   - Flipped resistor not working properly
+   - Entities getting adrenaline when stabbing dismembered limbs
 
 ## Removed
    - C# modding
