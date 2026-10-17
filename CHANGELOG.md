@@ -7,6 +7,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
 ## Added
    - Native Linux support
    - R to flip selection
+   - Beam repeater
 
 ## Changed
    - Restructured mod loader
