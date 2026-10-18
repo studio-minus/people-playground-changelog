@@ -8,6 +8,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Native Linux support
    - R to flip selection
    - Beam repeater
+   - Smoke trail to launched grenades
 
 ## Changed
    - Restructured mod loader
@@ -23,23 +24,24 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Improved appearance of continuous bleeding particles
 
 ## Fixed
+   - Contraptions that require mods will try their hardest to load anyway
    - Improved reliability and security of contraption saving and loading
    - Improved Workshop reliability
    - Removed auto-exposure in main menu
-   - Bug where an annoying permanent dialog box would show up when failing to upload a contraption
-   - Contraptions that require mods will try their hardest to load anyway
-   - Steam initialisation bug
-   - Map selection bug
-   - Counter bug where it would clamp the input value incorrectly
-   - Trees and bushes no longer collide with themselves
-   - Unreasonable screen shake when using the machine blaster
-   - Destroyed blasters stop glowing
-   - Sentry turret explosion duplication
-   - Thruster flame heating bug
-   - "Previous texture" button not working sometimes
-   - Spelling errors in various item descriptions
-   - Flipped resistor not working properly
-   - Entities getting adrenaline when stabbing dismembered limbs
+   - Fix bug where an annoying permanent dialog box would show up when failing to upload a contraption
+   - Fix Steam initialisation bug
+   - Fix Map selection bug
+   - Fix Counter bug where it would clamp the input value incorrectly
+   - Fix trees and bushes collide with themselves
+   - Fix unreasonable screen shake when using the machine blaster
+   - Fix destroyed blasters still glowing
+   - Fix Sentry Turret explosion duplication
+   - Fix Thruster flame heating bug
+   - Fix "previous texture" button not working sometimes
+   - Fix spelling errors in various item descriptions
+   - Fix flipped Resistor not working properly
+   - Fix entities getting adrenaline when stabbing dismembered limbs
+   - Fix blasters can accidentally discharge when broken
 
 ## Removed
    - C# modding
