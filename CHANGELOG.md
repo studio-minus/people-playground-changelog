@@ -12,6 +12,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Selection mode in settings
    - Helicopter SFX for enlarged propellers
    - Flamethrower explodes when shot
+   - Fire extinguisher explodes when shot
 
 ## Changed
    - Cathode lights are now adjustable and now longer have a set of coloured variants
