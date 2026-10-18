@@ -22,6 +22,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Flipped objects no longer show reversed text
    - Heart function is no longer fully dependent on the brain
    - Improved appearance of continuous bleeding particles
+   - Slight improvements to torn stringy tissue appearance
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
