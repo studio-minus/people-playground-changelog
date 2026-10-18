@@ -19,6 +19,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fallen leaves particles move slightly more realistically
    - Increased machine blaster fire rate
    - Flipped objects no longer show reversed text
+   - Heart function is no longer fully dependent on the brain
+   - Improved appearance of continuous bleeding particles
 
 ## Fixed
    - Improved reliability and security of contraption saving and loading
