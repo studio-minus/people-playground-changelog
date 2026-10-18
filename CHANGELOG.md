@@ -10,6 +10,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Beam repeater
    - Smoke trail to launched grenades
    - Selection mode in settings
+   - Helicopter SFX for enlarged propellers
 
 ## Changed
    - Cathode lights are now adjustable and now longer have a set of coloured variants
@@ -48,6 +49,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix `TryGetFreeCollisionBufferIndex` bug
    - Fix "ignite" context menu button not igniting at the right location
    - Fix "copy" context menu button not setting an outline for pasting
+   - Fix propeller and fan blade rendering
 
 ## Removed
    - C# modding
