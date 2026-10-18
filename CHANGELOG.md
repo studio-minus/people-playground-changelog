@@ -9,8 +9,10 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - R to flip selection
    - Beam repeater
    - Smoke trail to launched grenades
+   - Selection mode in settings
 
 ## Changed
+   - Cathode lights are now adjustable and now longer have a set of coloured variants
    - Restructured mod loader
    - Appearance of fire
    - Increased volume of kapoentje
@@ -43,6 +45,9 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix flipped Resistor not working properly
    - Fix entities getting adrenaline when stabbing dismembered limbs
    - Fix blasters can accidentally discharge when broken
+   - Fix `TryGetFreeCollisionBufferIndex` bug
+   - Fix "ignite" context menu button not igniting at the right location
+   - Fix "copy" context menu button not setting an outline for pasting
 
 ## Removed
    - C# modding
