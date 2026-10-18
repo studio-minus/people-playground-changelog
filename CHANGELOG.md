@@ -31,6 +31,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Contraptions that require mods will try their hardest to load anyway
    - Improved reliability and security of contraption saving and loading
    - Improved Workshop reliability
+   - Added another pedal to the bike
    - Removed auto-exposure in main menu
    - Fix bug where an annoying permanent dialog box would show up when failing to upload a contraption
    - Fix Steam initialisation bug
