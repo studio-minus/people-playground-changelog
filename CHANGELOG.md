@@ -15,7 +15,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fire extinguisher explodes when shot
 
 ## Changed
-   - Cathode lights are now adjustable and now longer have a set of coloured variants
+   - Cathode lights are now adjustable and no longer have a set of coloured variants
    - Restructured mod loader
    - Appearance of fire
    - Increased volume of kapoentje
@@ -28,6 +28,10 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Heart function is no longer fully dependent on the brain
    - Improved appearance of continuous bleeding particles
    - Slight improvements to torn stringy tissue appearance
+   - TV screen now glows slightly
+   - Lowered TV video resolution
+   - Lightbulb turns on faster and dissipates heat to its shell more quickly
+   - Lightbulb temperature behaves more realistically
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
@@ -55,6 +59,9 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix propeller and fan blade rendering
    - Fix blaster rendering alignment
    - Fix weapon attachment bug
+   - Fix lightbulb not having a smooth animation
+   - Fix lightbulb not updating out of view
+   - Fix lightbulb flashing when spawned
 
 ## Removed
    - C# modding
