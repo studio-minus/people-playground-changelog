@@ -33,6 +33,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Lowered TV video resolution
    - Lightbulb turns on faster and dissipates heat to its shell more quickly
    - Lightbulb temperature behaves more realistically
+   - Improved TV destruction effects
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
@@ -63,6 +64,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix lightbulb not having a smooth animation
    - Fix lightbulb not updating out of view
    - Fix lightbulb flashing when spawned
+   - Fix TV not being repairable
 
 ## Removed
    - C# modding
