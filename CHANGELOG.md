@@ -13,6 +13,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Helicopter SFX for enlarged propellers
    - Flamethrower explodes when shot
    - Fire extinguisher explodes when shot
+   - Ability to make most destroyable objects indestructible
 
 ## Changed
    - Cathode lights are now adjustable and no longer have a set of coloured variants
