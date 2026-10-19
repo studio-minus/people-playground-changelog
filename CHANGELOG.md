@@ -53,6 +53,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix "ignite" context menu button not igniting at the right location
    - Fix "copy" context menu button not setting an outline for pasting
    - Fix propeller and fan blade rendering
+   - Fix blaster rendering alignment
+   - Fix weapon attachment bug
 
 ## Removed
    - C# modding
