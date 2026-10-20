@@ -67,6 +67,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix TV not being repairable
    - Fix auto exposure not working in pause mode
    - Fix weapon attachment EMP behaviour & general destroyable state
+   - Fix an issue with reversed boat motors and charge
 
 ## Removed
    - C# modding
