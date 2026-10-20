@@ -17,7 +17,10 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
 
 ## Changed
    - Cathode lights are now adjustable and no longer have a set of coloured variants
+   - Cathode lights can be repaired
    - Restructured mod loader
+   - Flasks will transfer liquids to nearby containers when activated
+   - Spike grenade is now destructible
    - Appearance of fire
    - Increased volume of kapoentje
    - Default keybind for deletion is now X instead of Backspace
