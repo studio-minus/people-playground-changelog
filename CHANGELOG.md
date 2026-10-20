@@ -41,6 +41,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Improved Workshop reliability
    - Added another pedal to the bike
    - Removed auto-exposure in main menu
+   - Rotated held items in paused time will keep their new rotation
+   - Rotated objects connected by a fixed cable will keep their new rotation
    - Fix bug where an annoying permanent dialog box would show up when failing to upload a contraption
    - Fix Steam initialisation bug
    - Fix Map selection bug
@@ -68,6 +70,9 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix auto exposure not working in pause mode
    - Fix weapon attachment EMP behaviour & general destroyable state
    - Fix an issue with reversed boat motors and charge
+   - Fix truck wheel jitter
+   - Fix vehicle wheels not being removed when the body is removed
+   - Fix vehicle wheel serialisation
 
 ## Removed
    - C# modding
