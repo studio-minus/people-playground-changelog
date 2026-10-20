@@ -8,6 +8,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Native Linux support
    - R to flip selection
    - Beam repeater
+   - Railgun
    - Smoke trail to launched grenades
    - Selection mode in settings
    - Helicopter SFX for enlarged propellers
