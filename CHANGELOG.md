@@ -34,12 +34,14 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Lightbulb turns on faster and dissipates heat to its shell more quickly
    - Lightbulb temperature behaves more realistically
    - Improved TV destruction effects
+   - Small visual change to blaster impact smoke
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
    - Improved reliability and security of contraption saving and loading
    - Improved Workshop reliability
    - Added another pedal to the bike
+   - Excalibur no longer sends EMP
    - Removed auto-exposure in main menu
    - Rotated held items in paused time will keep their new rotation
    - Rotated objects connected by a fixed cable will keep their new rotation
@@ -73,6 +75,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix truck wheel jitter
    - Fix vehicle wheels not being removed when the body is removed
    - Fix vehicle wheel serialisation
+   - Fix pin not being deleted after a handgrenade was armed
+   - Fix small memory leak involving cars, office supplies, and the decoupler
 
 ## Removed
    - C# modding
