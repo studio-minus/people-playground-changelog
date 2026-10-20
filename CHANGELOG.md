@@ -65,6 +65,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix lightbulb not updating out of view
    - Fix lightbulb flashing when spawned
    - Fix TV not being repairable
+   - Fix auto exposure not working in pause mode
+   - Fix weapon attachment EMP behaviour & general destroyable state
 
 ## Removed
    - C# modding
