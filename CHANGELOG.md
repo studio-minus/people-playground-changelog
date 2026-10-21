@@ -15,6 +15,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Flamethrower explodes when shot
    - Fire extinguisher explodes when shot
    - Ability to make most destroyable objects indestructible
+   - Ability to make placed tools (wires, pins, etc.) invisible by keybind or button toggle
 
 ## Changed
    - Cathode lights are now adjustable and no longer have a set of coloured variants
@@ -39,6 +40,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Lightbulb temperature behaves more realistically
    - Improved TV destruction effects
    - Small visual change to blaster impact smoke
+   - Increase detector allowed range
+   - Changed "follow" icon from eye to crosshair
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
@@ -79,6 +82,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix truck wheel jitter
    - Fix vehicle wheels not being removed when the body is removed
    - Fix vehicle wheel serialisation
+   - Fix bus serialisation issue
    - Fix pin not being deleted after a handgrenade was armed
    - Fix small memory leak involving cars, office supplies, and the decoupler
 
