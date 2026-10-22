@@ -15,7 +15,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Flamethrower explodes when shot
    - Fire extinguisher explodes when shot
    - Ability to make most destroyable objects indestructible
-   - Ability to make placed tools (wires, pins, etc.) invisible by keybind or button toggle
+   - Ability to make placed tools (wires, pins, etc.) invisible by keybind or button toggle.
 
 ## Changed
    - Cathode lights are now adjustable and no longer have a set of coloured variants
@@ -42,6 +42,9 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Small visual change to blaster impact smoke
    - Increase detector allowed range
    - Changed "follow" icon from eye to crosshair
+   - Improved map loading speed
+   - Updated tutorial displays to include flipping
+   - Placed tools (wires, pins, etc.) glow entire red when hovered over
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
@@ -85,6 +88,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix bus serialisation issue
    - Fix pin not being deleted after a handgrenade was armed
    - Fix small memory leak involving cars, office supplies, and the decoupler
+   - Fix map selection bug
+   - Fix hoverables responding while the pause menu is open
 
 ## Removed
    - C# modding
