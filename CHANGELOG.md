@@ -16,6 +16,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fire extinguisher explodes when shot
    - Ability to make most destroyable objects indestructible
    - Ability to make placed tools (wires, pins, etc.) invisible by keybind or button toggle.
+   - Destructible spring tool
 
 ## Changed
    - Cathode lights are now adjustable and no longer have a set of coloured variants
@@ -45,6 +46,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Improved map loading speed
    - Updated tutorial displays to include flipping
    - Placed tools (wires, pins, etc.) glow entire red when hovered over
+   - Clipboard outlines are now more accurate
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
@@ -90,6 +92,8 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Fix small memory leak involving cars, office supplies, and the decoupler
    - Fix map selection bug
    - Fix hoverables responding while the pause menu is open
+   - Fix chainsaw still vibrating when destroyed
+   - Fix keys reappearing when pasting broken keyboard
 
 ## Removed
    - C# modding
