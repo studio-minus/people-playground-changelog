@@ -4,6 +4,8 @@
 
 This replaces 1.28 alpha (pre September). As many changes as possible from that version will be merged over time.
 
+Special thanks to mishanya for reporting most of these bugs!
+
 ## Added
    - Native Linux support
    - R to flip selection
@@ -15,7 +17,7 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Flamethrower explodes when shot
    - Fire extinguisher explodes when shot
    - Ability to make most destroyable objects indestructible
-   - Ability to make placed tools (wires, pins, etc.) invisible by keybind or button toggle.
+   - Ability to make placed tools (wires, pins, etc.) invisible by keybind or button toggle
    - Destructible spring tool
 
 ## Changed
@@ -47,6 +49,9 @@ This replaces 1.28 alpha (pre September). As many changes as possible from that 
    - Updated tutorial displays to include flipping
    - Placed tools (wires, pins, etc.) glow entire red when hovered over
    - Clipboard outlines are now more accurate
+   - Removed nails from wooden binding
+   - Androids no longer care about breathing
+   - "Ultra Strength" serum is a more effective and more apparent
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
