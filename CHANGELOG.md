@@ -52,6 +52,8 @@ Special thanks to mishanya for reporting most of these bugs!
    - Removed nails from wooden binding
    - Androids no longer care about breathing
    - "Ultra Strength" serum is a more effective and more apparent
+   - Computer debris now collides with other objects
+   - Sentry Turrents can explode when shot
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
@@ -64,7 +66,6 @@ Special thanks to mishanya for reporting most of these bugs!
    - Rotated objects connected by a fixed cable will keep their new rotation
    - Fix bug where an annoying permanent dialog box would show up when failing to upload a contraption
    - Fix Steam initialisation bug
-   - Fix Map selection bug
    - Fix Counter bug where it would clamp the input value incorrectly
    - Fix trees and bushes collide with themselves
    - Fix unreasonable screen shake when using the machine blaster
@@ -95,10 +96,13 @@ Special thanks to mishanya for reporting most of these bugs!
    - Fix bus serialisation issue
    - Fix pin not being deleted after a handgrenade was armed
    - Fix small memory leak involving cars, office supplies, and the decoupler
-   - Fix map selection bug
+   - Fix bug where map buttons had broken padding
+   - Fix issue with selecting maps and then clearing the chamber
    - Fix hoverables responding while the pause menu is open
    - Fix chainsaw still vibrating when destroyed
    - Fix keys reappearing when pasting broken keyboard
+   - Fix lasers not activating properly after repair
+   - Fix being able to arm explosives multiple times
 
 ## Removed
    - C# modding
