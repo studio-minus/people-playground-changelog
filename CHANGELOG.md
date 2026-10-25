@@ -54,6 +54,9 @@ Special thanks to mishanya for reporting most of these bugs!
    - "Ultra Strength" serum is a more effective and more apparent
    - Computer debris now collides with other objects
    - Sentry Turrents can explode when shot
+   - Improved accuracy of firearm automatic fire clock
+   - Slight adjustments to fire rate of various weapons
+   - Changed almost all gun sounds
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
