@@ -5,6 +5,7 @@
 This replaces 1.28 alpha (pre September). As many changes as possible from that version will be merged over time.
 
 Special thanks to mishanya for reporting most of these bugs!
+Also shoutout to zowzon and WindowsOfficial7 for helping me with firearm sfx :)
 
 ## Added
    - Native Linux support
@@ -58,6 +59,7 @@ Special thanks to mishanya for reporting most of these bugs!
    - Improved accuracy of firearm automatic fire clock
    - Slight adjustments to fire rate of various weapons
    - Changed almost all gun sounds
+   - Made soap clean gradually instead of instantly
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
@@ -107,6 +109,7 @@ Special thanks to mishanya for reporting most of these bugs!
    - Fix keys reappearing when pasting broken keyboard
    - Fix lasers not activating properly after repair
    - Fix being able to arm explosives multiple times
+   - Fix colour picker inconsistencies
 
 ## Removed
    - C# modding
