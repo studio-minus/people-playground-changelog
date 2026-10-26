@@ -19,6 +19,7 @@ Special thanks to mishanya for reporting most of these bugs!
    - Ability to make most destroyable objects indestructible
    - Ability to make placed tools (wires, pins, etc.) invisible by keybind or button toggle
    - Destructible spring tool
+   - Propeller can be muted
 
 ## Changed
    - Cathode lights are now adjustable and no longer have a set of coloured variants
