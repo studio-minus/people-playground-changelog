@@ -60,6 +60,7 @@ Also shoutout to zowzon and WindowsOfficial7 for helping me with firearm sfx :)
    - Slight adjustments to fire rate of various weapons
    - Changed almost all gun sounds
    - Made soap clean gradually instead of instantly
+   - Improvements to main information menu
 
 ## Fixed
    - Contraptions that require mods will try their hardest to load anyway
