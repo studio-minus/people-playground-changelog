@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.28] - ??? 2026
+# [1.28] - October 28 2026
 
 This replaces 1.28 alpha (pre September). As many changes as possible from that version will be merged over time.
 
