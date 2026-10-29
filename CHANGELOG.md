@@ -5,6 +5,9 @@
 ## Fixed
    - Oops forgot to disable rich text in the input dialog box thing :)
 
+## Removed
+   - Removed Arys
+
 # [1.28.33] - October 29 2026
 
 ## Changed
