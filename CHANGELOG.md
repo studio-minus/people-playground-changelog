@@ -1,5 +1,10 @@
 # Changelog
 
+# [1.28.34] - October 29 2026
+
+## Fixed
+   - Oops forgot to disable rich text in the input dialog box thing :)
+
 # [1.28.33] - October 29 2026
 
 ## Changed
@@ -7,8 +12,8 @@
    - Made fluorescent lights easier to break
 
 ## Fixed
-   - Cathode light infinite explosion bug
-   - Rotated objects connected by a fixed cable will keep their new rotation
+   - Fix cathode light infinite explosion bug
+   - Fix "rotated objects connected by a fixed cable will keep their new rotation" straight up not working
 
 ## Removed
    - Display easter eggs
