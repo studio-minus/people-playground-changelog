@@ -1,5 +1,23 @@
 # Changelog
 
+# [1.28.33] - October 29 2026
+
+## Changed
+   - Displays and holograms now have rich text support
+   - Made fluorescent lights easier to break
+
+## Fixed
+   - Cathode light infinite explosion bug
+   - Rotated objects connected by a fixed cable will keep their new rotation
+
+## Removed
+   - Display easter eggs
+
+# [1.28.32] - October 28 2026
+
+## Fixed
+   - Linux text rendering issue
+
 # [1.28] - October 28 2026
 
 This replaces 1.28 alpha (pre September). As many changes as possible from that version will be merged over time.
@@ -55,7 +73,7 @@ Also shoutout to zowzon and WindowsOfficial7 for helping me with firearm sfx :)
    - Androids no longer care about breathing
    - "Ultra Strength" serum is a more effective and more apparent
    - Computer debris now collides with other objects
-   - Sentry Turrents can explode when shot
+   - Sentry Turrets can explode when shot
    - Improved accuracy of firearm automatic fire clock
    - Slight adjustments to fire rate of various weapons
    - Changed almost all gun sounds
