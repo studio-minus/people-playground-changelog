@@ -79,7 +79,7 @@ Also shoutout to zowzon and WindowsOfficial7 for helping me with firearm sfx :)
    - Clipboard outlines are now more accurate
    - Removed nails from wooden binding
    - Androids no longer care about breathing
-   - "Ultra Strength" serum is a more effective and more apparent
+   - "Ultra Strength" serum is more effective and more apparent
    - Computer debris now collides with other objects
    - Sentry Turrets can explode when shot
    - Improved accuracy of firearm automatic fire clock
