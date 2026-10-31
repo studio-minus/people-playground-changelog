@@ -1,5 +1,9 @@
 # Changelog
 
+# [1.28.37] - October 31 2026 👻
+
+   - Fix weird text bug (again)
+
 # [1.28.36] - October 31 2026 👻
 
 ## Fixed
