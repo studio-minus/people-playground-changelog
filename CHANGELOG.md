@@ -1,5 +1,10 @@
 # Changelog
 
+# [1.28.36] - October 31 2026 👻
+
+## Fixed
+   - Fix physical property transfer bug haha oops
+
 # [1.28.35] - October 31 2026 👻
 
 ## Fixed
