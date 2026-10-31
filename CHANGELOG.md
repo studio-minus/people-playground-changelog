@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.28.35] - October 31 2026 👻
+
+## Fixed
+   - Improved thruster collision shape
+   - Reduced text rendering artifacts
+   - Minor performance improvements
+   - Improved reliability of physical property transfer processes
+   - Fix piston resize & flip issue
+
+## Removed
+   - `OnCollisionStayBuffer` and associated members
+
 # [1.28.34] - October 29 2026
 
 ## Fixed
