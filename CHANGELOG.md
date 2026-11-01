@@ -1,7 +1,19 @@
 # Changelog
 
+# [1.28.38] - November 1 2026
+
+## Changed
+   - Improved appearance and behaviour of metal scraping particles
+
+## Fixed
+   - Fix slow loading times
+   - Fix strange floaty physics issue
+   - Fix scraping particle staying when it shouldn't
+   - Fix some characters not being available in various fonts
+
 # [1.28.37] - October 31 2026 👻
 
+## Fixed
    - Fix weird text bug (again)
 
 # [1.28.36] - October 31 2026 👻
