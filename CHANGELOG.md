@@ -7,6 +7,8 @@
    - Performance improvements for thumbnail generation
    - Fix thumbnail positioning
    - Fixed UI sounds being all echoey sometimes
+   - Fix propeller & fan bug where they keep spinning if destroyed
+   - Fix a memory leak 
 
 # [1.28.38] - November 1 2026
 
