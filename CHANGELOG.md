@@ -1,5 +1,13 @@
 # Changelog
 
+# [1.28.39] - November 2 2026
+
+## Fixed
+   - Performance improvements to do with saving/loading
+   - Performance improvements for thumbnail generation
+   - Fix thumbnail positioning
+   - Fixed UI sounds being all echoey sometimes
+
 # [1.28.38] - November 1 2026
 
 ## Changed
