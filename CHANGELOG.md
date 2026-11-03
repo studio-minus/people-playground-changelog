@@ -1,5 +1,10 @@
 # Changelog
 
+# [1.28.40] - November 3 2026
+
+## Fixed
+   - Modded contraptions loading in without wires 
+
 # [1.28.39] - November 2 2026
 
 ## Fixed
