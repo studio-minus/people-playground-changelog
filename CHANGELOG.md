@@ -1,5 +1,13 @@
 # Changelog
 
+# [1.28.41] - November 3 2026
+
+## Fixed
+   - More speed improvements (thanks mishanya again)
+
+## Removed
+   - ��￼ ��
+
 # [1.28.40] - November 3 2026
 
 ## Fixed
