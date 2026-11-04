@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.28.42] - November ?? 2026
+
+## Fixed
+   - Fix paste & load outline mixup bug
+
+
 # [1.28.41] - November 3 2026
 
 ## Fixed
