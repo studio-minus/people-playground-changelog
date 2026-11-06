@@ -1,10 +1,21 @@
 # Changelog
 
-# [1.28.42] - November ?? 2026
+# [1.28.42] - November 6 2026
+
+## Added
+   - Selection priority override to hands
+   - More liquids
+
+## Changed
+   - Minor changes to some parts of the UI
+   - Bandages get soaked with the colour of the liquid exiting the wound it's covering up
 
 ## Fixed
    - Fix paste & load outline mixup bug
+   - Blinking things not blinking when time is stopped ⏳
 
+## Removed
+   - Unused systems
 
 # [1.28.41] - November 3 2026
 
