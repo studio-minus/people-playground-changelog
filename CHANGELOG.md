@@ -1,5 +1,10 @@
 # Changelog
 
+# [1.28.43] - November 7 2026
+
+## Fixed
+   - Everything being corrupted forever
+
 # [1.28.42] - November 6 2026
 
 ## Added
