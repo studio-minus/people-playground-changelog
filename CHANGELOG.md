@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.28.44] - November 7 2026
+
+## Fixed
+   - Fix inability to box select more than 16 objects
+   - Performance improvements
+
 # [1.28.43] - November 7 2026
 
 ## Fixed
