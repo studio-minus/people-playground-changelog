@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.28.45] - November 8 2026
+
+## Added
+   - Buzzer
+
+## Changed
+   - The thruster, mini thruster, and thrusterbed are less affected by electricity
+
+## Fixed
+   - Fix life draining bug
+
+
 # [1.28.44] - November 7 2026
 
 ## Fixed
