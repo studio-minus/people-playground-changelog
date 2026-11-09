@@ -1,5 +1,14 @@
 # Changelog
 
+# [1.28.46] - November 9 2026
+
+## Changed
+   - Slight changes to UI text appearance
+   - Changed how Buzzers store information
+
+## Fixed
+   - Fix file picker dialog not working properly
+
 # [1.28.45] - November 8 2026
 
 ## Added
