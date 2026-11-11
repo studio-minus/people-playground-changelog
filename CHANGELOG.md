@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.28.47] - November 11 2026 HELLLOOOO WEBHOOOOOK
+# [1.28.47] - November 11 2026
 
 Disclaimer: hey man, im really tired and also a dumbass so 
             you might find that this build has issues (i made it in my image)
@@ -22,6 +22,8 @@ Disclaimer: hey man, im really tired and also a dumbass so
    - Fix file picker dialog not working at all on the Steam Linux Runtime
    - Fix invisible stuff still showing decals
    - Restored accidentally removed reverb lol
+
+   me when THe when the wme eur uasief 9awjd
 
 # [1.28.46] - November 9 2026
 
