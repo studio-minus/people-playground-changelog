@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.28.47] - November 11 2026
+
+## Added
+   - Slashing (uhh.. experimental)
+
+## Changed
+   - Crystals now count as debris
+
+## Fixed
+   - Fix buzzer sound length limit bypass
+   - Fix file picker dialog not working at all on the Steam Linux Runtime
+
 # [1.28.46] - November 9 2026
 
 ## Changed
