@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.28.47] - November 11 2026
+# [1.28.47] - November 11 2026 HELLLOOOO WEBHOOOOOK
 
 Disclaimer: hey man, im really tired and also a dumbass so 
             you might find that this build has issues (i made it in my image)
