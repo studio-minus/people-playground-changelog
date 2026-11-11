@@ -2,15 +2,26 @@
 
 # [1.28.47] - November 11 2026
 
+Disclaimer: hey man, im really tired and also a dumbass so 
+            you might find that this build has issues (i made it in my image)
+
 ## Added
    - Slashing (uhh.. experimental)
+   - Drippy liquid particles when slashy objects enter a liquid container
+      - I'm not sure if this should also happen when you "stab" something classic-style... 
 
 ## Changed
-   - Crystals now count as debris
+   - Crystals and crossbow bolts now count as debris
+   - Increased volume of dripping sounds again
+   - Glass shards are sharp no matter the angle of impact
+   - Bleeding particles look slightly different, but are faster to draw :)
+   - Increased mass of adhesive coupler (4kg to 32kg)
 
 ## Fixed
    - Fix buzzer sound length limit bypass
    - Fix file picker dialog not working at all on the Steam Linux Runtime
+   - Fix invisible stuff still showing decals
+   - Restored accidentally removed reverb lol
 
 # [1.28.46] - November 9 2026
 
