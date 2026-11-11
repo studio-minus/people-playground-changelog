@@ -5,7 +5,7 @@
 Disclaimer: hey man, im really tired and also a dumbass so 
             you might find that this build has issues (i made it in my image)
 
-Disclaimer 2: yeah so linux file picking still doesnt work Apologies for my incompetence i keep making it worse
+Disclaimer 2: yeah so linux file picking still doesnt work Apologies for my incompetence i keep making it worse 
 
 ## Added
    - Slashing (uhh.. experimental)
