@@ -5,6 +5,8 @@
 Disclaimer: hey man, im really tired and also a dumbass so 
             you might find that this build has issues (i made it in my image)
 
+Disclaimer 2: yeah so linux file picking still doesnt work Apologies for my incompetence i keep making it worse
+
 ## Added
    - Slashing (uhh.. experimental)
    - Drippy liquid particles when slashy objects enter a liquid container
@@ -22,8 +24,6 @@ Disclaimer: hey man, im really tired and also a dumbass so
    - Fix file picker dialog not working at all on the Steam Linux Runtime
    - Fix invisible stuff still showing decals
    - Restored accidentally removed reverb lol
-
-   me when THe when the wme eur uasief 9awjd
 
 # [1.28.46] - November 9 2026
 
