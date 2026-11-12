@@ -5,6 +5,8 @@
 ## Fixed
    - Fix how slashes are preserved after load/paste
    - Fix slashing one thing multiple times
+   - Fix a typo 
+   - Fix attachments not saving somehow
 
 # [1.28.47] - November 11 2026
 
