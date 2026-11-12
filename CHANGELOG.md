@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.28.48] - November 12 2026
+
+## Fixed
+   - Fix how slashes are preserved after load/paste
+   - Fix slashing one thing multiple times
+
 # [1.28.47] - November 11 2026
 
 Disclaimer: hey man, im really tired and also a dumbass so 
