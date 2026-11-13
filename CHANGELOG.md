@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.28.49] - November 13 2026
+
+## Added
+   - Speedometer
+
+## Changed
+   - Impact particles on slash
+   - Axe no longer has a sharp backside
+
+## Fixed
+   - Fix slash deserialisation
+
 # [1.28.48] - November 12 2026
 
 ## Fixed
