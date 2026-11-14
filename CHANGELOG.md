@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.28.51] - November 14 2026
+
+## Added 
+   - Slight glistening effect to various materials
+   - Helpful guide for crossbow syringe attachment in Detail view
+
+## Fixed
+   - Fix crossbow syringe not being ejected in the right direction
+   - Fix crossbow syringe having collision
+   - Fix crossbow syringe still being grippable
+   - Fix crossbow syringe pause mode drag stuff
+
 # [1.28.50] - November 14 2026
 
 ## Added
@@ -92,7 +104,7 @@ Disclaimer 2: yeah so linux file picking still doesnt work Apologies for my inco
 
 ## Added
    - Selection priority override to hands
-   - More liquids
+   - Three new liquids
 
 ## Changed
    - Minor changes to some parts of the UI
