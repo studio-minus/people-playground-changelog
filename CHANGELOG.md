@@ -1,5 +1,16 @@
 # Changelog
 
+# [1.28.50] - November 14 2026
+
+## Added
+   - Syringes can be slotted on top of crossbows
+
+## Changed
+   - Only _launched_ projectiles now count as debris
+
+## Fixed
+   - Minor issues
+
 # [1.28.49] - November 13 2026
 
 ## Added
