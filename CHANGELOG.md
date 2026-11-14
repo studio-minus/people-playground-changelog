@@ -11,6 +11,8 @@
    - Fix crossbow syringe having collision
    - Fix crossbow syringe still being grippable
    - Fix crossbow syringe pause mode drag stuff
+   - Performance improvements for life draining again
+   - Fixed one (1) misplaced pixel in a wheel texture
 
 # [1.28.50] - November 14 2026
 
