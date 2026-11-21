@@ -1,5 +1,14 @@
 # Changelog
 
+# [1.28.53] - November 21 2026
+
+## Changed
+   - More muzzle flash effects
+   - Bazooka vfx no longer require Fancy Effects to be enabled
+
+## Fixed
+   - Attempt two billion in fixing the file picker in Steam Linux Runtime
+
 # [1.28.52] - November 21 2026
 
 ## Changed
