@@ -1,5 +1,14 @@
 # Changelog
 
+# [1.28.52] - November 21 2026
+
+## Changed
+   - Muzzle flash effects
+
+## Fixed
+   - Sharpness-related crash
+   - Television serialisation bug
+
 # [1.28.51] - November 15 2026
 
 ## Added 
