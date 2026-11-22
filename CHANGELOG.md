@@ -1,5 +1,14 @@
 # Changelog
 
+# [1.28.54] - November 22 2026
+
+## Added
+   - Grenade launcher muzzle flash
+
+## Changed
+   - New fire effect
+   - Improved performance of fire
+
 # [1.28.53] - November 21 2026
 
 ## Changed
