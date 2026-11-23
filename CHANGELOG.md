@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.28.55] - November 23 2026
+
+## Changed
+   - Changed fire effect again
+   - Fire spreads faster on larger objects
+   - Skin does the crispy burn thing when it burns off (idk what to call it)
+
 # [1.28.54] - November 22 2026
 
 ## Added
