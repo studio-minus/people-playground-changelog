@@ -1,5 +1,15 @@
 # Changelog
 
+# [1.28.56] - November 24 2026
+
+## Changed
+   - Slight improvements to broken machinery texture
+   - Slashing needs more force to engage
+
+## Fixed
+   - Fix broken machinery damage map not being unique in specific cases
+   - Fix broken machinery texture not tiling correctly
+
 # [1.28.55] - November 23 2026
 
 ## Changed
