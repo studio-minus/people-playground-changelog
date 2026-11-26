@@ -1,5 +1,17 @@
 # Changelog
 
+# [1.28.57] - November 25 2026
+
+## Added
+   - `OnEnvironmentSettingsChange` mod event
+   - Ability to change energy sword colour
+
+## Fixed
+   - Fix scrape particles emitting even when the tangential relative velocity is small
+   - Fix LED set colour bug
+   - Improved rendering performance for humans and fire
+
+
 # [1.28.56] - November 24 2026
 
 ## Changed
