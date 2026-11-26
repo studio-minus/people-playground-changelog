@@ -1,6 +1,6 @@
 # Changelog
 
-# [1.28.57] - November 25 2026
+# [1.28.57] - November 26 2026
 
 ## Added
    - `OnEnvironmentSettingsChange` mod event
