@@ -9,6 +9,7 @@
 ## Fixed
    - Fix scrape particles emitting even when the tangential relative velocity is small
    - Fix LED set colour bug
+   - Fix pitch black darkness hellscape bug that happens sometimes on Linux
    - Improved rendering performance for humans and fire
 
 
