@@ -1,5 +1,11 @@
 # Changelog
 
+# [1.28.59] - November 27 2026
+
+## Changed 
+   - Lowered heat production for Detached 30mm HEAT Cannon
+   - Default impact effect
+
 # [1.28.58] - November 27 2026
 
 ## Added
