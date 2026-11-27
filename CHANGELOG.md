@@ -1,5 +1,19 @@
 # Changelog
 
+# [1.28.58] - November 27 2026
+
+## Added
+   - More appropriate muzzle flash for cannons
+   - Barrel smoke for tank cannon and 120mm cannon
+
+## Changed
+   - Some cannons now heat up when shot
+   - Increased 120mm cannon recoil
+
+## Fixed
+   - Performance improvements for explosives
+   - Fix explosive `CanExplodeMultipleTimes` bug where it could only explode once
+
 # [1.28.57] - November 26 2026
 
 ## Added
